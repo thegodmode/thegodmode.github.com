@@ -134,6 +134,9 @@
   color: #C72D2F;
   text-decoration: none;
 }
+#wrapper > div div a:hover {
+  text-decoration: underline;
+}
 #wrapper > div div a span {
   text-transform: uppercase;
 }
