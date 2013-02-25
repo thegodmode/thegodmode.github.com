@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\17.PrintDate\bin\Debug\17.PrintDate.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\17.PrintDate\bin\Debug\17.PrintDate.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\17.PrintDate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\17.PrintDate\obj\x86\Debug\17.PrintDate.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\17.PrintDate\obj\x86\Debug\17.PrintDate.pdb

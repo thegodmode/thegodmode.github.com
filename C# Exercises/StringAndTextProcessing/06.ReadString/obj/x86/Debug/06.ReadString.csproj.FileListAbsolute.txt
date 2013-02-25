@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\06.ReadString\bin\Debug\06.ReadString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\06.ReadString\bin\Debug\06.ReadString.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\06.ReadString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\06.ReadString\obj\x86\Debug\06.ReadString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\06.ReadString\obj\x86\Debug\06.ReadString.pdb

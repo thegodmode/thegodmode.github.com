@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="87d9764c-8b73-475b-a94c-a99fb611f7f6">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>C:\Users\Bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\3DMaxWalk\MaxWalk.cs</Path>
+        <ProjectFullName>C:\Users\Bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\3DMaxWalk\3DMaxWalk.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>49</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>106</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>37</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>150</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>32</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>153</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>28</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>146</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>54</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>112</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>59</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>131</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>22</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>118</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>29</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>131</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>9</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>95</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>30</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>99</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>28</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>124</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>57</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>150</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>64</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>122</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>53</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>153</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>46</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>148</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>36</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>122</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>35</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>128</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>20</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>153</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>43</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>103</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>26</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>126</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>20</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>131</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>12</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>134</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>60</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>134</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>22</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>140</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>144</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>63</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>128</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>12</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>112</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>26</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>148</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>40</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>95</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>61</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>105</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>12</Column>
+          <Text>Expected &lt;/C&gt;Cell&lt;//C&gt;</Text>
+          <Line>59</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>9</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>106</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>46</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>126</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>9</Column>
+          <Text>Unknown type &lt;/C&gt;Position&lt;//C&gt;</Text>
+          <Line>105</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>58</Column>
+          <Text>Unknown type of variable &lt;/C&gt;currentPosition&lt;//C&gt;</Text>
+          <Line>144</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

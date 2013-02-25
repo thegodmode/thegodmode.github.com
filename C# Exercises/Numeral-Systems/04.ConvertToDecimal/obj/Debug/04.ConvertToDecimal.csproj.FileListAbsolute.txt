@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\bin\Debug\04.ConvertToDecimal.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\bin\Debug\04.ConvertToDecimal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\bin\Debug\04.ConvertToDecimal.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\obj\Debug\04.ConvertToDecimal.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\obj\Debug\04.ConvertToDecimal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\04.ConvertToDecimal\obj\Debug\04.ConvertToDecimal.pdb

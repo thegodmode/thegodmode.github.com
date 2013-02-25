@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\bin\Debug\KukataIsDancing1.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\bin\Debug\KukataIsDancing1.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\bin\Debug\KukataIsDancing1.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\obj\Debug\KukataIsDancing1.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\obj\Debug\KukataIsDancing1.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\KukataIsDancing1\obj\Debug\KukataIsDancing1.pdb

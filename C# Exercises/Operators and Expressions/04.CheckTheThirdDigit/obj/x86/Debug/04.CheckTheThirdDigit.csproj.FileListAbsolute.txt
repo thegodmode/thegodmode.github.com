@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\04.CheckTheThirdDigit\bin\Debug\04.CheckTheThirdDigit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\04.CheckTheThirdDigit\bin\Debug\04.CheckTheThirdDigit.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\04.CheckTheThirdDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\04.CheckTheThirdDigit\obj\x86\Debug\04.CheckTheThirdDigit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\04.CheckTheThirdDigit\obj\x86\Debug\04.CheckTheThirdDigit.pdb

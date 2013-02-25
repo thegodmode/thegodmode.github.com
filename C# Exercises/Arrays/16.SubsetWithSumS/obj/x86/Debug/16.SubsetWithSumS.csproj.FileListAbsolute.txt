@@ -1,0 +1,9 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\16.SubsetWithSumS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\16.SubsetWithSumS\obj\x86\Debug\16.SubsetWithSumS.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\16.SubsetWithSumS\obj\x86\Debug\16.SubsetWithSumS.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\16.SubsetWithSumS\obj\x86\Debug\16.SubsetWithSumS.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\16.SubsetWithSumS\obj\x86\Debug\16.SubsetWithSumS.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb

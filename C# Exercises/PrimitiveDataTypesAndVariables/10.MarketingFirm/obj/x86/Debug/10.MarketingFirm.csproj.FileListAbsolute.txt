@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\bin\Debug\10.MarketingFirm.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\bin\Debug\10.MarketingFirm.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\x86\Debug\10.MarketingFirm.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\x86\Debug\10.MarketingFirm.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\x86\Debug\10.MarketingFirm.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\x86\Debug\10.MarketingFirm.pdb

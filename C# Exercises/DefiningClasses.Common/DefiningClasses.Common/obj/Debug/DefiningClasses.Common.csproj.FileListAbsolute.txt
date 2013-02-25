@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\CSS 31.01.2013\DefiningClasses\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CSS 31.01.2013\DefiningClasses\DefiningClasses.Common\bin\Debug\DefiningClasses.Common.dll
+C:\Users\student\Desktop\CSS 31.01.2013\DefiningClasses\DefiningClasses.Common\bin\Debug\DefiningClasses.Common.pdb
+C:\Users\student\Desktop\CSS 31.01.2013\DefiningClasses\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.dll
+C:\Users\student\Desktop\CSS 31.01.2013\DefiningClasses\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\DefiningClasses.Common\obj\Debug\DefiningClasses.Common.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\DefiningClasses.Common\bin\Debug\DefiningClasses.Common.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\DefiningClasses.Common\bin\Debug\DefiningClasses.Common.pdb

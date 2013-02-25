@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\01.PrintMatrixN\bin\Debug\01.PrintMatrixN.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\01.PrintMatrixN\bin\Debug\01.PrintMatrixN.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\01.PrintMatrixN.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\01.PrintMatrixN.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\01.PrintMatrixN.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\01.PrintMatrixN.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\01.PrintMatrixN\bin\Debug\01.PrintMatrixN.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\01.PrintMatrixN\bin\Debug\01.PrintMatrixN.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\01.PrintMatrixN\obj\x86\Debug\01.PrintMatrixN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\07.EncodeAndDecodeString\bin\Debug\07.EncodeAndDecodeString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\07.EncodeAndDecodeString\bin\Debug\07.EncodeAndDecodeString.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\07.EncodeAndDecodeString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\07.EncodeAndDecodeString\obj\x86\Debug\07.EncodeAndDecodeString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\07.EncodeAndDecodeString\obj\x86\Debug\07.EncodeAndDecodeString.pdb

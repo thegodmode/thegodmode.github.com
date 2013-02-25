@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Debug\TestPathStorage.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\obj\Debug\TestPathStorage.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Debug\TestPathStorage.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Debug\TestPathStorage.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\obj\Debug\TestPathStorage.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\obj\Debug\TestPathStorage.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Debug\Common.Classes.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Debug\Common.Classes.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\05.CheckTheThirdBit\bin\Debug\05.CheckTheThirdBit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\05.CheckTheThirdBit\bin\Debug\05.CheckTheThirdBit.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\05.CheckTheThirdBit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\05.CheckTheThirdBit\obj\x86\Debug\05.CheckTheThirdBit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\05.CheckTheThirdBit\obj\x86\Debug\05.CheckTheThirdBit.pdb

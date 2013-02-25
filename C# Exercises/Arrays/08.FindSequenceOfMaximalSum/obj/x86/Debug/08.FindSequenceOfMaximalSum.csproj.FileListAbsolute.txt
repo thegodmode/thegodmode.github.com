@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\08.FindSequenceOfMaximalSum\bin\Debug\08.FindSequenceOfMaximalSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\08.FindSequenceOfMaximalSum\bin\Debug\08.FindSequenceOfMaximalSum.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\08.FindSequenceOfMaximalSum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\08.FindSequenceOfMaximalSum\obj\x86\Debug\08.FindSequenceOfMaximalSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\08.FindSequenceOfMaximalSum\obj\x86\Debug\08.FindSequenceOfMaximalSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\08.FindSequenceOfMaximalSum\obj\x86\Debug\08.FindSequenceOfMaximalSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\08.FindSequenceOfMaximalSum\obj\x86\Debug\08.FindSequenceOfMaximalSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\08.FindSequenceOfMaximalSum\bin\Debug\08.FindSequenceOfMaximalSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\08.FindSequenceOfMaximalSum\bin\Debug\08.FindSequenceOfMaximalSum.pdb

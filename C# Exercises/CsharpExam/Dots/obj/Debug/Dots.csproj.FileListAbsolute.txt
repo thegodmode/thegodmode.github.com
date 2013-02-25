@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\bin\Debug\Dots.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\bin\Debug\Dots.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\bin\Debug\Dots.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\obj\Debug\Dots.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\obj\Debug\Dots.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Dots\obj\Debug\Dots.pdb

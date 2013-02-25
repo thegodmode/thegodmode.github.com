@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NNestedLoops", "01.NNestedLoops\01.NNestedLoops.csproj", "{21A6F707-062B-445B-8D57-B7050D7D6578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenerateAllCombinations", "02.GenerateAllCombinations\02.GenerateAllCombinations.csproj", "{32935AB2-D575-4447-BEF4-1753E3D357BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Variations", "04.Variations\04.Variations.csproj", "{03BC1A95-EEA6-4FE8-A2A9-088FD05928F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AllSubsetInSetOfStrings", "05.AllSubsetInSetOfStrings\05.AllSubsetInSetOfStrings.csproj", "{D10A9A96-C5EA-463A-924F-DCC55D9B4BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FindAllPathsInMatrix", "06.FindAllPathsInMatrix\06.FindAllPathsInMatrix.csproj", "{05A71FE5-845D-48C8-8CD5-911E2B0EB1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.IsPathExist", "07.IsPathExist\07.IsPathExist.csproj", "{7D191046-3C4C-4B63-B83D-D1C0053AD529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.BFSShortestPath", "09.BFSShortestPath\09.BFSShortestPath.csproj", "{D1FA9545-360A-4178-BC74-29D0A111E2E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A6F707-062B-445B-8D57-B7050D7D6578}.Debug|x86.ActiveCfg = Debug|x86
+		{21A6F707-062B-445B-8D57-B7050D7D6578}.Debug|x86.Build.0 = Debug|x86
+		{21A6F707-062B-445B-8D57-B7050D7D6578}.Release|x86.ActiveCfg = Release|x86
+		{21A6F707-062B-445B-8D57-B7050D7D6578}.Release|x86.Build.0 = Release|x86
+		{32935AB2-D575-4447-BEF4-1753E3D357BB}.Debug|x86.ActiveCfg = Debug|x86
+		{32935AB2-D575-4447-BEF4-1753E3D357BB}.Debug|x86.Build.0 = Debug|x86
+		{32935AB2-D575-4447-BEF4-1753E3D357BB}.Release|x86.ActiveCfg = Release|x86
+		{32935AB2-D575-4447-BEF4-1753E3D357BB}.Release|x86.Build.0 = Release|x86
+		{03BC1A95-EEA6-4FE8-A2A9-088FD05928F6}.Debug|x86.ActiveCfg = Debug|x86
+		{03BC1A95-EEA6-4FE8-A2A9-088FD05928F6}.Debug|x86.Build.0 = Debug|x86
+		{03BC1A95-EEA6-4FE8-A2A9-088FD05928F6}.Release|x86.ActiveCfg = Release|x86
+		{03BC1A95-EEA6-4FE8-A2A9-088FD05928F6}.Release|x86.Build.0 = Release|x86
+		{D10A9A96-C5EA-463A-924F-DCC55D9B4BBC}.Debug|x86.ActiveCfg = Debug|x86
+		{D10A9A96-C5EA-463A-924F-DCC55D9B4BBC}.Debug|x86.Build.0 = Debug|x86
+		{D10A9A96-C5EA-463A-924F-DCC55D9B4BBC}.Release|x86.ActiveCfg = Release|x86
+		{D10A9A96-C5EA-463A-924F-DCC55D9B4BBC}.Release|x86.Build.0 = Release|x86
+		{05A71FE5-845D-48C8-8CD5-911E2B0EB1BA}.Debug|x86.ActiveCfg = Debug|x86
+		{05A71FE5-845D-48C8-8CD5-911E2B0EB1BA}.Debug|x86.Build.0 = Debug|x86
+		{05A71FE5-845D-48C8-8CD5-911E2B0EB1BA}.Release|x86.ActiveCfg = Release|x86
+		{05A71FE5-845D-48C8-8CD5-911E2B0EB1BA}.Release|x86.Build.0 = Release|x86
+		{7D191046-3C4C-4B63-B83D-D1C0053AD529}.Debug|x86.ActiveCfg = Debug|x86
+		{7D191046-3C4C-4B63-B83D-D1C0053AD529}.Debug|x86.Build.0 = Debug|x86
+		{7D191046-3C4C-4B63-B83D-D1C0053AD529}.Release|x86.ActiveCfg = Release|x86
+		{7D191046-3C4C-4B63-B83D-D1C0053AD529}.Release|x86.Build.0 = Release|x86
+		{D1FA9545-360A-4178-BC74-29D0A111E2E9}.Debug|x86.ActiveCfg = Debug|x86
+		{D1FA9545-360A-4178-BC74-29D0A111E2E9}.Debug|x86.Build.0 = Debug|x86
+		{D1FA9545-360A-4178-BC74-29D0A111E2E9}.Release|x86.ActiveCfg = Release|x86
+		{D1FA9545-360A-4178-BC74-29D0A111E2E9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

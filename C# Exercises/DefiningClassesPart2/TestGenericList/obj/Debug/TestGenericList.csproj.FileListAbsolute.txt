@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\bin\Debug\TestGenericList.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\bin\Debug\TestGenericList.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\bin\Debug\TestGenericList.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\bin\Debug\Common.Classes.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\bin\Debug\Common.Classes.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\obj\Debug\TestGenericList.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\obj\Debug\TestGenericList.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestGenericList\obj\Debug\TestGenericList.pdb

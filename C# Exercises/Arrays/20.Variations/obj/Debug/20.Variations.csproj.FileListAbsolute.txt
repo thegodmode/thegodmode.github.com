@@ -1,0 +1,6 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\bin\Debug\20.Variations.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\bin\Debug\20.Variations.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\bin\Debug\20.Variations.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\obj\Debug\20.Variations.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\obj\Debug\20.Variations.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\20.Variations\obj\Debug\20.Variations.pdb

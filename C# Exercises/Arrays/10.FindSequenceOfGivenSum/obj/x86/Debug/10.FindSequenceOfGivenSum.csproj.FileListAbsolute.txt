@@ -1,0 +1,10 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\10.FindSequenceOfGivenSum\obj\x86\Debug\10.FindSequenceOfGivenSum.csprojResolveAssemblyReference.cache

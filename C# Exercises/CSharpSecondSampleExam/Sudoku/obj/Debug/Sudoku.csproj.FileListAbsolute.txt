@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\bin\Debug\Sudoku.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\bin\Debug\Sudoku.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\bin\Debug\Sudoku.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\obj\Debug\Sudoku.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Sudoku\obj\Debug\Sudoku.pdb

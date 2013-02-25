@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\02.CompareArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\02.CompareArrays\obj\x86\Debug\02.CompareArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\02.CompareArrays\obj\x86\Debug\02.CompareArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\02.CompareArrays\obj\x86\Debug\02.CompareArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\02.CompareArrays\obj\x86\Debug\02.CompareArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\02.CompareArrays\obj\x86\Debug\02.CompareArrays.csprojResolveAssemblyReference.cache

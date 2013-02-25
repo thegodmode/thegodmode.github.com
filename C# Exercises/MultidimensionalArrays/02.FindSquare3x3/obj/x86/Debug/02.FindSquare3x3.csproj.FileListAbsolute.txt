@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\02.FindSquare3x3\bin\Debug\02.FindSquare3x3.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\02.FindSquare3x3\bin\Debug\02.FindSquare3x3.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\02.FindSquare3x3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\02.FindSquare3x3\obj\x86\Debug\02.FindSquare3x3.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\02.FindSquare3x3\obj\x86\Debug\02.FindSquare3x3.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02.FindSquare3x3\obj\x86\Debug\02.FindSquare3x3.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02.FindSquare3x3\obj\x86\Debug\02.FindSquare3x3.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02.FindSquare3x3\bin\Debug\02.FindSquare3x3.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02.FindSquare3x3\bin\Debug\02.FindSquare3x3.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\02.ReadANumber\bin\Debug\02.ReadANumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\02.ReadANumber\bin\Debug\02.ReadANumber.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\02.ReadANumber\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\02.ReadANumber\obj\x86\Debug\02.ReadANumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\02.ReadANumber\obj\x86\Debug\02.ReadANumber.pdb

@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\04.MaximalSequenceInArray\bin\Debug\04.MaximalSequenceInArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\04.MaximalSequenceInArray\bin\Debug\04.MaximalSequenceInArray.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\04.MaximalSequenceInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\04.MaximalSequenceInArray\obj\x86\Debug\04.MaximalSequenceInArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\04.MaximalSequenceInArray\obj\x86\Debug\04.MaximalSequenceInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\04.MaximalSequenceInArray\obj\x86\Debug\04.MaximalSequenceInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\04.MaximalSequenceInArray\obj\x86\Debug\04.MaximalSequenceInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\04.MaximalSequenceInArray\bin\Debug\04.MaximalSequenceInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\04.MaximalSequenceInArray\bin\Debug\04.MaximalSequenceInArray.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\03MinAndMaxNumber\bin\Debug\03MinAndMaxNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\03MinAndMaxNumber\bin\Debug\03MinAndMaxNumber.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\03MinAndMaxNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\03MinAndMaxNumber\obj\x86\Debug\03MinAndMaxNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\03MinAndMaxNumber\obj\x86\Debug\03MinAndMaxNumber.pdb

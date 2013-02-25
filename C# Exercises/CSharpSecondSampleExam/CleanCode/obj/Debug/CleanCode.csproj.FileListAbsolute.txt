@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\bin\Debug\CleanCode.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\bin\Debug\CleanCode.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\bin\Debug\CleanCode.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\obj\Debug\CleanCode.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\obj\Debug\CleanCode.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\CleanCode\obj\Debug\CleanCode.pdb

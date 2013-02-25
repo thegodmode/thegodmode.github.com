@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\16.CalculateDateDistance\bin\Debug\16.CalculateDateDistance.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\16.CalculateDateDistance\bin\Debug\16.CalculateDateDistance.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\16.CalculateDateDistance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\16.CalculateDateDistance\obj\x86\Debug\16.CalculateDateDistance.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\16.CalculateDateDistance\obj\x86\Debug\16.CalculateDateDistance.pdb

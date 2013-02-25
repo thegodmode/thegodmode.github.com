@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Least Majority Multiple\obj\Debug\Least Majority Multiple.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Least Majority Multiple\obj\Debug\Least Majority Multiple.pdb

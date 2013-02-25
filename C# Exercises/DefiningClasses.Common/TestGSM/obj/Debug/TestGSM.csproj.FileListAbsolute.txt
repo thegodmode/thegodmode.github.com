@@ -1,0 +1,8 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\bin\Debug\TestGSM.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\bin\Debug\TestGSM.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\bin\Debug\TestGSM.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\bin\Debug\DefiningClasses.Common.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\bin\Debug\DefiningClasses.Common.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\obj\Debug\TestGSM.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\obj\Debug\TestGSM.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\TestGSM\obj\Debug\TestGSM.pdb

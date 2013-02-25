@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\06.CreateMatrixClass\bin\Debug\06.CreateMatrixClass.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\06.CreateMatrixClass\bin\Debug\06.CreateMatrixClass.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\06.CreateMatrixClass\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\06.CreateMatrixClass\obj\x86\Debug\06.CreateMatrixClass.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\06.CreateMatrixClass\obj\x86\Debug\06.CreateMatrixClass.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06.CreateMatrixClass\obj\x86\Debug\06.CreateMatrixClass.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06.CreateMatrixClass\obj\x86\Debug\06.CreateMatrixClass.pdb

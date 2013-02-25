@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\06.IsMale\bin\Debug\06.IsMale.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\06.IsMale\bin\Debug\06.IsMale.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\06.IsMale\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\06.IsMale\obj\x86\Debug\06.IsMale.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\06.IsMale\obj\x86\Debug\06.IsMale.pdb

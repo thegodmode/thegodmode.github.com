@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\01.ExchangeValues\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\01.ExchangeValues\bin\Debug\01.ExchangeValues.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\01.ExchangeValues\bin\Debug\01.ExchangeValues.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\01.ExchangeValues\obj\x86\Debug\01.ExchangeValues.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\01.ExchangeValues\obj\x86\Debug\01.ExchangeValues.pdb

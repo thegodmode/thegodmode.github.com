@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\06.FindAllPathsInMatrix\bin\Debug\06.FindAllPathsInMatrix.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\06.FindAllPathsInMatrix\bin\Debug\06.FindAllPathsInMatrix.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\06.FindAllPathsInMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\06.FindAllPathsInMatrix\obj\x86\Debug\06.FindAllPathsInMatrix.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\06.FindAllPathsInMatrix\obj\x86\Debug\06.FindAllPathsInMatrix.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\06.FindAllPathsInMatrix\obj\x86\Debug\06.FindAllPathsInMatrix.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\06.FindAllPathsInMatrix\obj\x86\Debug\06.FindAllPathsInMatrix.pdb

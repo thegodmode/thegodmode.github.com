@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\bin\Debug\FakeText.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\bin\Debug\FakeText.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\bin\Debug\FakeText.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\obj\Debug\FakeText.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\obj\Debug\FakeText.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\FakeText\obj\Debug\FakeText.pdb

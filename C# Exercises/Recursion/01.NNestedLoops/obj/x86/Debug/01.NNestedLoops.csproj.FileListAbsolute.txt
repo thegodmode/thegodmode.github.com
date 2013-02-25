@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\01.NNestedLoops\bin\Debug\01.NNestedLoops.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\01.NNestedLoops\bin\Debug\01.NNestedLoops.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\01.NNestedLoops\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\01.NNestedLoops\obj\x86\Debug\01.NNestedLoops.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\01.NNestedLoops\obj\x86\Debug\01.NNestedLoops.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\01.NNestedLoops\obj\x86\Debug\01.NNestedLoops.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\01.NNestedLoops\obj\x86\Debug\01.NNestedLoops.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\01.NNestedLoops\bin\Debug\01.NNestedLoops.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\01.NNestedLoops\bin\Debug\01.NNestedLoops.pdb

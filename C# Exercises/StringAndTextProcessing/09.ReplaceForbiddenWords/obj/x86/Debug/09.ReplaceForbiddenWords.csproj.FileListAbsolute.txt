@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\09.ReplaceForbiddenWords\bin\Debug\09.ReplaceForbiddenWords.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\09.ReplaceForbiddenWords\bin\Debug\09.ReplaceForbiddenWords.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\09.ReplaceForbiddenWords\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\09.ReplaceForbiddenWords\obj\x86\Debug\09.ReplaceForbiddenWords.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\09.ReplaceForbiddenWords\obj\x86\Debug\09.ReplaceForbiddenWords.pdb

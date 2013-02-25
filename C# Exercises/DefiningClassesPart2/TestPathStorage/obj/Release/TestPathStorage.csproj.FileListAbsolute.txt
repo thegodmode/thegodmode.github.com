@@ -1,0 +1,1 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestPathStorage\bin\Release\TestPathStorage.exe.config

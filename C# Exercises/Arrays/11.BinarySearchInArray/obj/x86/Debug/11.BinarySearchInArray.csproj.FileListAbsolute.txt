@@ -1,0 +1,10 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\11.BinarySearchInArray.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\11.BinarySearchInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\11.BinarySearchInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\11.BinarySearchInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\11.BinarySearchInArray\obj\x86\Debug\11.BinarySearchInArray.csprojResolveAssemblyReference.cache

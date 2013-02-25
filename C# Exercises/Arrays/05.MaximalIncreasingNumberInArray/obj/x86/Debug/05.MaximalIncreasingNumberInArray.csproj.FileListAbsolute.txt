@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\05.MaximalIncreasingNumberInArray\bin\Debug\05.MaximalIncreasingNumberInArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\05.MaximalIncreasingNumberInArray\bin\Debug\05.MaximalIncreasingNumberInArray.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\05.MaximalIncreasingNumberInArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\05.MaximalIncreasingNumberInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\05.MaximalIncreasingNumberInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\05.MaximalIncreasingNumberInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\05.MaximalIncreasingNumberInArray\bin\Debug\05.MaximalIncreasingNumberInArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\05.MaximalIncreasingNumberInArray\bin\Debug\05.MaximalIncreasingNumberInArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\05.MaximalIncreasingNumberInArray\obj\x86\Debug\05.MaximalIncreasingNumberInArray.csprojResolveAssemblyReference.cache

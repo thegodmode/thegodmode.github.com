@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\12.ExtractURL\bin\Debug\12.ExtractURL.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\12.ExtractURL\bin\Debug\12.ExtractURL.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\12.ExtractURL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\12.ExtractURL\obj\x86\Debug\12.ExtractURL.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\12.ExtractURL\obj\x86\Debug\12.ExtractURL.pdb

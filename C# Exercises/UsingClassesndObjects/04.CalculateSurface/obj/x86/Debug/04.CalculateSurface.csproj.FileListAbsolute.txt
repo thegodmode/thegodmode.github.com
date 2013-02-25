@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\04.CalculateSurface\bin\Debug\04.CalculateSurface.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\04.CalculateSurface\bin\Debug\04.CalculateSurface.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\04.CalculateSurface.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\04.CalculateSurface.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\04.CalculateSurface.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\04.CalculateSurface.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\04.CalculateSurface\bin\Debug\04.CalculateSurface.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\04.CalculateSurface\bin\Debug\04.CalculateSurface.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\04.CalculateSurface\obj\x86\Debug\04.CalculateSurface.csprojResolveAssemblyReference.cache

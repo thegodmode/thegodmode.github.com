@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\08.PrintnNumbers\bin\Debug\08.PrintnNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\08.PrintnNumbers\bin\Debug\08.PrintnNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\08.PrintnNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\08.PrintnNumbers\obj\x86\Debug\08.PrintnNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\08.PrintnNumbers\obj\x86\Debug\08.PrintnNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08.PrintnNumbers\obj\x86\Debug\08.PrintnNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08.PrintnNumbers\obj\x86\Debug\08.PrintnNumbers.pdb

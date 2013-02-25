@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\07.SumOfFibonacciNumbers\bin\Debug\07.SumOfFibonacciNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\07.SumOfFibonacciNumbers\bin\Debug\07.SumOfFibonacciNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\07.SumOfFibonacciNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\07.SumOfFibonacciNumbers\obj\x86\Debug\07.SumOfFibonacciNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\07.SumOfFibonacciNumbers\obj\x86\Debug\07.SumOfFibonacciNumbers.pdb

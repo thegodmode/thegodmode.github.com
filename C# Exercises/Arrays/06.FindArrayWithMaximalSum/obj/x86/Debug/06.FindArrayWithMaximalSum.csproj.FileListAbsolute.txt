@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\06.FindArrayWithMaximalSum\bin\Debug\06.FindArrayWithMaximalSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\06.FindArrayWithMaximalSum\bin\Debug\06.FindArrayWithMaximalSum.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\06.FindArrayWithMaximalSum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\06.FindArrayWithMaximalSum\obj\x86\Debug\06.FindArrayWithMaximalSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\06.FindArrayWithMaximalSum\obj\x86\Debug\06.FindArrayWithMaximalSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\06.FindArrayWithMaximalSum\obj\x86\Debug\06.FindArrayWithMaximalSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\06.FindArrayWithMaximalSum\obj\x86\Debug\06.FindArrayWithMaximalSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\06.FindArrayWithMaximalSum\bin\Debug\06.FindArrayWithMaximalSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\06.FindArrayWithMaximalSum\bin\Debug\06.FindArrayWithMaximalSum.pdb

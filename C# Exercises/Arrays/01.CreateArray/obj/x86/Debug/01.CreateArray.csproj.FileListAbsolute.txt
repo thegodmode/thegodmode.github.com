@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\01.CreateArray\bin\Debug\01.CreateArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\01.CreateArray\bin\Debug\01.CreateArray.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\01.CreateArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\01.CreateArray\obj\x86\Debug\01.CreateArray.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\01.CreateArray\obj\x86\Debug\01.CreateArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\01.CreateArray\obj\x86\Debug\01.CreateArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\01.CreateArray\obj\x86\Debug\01.CreateArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\01.CreateArray\bin\Debug\01.CreateArray.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\01.CreateArray\bin\Debug\01.CreateArray.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\01.CreateArray\obj\x86\Debug\01.CreateArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\bin\Debug\CsharpExam.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\bin\Debug\CsharpExam.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\bin\Debug\CsharpExam.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\obj\Debug\CsharpExam.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\obj\Debug\CsharpExam.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\CsharpExam\obj\Debug\CsharpExam.pdb

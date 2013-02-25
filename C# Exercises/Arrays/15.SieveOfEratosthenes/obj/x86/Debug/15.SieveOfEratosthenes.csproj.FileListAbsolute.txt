@@ -1,0 +1,9 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\15.SieveOfEratosthenes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\15.SieveOfEratosthenes\obj\x86\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\15.SieveOfEratosthenes\obj\x86\Debug\15.SieveOfEratosthenes.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\obj\x86\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\obj\x86\Debug\15.SieveOfEratosthenes.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb

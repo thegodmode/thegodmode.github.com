@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\05.DeclareChar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\05.DeclareChar\bin\Debug\05.DeclareChar.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\05.DeclareChar\bin\Debug\05.DeclareChar.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\05.DeclareChar\obj\x86\Debug\05.DeclareChar.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\05.DeclareChar\obj\x86\Debug\05.DeclareChar.pdb

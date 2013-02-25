@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\bin\Debug\Problem 2.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\bin\Debug\Problem 2.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\bin\Debug\Problem 2.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\obj\Debug\Problem 2.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\obj\Debug\Problem 2.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Problem 2\obj\Debug\Problem 2.pdb

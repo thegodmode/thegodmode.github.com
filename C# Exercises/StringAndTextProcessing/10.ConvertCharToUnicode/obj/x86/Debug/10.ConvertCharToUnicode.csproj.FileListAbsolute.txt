@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\10.ConvertCharToUnicode\bin\Debug\10.ConvertCharToUnicode.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\10.ConvertCharToUnicode\bin\Debug\10.ConvertCharToUnicode.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\10.ConvertCharToUnicode\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\10.ConvertCharToUnicode\obj\x86\Debug\10.ConvertCharToUnicode.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\10.ConvertCharToUnicode\obj\x86\Debug\10.ConvertCharToUnicode.pdb

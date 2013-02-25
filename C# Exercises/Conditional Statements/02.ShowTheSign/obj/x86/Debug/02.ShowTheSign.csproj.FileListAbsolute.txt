@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\02.ShowTheSign\bin\Debug\02.ShowTheSign.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\02.ShowTheSign\bin\Debug\02.ShowTheSign.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\02.ShowTheSign\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\02.ShowTheSign\obj\x86\Debug\02.ShowTheSign.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Conditional Statements\02.ShowTheSign\obj\x86\Debug\02.ShowTheSign.pdb

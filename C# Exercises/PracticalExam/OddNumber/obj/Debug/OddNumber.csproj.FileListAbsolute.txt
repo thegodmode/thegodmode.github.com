@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\bin\Debug\OddNumber.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\bin\Debug\OddNumber.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\bin\Debug\OddNumber.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\obj\Debug\OddNumber.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\OddNumber\obj\Debug\OddNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\bin\Debug\Math Expression.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\bin\Debug\Math Expression.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\bin\Debug\Math Expression.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\obj\Debug\Math Expression.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\obj\Debug\Math Expression.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\Math Expression\obj\Debug\Math Expression.pdb

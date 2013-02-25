@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\10.CalculateTheSum\bin\Debug\10.CalculateTheSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\10.CalculateTheSum\bin\Debug\10.CalculateTheSum.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\10.CalculateTheSum.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\10.CalculateTheSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\10.CalculateTheSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\10.CalculateTheSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.CalculateTheSum\bin\Debug\10.CalculateTheSum.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.CalculateTheSum\bin\Debug\10.CalculateTheSum.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.CalculateTheSum\obj\x86\Debug\10.CalculateTheSum.csprojResolveAssemblyReference.cache

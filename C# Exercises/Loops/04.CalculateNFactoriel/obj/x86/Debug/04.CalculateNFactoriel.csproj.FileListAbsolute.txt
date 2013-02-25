@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\04.CalculateNFactoriel\bin\Debug\04.CalculateNFactoriel.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\04.CalculateNFactoriel\bin\Debug\04.CalculateNFactoriel.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\04.CalculateNFactoriel\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\04.CalculateNFactoriel\obj\x86\Debug\04.CalculateNFactoriel.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\04.CalculateNFactoriel\obj\x86\Debug\04.CalculateNFactoriel.pdb

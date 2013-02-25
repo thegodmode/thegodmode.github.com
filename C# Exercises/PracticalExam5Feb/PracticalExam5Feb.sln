@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomeDecoder", "GenomeDecoder\GenomeDecoder.csproj", "{B0A33C7C-5C44-4228-A9E1-AD4D95D5D1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirplaneDrinks", "AirplaneDrinks\AirplaneDrinks.csproj", "{10FAA327-0429-4AF7-A95D-01D8FB4C13FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0A33C7C-5C44-4228-A9E1-AD4D95D5D1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A33C7C-5C44-4228-A9E1-AD4D95D5D1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A33C7C-5C44-4228-A9E1-AD4D95D5D1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A33C7C-5C44-4228-A9E1-AD4D95D5D1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FAA327-0429-4AF7-A95D-01D8FB4C13FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FAA327-0429-4AF7-A95D-01D8FB4C13FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FAA327-0429-4AF7-A95D-01D8FB4C13FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FAA327-0429-4AF7-A95D-01D8FB4C13FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

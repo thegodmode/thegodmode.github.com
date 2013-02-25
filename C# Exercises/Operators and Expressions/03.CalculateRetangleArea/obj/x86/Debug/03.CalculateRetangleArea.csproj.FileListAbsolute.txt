@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\03.CalculateRetangleArea\bin\Debug\03.CalculateRetangleArea.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\03.CalculateRetangleArea\bin\Debug\03.CalculateRetangleArea.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\03.CalculateRetangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\03.CalculateRetangleArea\obj\x86\Debug\03.CalculateRetangleArea.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\03.CalculateRetangleArea\obj\x86\Debug\03.CalculateRetangleArea.pdb

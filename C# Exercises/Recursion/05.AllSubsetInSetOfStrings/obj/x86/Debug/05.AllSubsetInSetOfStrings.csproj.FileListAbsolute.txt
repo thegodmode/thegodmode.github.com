@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\bin\Debug\05.AllSubsetInSetOfStrings.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\bin\Debug\05.AllSubsetInSetOfStrings.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.pdb

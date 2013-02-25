@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\bin\Debug\FallDawn.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\bin\Debug\FallDawn.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\bin\Debug\FallDawn.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\obj\Debug\FallDawn.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\obj\Debug\FallDawn.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam\FallDawn\obj\Debug\FallDawn.pdb

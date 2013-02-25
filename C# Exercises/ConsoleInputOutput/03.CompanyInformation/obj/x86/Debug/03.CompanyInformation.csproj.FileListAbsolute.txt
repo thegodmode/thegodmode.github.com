@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\03.CompanyInformation\bin\Debug\03.CompanyInformation.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\03.CompanyInformation\bin\Debug\03.CompanyInformation.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\03.CompanyInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\03.CompanyInformation\obj\x86\Debug\03.CompanyInformation.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\03.CompanyInformation\obj\x86\Debug\03.CompanyInformation.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\03.CompanyInformation\obj\x86\Debug\03.CompanyInformation.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\03.CompanyInformation\obj\x86\Debug\03.CompanyInformation.pdb

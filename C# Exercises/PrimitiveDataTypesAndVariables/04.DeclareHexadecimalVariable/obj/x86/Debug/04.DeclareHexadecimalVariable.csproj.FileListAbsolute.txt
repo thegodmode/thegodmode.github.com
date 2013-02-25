@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\04.DeclareHexadecimalVariable\bin\Debug\04.DeclareHexadecimalVariable.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\04.DeclareHexadecimalVariable\bin\Debug\04.DeclareHexadecimalVariable.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\04.DeclareHexadecimalVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\04.DeclareHexadecimalVariable\obj\x86\Debug\04.DeclareHexadecimalVariable.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\04.DeclareHexadecimalVariable\obj\x86\Debug\04.DeclareHexadecimalVariable.pdb

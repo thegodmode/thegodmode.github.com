@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\15.ChangeURL\bin\Debug\15.ChangeURL.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\15.ChangeURL\bin\Debug\15.ChangeURL.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\15.ChangeURL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\15.ChangeURL\obj\x86\Debug\15.ChangeURL.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\15.ChangeURL\obj\x86\Debug\15.ChangeURL.pdb

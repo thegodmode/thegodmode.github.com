@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\13.SpiralMatrix\bin\Debug\13.SpiralMatrix.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\13.SpiralMatrix\bin\Debug\13.SpiralMatrix.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\13.SpiralMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\13.SpiralMatrix\obj\x86\Debug\13.SpiralMatrix.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\13.SpiralMatrix\obj\x86\Debug\13.SpiralMatrix.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Loops\13.SpiralMatrix\obj\x86\Debug\13.SpiralMatrix.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Loops\13.SpiralMatrix\obj\x86\Debug\13.SpiralMatrix.pdb
