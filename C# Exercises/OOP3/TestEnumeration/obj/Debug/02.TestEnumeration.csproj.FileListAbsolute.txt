@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\bin\Debug\TestEnumeration.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\obj\Debug\02.TestEnumeration.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\bin\Debug\TestEnumeration.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\bin\Debug\TestEnumeration.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\bin\Debug\ClassLibrary.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\bin\Debug\ClassLibrary.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\obj\Debug\TestEnumeration.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestEnumeration\obj\Debug\TestEnumeration.pdb

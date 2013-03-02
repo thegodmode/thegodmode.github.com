@@ -1,0 +1,8 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\bin\Debug\05.OrderStudents.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\bin\Debug\05.OrderStudents.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\bin\Debug\05.OrderStudents.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\bin\Debug\ClassLibrary.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\bin\Debug\ClassLibrary.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\obj\Debug\05.OrderStudents.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\obj\Debug\05.OrderStudents.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\05.OrderStudents\obj\Debug\05.OrderStudents.pdb

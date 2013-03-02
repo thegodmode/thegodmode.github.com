@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\People.Common\bin\Debug\People.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\People.Common\bin\Debug\People.Common.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\People.Common\obj\Debug\People.Common.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\People.Common\obj\Debug\People.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\People.Common\obj\Debug\People.Common.pdb

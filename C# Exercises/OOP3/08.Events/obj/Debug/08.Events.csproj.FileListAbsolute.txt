@@ -1,0 +1,6 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\bin\Debug\08.Events.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\bin\Debug\08.Events.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\bin\Debug\08.Events.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\obj\Debug\08.Events.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\obj\Debug\08.Events.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\08.Events\obj\Debug\08.Events.pdb

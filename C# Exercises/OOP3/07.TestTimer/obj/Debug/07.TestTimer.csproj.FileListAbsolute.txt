@@ -1,0 +1,8 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\bin\Debug\07.TestTimer.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\obj\Debug\07.TestTimer.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\bin\Debug\07.TestTimer.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\bin\Debug\07.TestTimer.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\bin\Debug\ClassLibrary.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\bin\Debug\ClassLibrary.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\obj\Debug\07.TestTimer.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\07.TestTimer\obj\Debug\07.TestTimer.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="8835c954-f55d-4ff2-9b16-d90b1033f600">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>TestSchool/Program.cs</FileRelativePath>
+        <ProjectRelativePath>TestSchool/TestSchool.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13091332381294704756</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>TestSchool/Properties/AssemblyInfo.cs</FileRelativePath>
+        <ProjectRelativePath>TestSchool/TestSchool.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10113840695211819355</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>School.Common/Properties/AssemblyInfo.cs</FileRelativePath>
+        <ProjectRelativePath>School.Common/School.Common.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10113840695211819355</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>People.Common/Properties/AssemblyInfo.cs</FileRelativePath>
+        <ProjectRelativePath>People.Common/People.Common.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10113840695211819355</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

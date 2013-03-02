@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2013-03-01T13:44:48" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'd8a5d2bc-17b0-4e54-9ba1-8cd37dd3b29d' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School' -  (Package)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common' -  (Package)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Discipline' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::People' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Medium" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student' -  (Class)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::classNumber' -  (Property)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::ClassNumber' -  (Property)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::Student' -  (Operation)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::Student::classNumber' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::Student::name' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::Student::optionalComments' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Student::ToString' -  (Operation)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Medium" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher' -  (Class)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::discipline' -  (Property)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::Discipline' -  (Property)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::Teacher' -  (Operation)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::Teacher::discipline' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::Teacher::name' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::Teacher::optionalComments' -  (Parameter)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::School::Common::Teacher::ToString' -  (Operation)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::System' -  (Package)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::System::Collections' -  (Package)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'SchoolDiagram::System::Collections::Generic::List&lt;Discipline‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: SchoolDiagram::School::Common::Student to SchoolDiagram::School::Common::People (Generalization)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: SchoolDiagram::School::Common::Teacher to SchoolDiagram::System::Collections::Generic::List&lt;Discipline‎&gt; (Association)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: SchoolDiagram::School::Common::Teacher to SchoolDiagram::School::Common::People (Generalization)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: SchoolDiagram::School::Common::People to SchoolDiagram::School::Common::OptionalComments (Generalization)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: SchoolDiagram::School::Common::Discipline to SchoolDiagram::School::Common::People (Generalization)" />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="High" Text="(2) type(s) fully reverse engineered." />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="High" Text="(4) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2013-03-01T13:44:51" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

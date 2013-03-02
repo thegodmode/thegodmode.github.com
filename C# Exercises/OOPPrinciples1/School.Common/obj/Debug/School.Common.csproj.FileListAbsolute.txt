@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOPPrinciples1\School.Common\obj\Debug\School.Common.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\School.Common\bin\Debug\School.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\School.Common\bin\Debug\School.Common.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\School.Common\obj\Debug\School.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\School.Common\obj\Debug\School.Common.pdb
