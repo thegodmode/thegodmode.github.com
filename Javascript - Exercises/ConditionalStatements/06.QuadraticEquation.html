@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div> Check Console</div>
+        <script>
+            var a = parseInt(prompt("Enter number"));
+            var b = parseInt(prompt("Enter number"));
+            var c = parseInt(prompt("Enter number"));
+            var D = b * b - 4 * a * c;
+            
+            if (D == 0)
+            {
+                console.log("x1=x2=" + (- b / (2 * a)));
+            }
+            else if (D < 0)
+            {
+                console.log("No real roots");
+            }
+            else if (D > 0)
+            {
+                console.log("x1=" + (-b + Math.sqrt(D)) / (2 * a));
+                console.log("x2=" + (-b - Math.sqrt(D)) / (2 * a));
+            }
+        </script>
+    </body>
+</html>

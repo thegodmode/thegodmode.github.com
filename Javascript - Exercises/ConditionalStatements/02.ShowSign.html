@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var a = parseInt(prompt("Enter number"));
+            var b = parseInt(prompt("Enter number"));
+            var c = parseInt(prompt("Enter number"));
+            var sign = null;
+            
+            if (a > 0)
+            {
+                sign = "+";
+                if (b > 0)
+                {
+                    sign = "+";
+
+                    if (c > 0)
+                    {
+                        sign = "+";
+                    }
+                    else
+                    {
+                        sign = "-";
+                    }
+                }
+                else
+                {
+                    sign = "-";
+
+                    if (c > 0)
+                    {
+                        sign = "-";
+                    }
+                    else
+                    {
+                        sign = "+";
+                    }
+                }
+            }
+            else
+            {
+                if (b > 0)
+                {
+                    sign = "-";
+            
+                    if (c > 0)
+                    {
+                        sign = "-";
+                    }
+                    else
+                    {
+                        sign = "+";
+                    }
+                }
+                else
+                {
+                    sign = "+";
+            
+                    if (c > 0)
+                    {
+                        sign = "+";
+                    }
+                    else
+                    {
+                        sign = "-";
+                    }
+                }
+            }
+
+            console.log(sign);
+        </script>
+    </body>
+</html>

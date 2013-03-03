@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            var numberToString = (function (number)
+            {
+                var str = "";
+                var ones =
+                [
+                    "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"
+                    , "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen"
+                    , "seventeen", "eighteen", "nineteen"
+                ]
+            
+                var tens = ["twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+
+                // get hundreds
+                if (number > 99)
+                {
+                    str += ones[parseInt(number / 100, 10)];
+                    str += " hundred";
+                    if (number%=100)
+                    {
+                        str+=" and "
+                    }
+                    else
+                    {
+                        return str;
+                    }
+                }
+                // get tens and ones
+                if (number > 19)
+                {
+                    str += tens[parseInt(number / 10 - 2, 10)];
+                    if (number %= 10)
+                    {
+                        str += "-";
+                        return str += ones[parseInt(number, 10)];
+                    }
+                    else
+                    {
+                        return str;
+                    }
+                }
+                // if number is from 1 to 19
+                return str += ones[parseInt(number, 10)];
+            });
+            
+            var number = parseInt(prompt("Enter number: 0 to 999"));
+            
+            console.log(numberToString(number));
+        </script>
+    </body>
+</html>

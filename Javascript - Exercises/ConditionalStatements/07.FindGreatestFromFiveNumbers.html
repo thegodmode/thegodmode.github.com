@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var numbers = new Array(2033, 310, 120, 42142142, 6321321);
+            var theBiggest = numbers[0];
+            
+            for (var i = 1; i < numbers.length; i++)
+            {
+                if (numbers[i] > theBiggest)
+                {
+                    theBiggest = numbers[i];
+                }
+            }
+            
+            console.log("The Biggest Number is: "+theBiggest);
+        </script>
+    </body>
+</html>

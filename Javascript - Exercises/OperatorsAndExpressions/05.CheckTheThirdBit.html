@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var number = parseInt(prompt("Enter number"));
+            var mask = 1 << 3;
+            console.log(number.toString(2));
+            if (number & mask) {
+
+                console.log("Third bit is 1")
+            }
+            else {
+                console.log("Third bit is 0");
+            }
+        </script>
+    </body>
+</html>

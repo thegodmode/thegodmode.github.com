@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function isInCircle(point, circle)
+            {
+                if ((point.X - circle.X) * (point.X - circle.X)
+                    + (point.Y - circle.Y) * (point.Y - circle.Y) <= circle.R * circle.R)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false
+                }
+            }
+
+            function isOutRetangle(point, retancle)
+            {
+                if (point.X >= retancle.left && point.X <= retancle.left + retancle.width
+                    && point.Y <= retancle.top
+                    && point.Y >= retancle.top + retangle.height)
+                {
+                    return false
+                }
+                return true;
+            }
+            
+            var point =
+            {
+                X: prompt("Enter X"),
+                Y: prompt("Enter Y")
+            };
+            var circle =
+            {
+                X: 0,
+                Y: 0,
+                R: 3,
+            };
+            
+            var retangle =
+            {
+            
+                top: 1,
+                left: -1,
+                width: 6,
+                height: 2
+            }
+            
+            var inCircle = isInCircle(point, circle);
+            var outRetangle = isOutRetangle(point, retangle);
+            
+            if (inCircle && outRetangle)
+            {
+                console.log("True");
+            }
+            else {
+                console.log("False");
+            }
+        </script>
+    </body>
+</html>
