@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\Student.Common\obj\Debug\Student.Common.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\Student.Common\bin\Debug\Student.Common.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\Student.Common\bin\Debug\Student.Common.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\Student.Common\obj\Debug\Student.Common.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\Student.Common\obj\Debug\Student.Common.pdb
