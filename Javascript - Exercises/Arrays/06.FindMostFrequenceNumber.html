@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var array = [5,5,5,5,23,24,21,43,1121,2111,433,22,5]
+            var checkedNumbers = new Array();
+            var freqCounter = 1;
+            var maxFreqCounter = 1;
+            var number = [array[0]];
+            var i,k;
+                      
+            // create logic
+            for (i = 0; i < array.length - 1; i++)
+            {
+                if (checkedNumbers.indexOf(array[i]) != -1)
+                {
+                    continue;
+                }
+                for (k = i + 1; k < array.length; k++)
+                {
+                    if (array[i] == array[k])
+                    {
+                        freqCounter++;
+                    }
+                }
+                if (freqCounter > maxFreqCounter)
+                {
+                    maxFreqCounter = freqCounter;
+                    number = array[i];
+                }
+            
+                checkedNumbers.push(array[i]);
+                freqCounter = 1;
+            }
+            
+            // print answer
+            console.log("{ ");
+            
+            for (i = 0; i < array.length; i++)
+            {
+                if (i < array.length - 1)
+                {
+                    console.log(array[i] + ", ");
+                }
+                else
+                {
+                    console.log(array[i]);
+                }
+            }
+            
+            console.log(" } ->");
+            console.log(number + " frequence: " + maxFreqCounter);
+        </script>
+    </body>
+</html>

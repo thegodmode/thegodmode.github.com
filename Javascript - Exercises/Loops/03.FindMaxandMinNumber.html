@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+
+            function FindMin()
+            {
+                var min = arr[0];
+                var i;
+                for (i = 1; i < arr.length; i++)
+                {
+                    if (arr[i] < min)
+                    {
+                        min = arr[i];
+                    }
+                }
+
+                return min;
+            }
+
+            function FindMax()
+            {
+                var max = arr[0];
+                var i;
+            
+                for (i = 1; i < arr.length; i++)
+                {
+                    if (arr[i] > max)
+                    {
+                        max = arr[i];
+                    }
+                }
+            
+                return max;
+            }
+        
+            var arr = [1, 32, 31, 414, 5151, 12, 41412, 1, 412, 5, -213, 321];
+            console.log(FindMax());
+            console.log(FindMin());
+        </script>
+    </body>
+</html>
