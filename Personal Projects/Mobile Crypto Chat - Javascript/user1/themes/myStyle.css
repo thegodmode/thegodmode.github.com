@@ -1,0 +1,288 @@
+@charset "utf-8";
+/* CSS Document */
+
+#receive {
+	
+	color:rgb(102,204,51);
+    font-weight:bold;
+    margin-left:10px;
+	padding-top:3px;
+	border-bottom-style:groove;
+	border-bottom-width:thin;
+}
+
+#send {
+	
+	color:#33FFFF;
+    font-weight:bold;
+    margin-left:10px;
+	padding-top:3px;
+	border-bottom-style:groove;
+	border-bottom-width:thin;
+} 
+#invitation {
+
+   font-weight:bold;
+   margin-left:10px;
+   color:#CC6600;
+   size:5px;
+   padding-top:3px;
+
+}
+
+#login {
+
+   font-weight:bold;
+   margin-left:10px;
+   color:rgb(51,255,0);
+   size:5px;
+  
+
+}
+
+#logoff {
+	
+   font-weight:bold;
+   margin-left:10px;
+   color:#FF0000;
+   size:5px;
+   
+
+}
+
+
+
+#loginImage{
+	
+	height:70px;
+	width:70px;
+	margin-top:80px;
+	margin-left:110px;
+	
+	
+	
+	
+}
+#logintxt {
+	
+	
+	margin-left:70px;
+	
+	
+}
+
+
+
+#register {
+	
+	margin-left:100px;
+	text-decoration:none;
+	
+	
+}
+
+#resultArea {
+	
+ border: 1px solid black;
+ width:285px;
+ height:250px;
+ color:rgb(0,153,51);
+ text-shadow:none;
+ border-color:#666666;
+ border-radius:15px;
+ overflow:auto;
+
+}
+
+#chatArea {
+ margin-bottom: 30px;
+ height:30px;
+ text-shadow:none;
+ overflow:auto;
+ display:none;
+ color:#FFFFFF;
+
+}
+#textInput{
+ margin-top:30px;
+ text-decoration:none;
+ margin-left:10px;
+ color:#FFCC00;
+ display:none;
+}
+
+#output {
+
+ margin-top:10px;
+ text-decoration:none;
+ margin-left:10px;
+ color:#FFCC00;
+}
+
+
+
+#error ,#buttonRegister , #error_1 {
+
+ display:none;
+
+}
+#error, #error_1{
+
+ color:red;
+ margin-left:40px;
+ text-shadow:none;
+ 
+
+}
+#Back {
+	
+	margin-bottom:250px;
+	
+	
+}
+
+#header{
+	
+	background:#999999;
+	
+	
+}
+
+#LogOut , #exit {
+	margin-bottom:220px;
+	
+	
+}
+
+
+#header {
+
+height: 40px;
+
+
+}
+
+
+
+#list {
+	
+	
+	margin-top:40px;
+	
+}
+
+#time {
+	
+	margin-top:10px;
+	margin-left:140px;
+	
+}
+
+#time:hover {
+	
+	cursor:pointer;
+	
+}
+
+.main {
+	 
+	 height:60px;
+	 width:60px;
+	 float:left;
+	 text-shadow:none;
+	 
+ }
+ 
+.main:hover {
+	 
+	cursor:pointer; 
+ }
+ 
+ .name {
+	 
+	 padding:5px;
+	 margin-left:70px;
+	 font-weight:bold;
+	 font-style:normal;
+	 color:#EAEAEA;
+	 font-size:18px;
+	 text-shadow:none;
+ 
+ }
+ 
+ .mobile {
+	 
+	 margin-top:-15px;
+	 margin-left:75px;
+	 font-weight:bold;
+	 font-style:normal;
+	 color:#FFFFFF;
+	 font-size:12px;
+	 text-shadow:none;
+	 
+ }
+ 
+ .mobile:hover {
+	 
+	  color:#FF0000;
+	  cursor:pointer;
+	 
+	 
+	 
+ }
+ 
+ .name:hover {
+	 color:#FF0000;
+	 cursor:pointer;
+ }
+ 
+ 
+.line {
+	 
+	 margin-top:14px;
+	 
+	border-bottom-style:groove;
+	border-color:rgb(0,255,255);
+	border-bottom-width:thin;
+	
+	 
+	 
+ }
+ 
+ .status {
+	 
+	 width:15px;
+	 height:15px;
+	 margin-left:20px;
+	 
+	 
+	 
+ }
+ 
+ #green {
+	 
+	 display:none; 
+	 
+	 
+ }
+ 
+ #list {
+	 
+	 margin-top:-7px;
+	 display:none;
+}
+
+#hdialog {
+	
+	margin-left:50px;
+	color:#009900;	
+	
+}
+
+#reject {
+	
+	margin-bottom:400px;
+	
+	
+}
+
