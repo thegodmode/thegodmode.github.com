@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            
+            var array = [4,55,22];
+            var index = checkElementNeighbors(array);
+            
+            console.log("Number "+ array[index]+ " at position "+ index +" is  bigger than his neighbors.");
+            
+            
+            function checkElementNeighbors(array)
+            {
+                var index = 0;
+                for (index = 0; index < array.length; index++)
+                {
+                    if (index == 0)
+                    {
+                        if (array[index] > array[index + 1])
+                        {
+                            return index;
+                        }
+                    }
+                    else if (index == array.length - 1)
+                    {
+                        if (array[index] > array[index - 1])
+                        {
+                            return index;
+                        }
+                    }
+                    else
+                    {
+                        if (array[index] > array[index + 1] && array[index] > array[index - 1])
+                        {
+                            return index;
+                        }
+                    }
+                }
+            
+                return -1;
+            }
+        </script>
+    </body>
+</html>

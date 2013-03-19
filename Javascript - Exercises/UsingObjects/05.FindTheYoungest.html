@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            
+            function printTheYoungest(persons) {
+
+                var candidate = persons[0];
+                for (var i =1; i < persons.length; i++) {
+                    
+                    if (candidate.age > persons[i].age) {
+                       
+                        candidate = persons[i];
+                    }
+                }
+
+                console.log("The Youngest person is " + candidate.firstname +" "+ candidate.lastname)
+            }
+            var persons =
+            [
+                {firstname : "Gosho", lastname: "Petrov", age: 32}, 
+                { firstname: "Bay", lastname: "Ivan", age: 71 },
+                { firstname: "Blagoi", lastname: "Ivanov", age: 12 },
+                { firstname: "Dragan", lastname: "Cankov", age: 62 },
+            ];
+
+            printTheYoungest(persons);
+
+        </script>
+    </body>
+</html>

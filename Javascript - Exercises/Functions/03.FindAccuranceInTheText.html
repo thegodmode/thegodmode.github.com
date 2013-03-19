@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function findWordAccurance(word, text, isCaseSensitive)
+            {
+                var accCounter = 0;
+                var wordList;
+                if (!isCaseSensitive)
+                {
+                    text = text.toUpperCase();
+                    word = word.toUpperCase();
+                }
+                wordList = text.split([" "]);
+                for (var i = 0; i < wordList.length; i++)
+                {
+                    if (wordList[i]===word)
+                    {
+                        accCounter++;
+                    }
+                }
+
+                return accCounter;
+            }
+            
+            var text = "Hi I am am Gosho";
+            var word = "am";
+            var acc = findWordAccurance(word, text, true);
+            
+            console.log(word + '->' + acc);
+        </script>
+    </body>
+</html>

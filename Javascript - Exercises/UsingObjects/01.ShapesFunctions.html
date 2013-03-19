@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+
+            function Point(x, y)
+            {
+                this.X = x;
+                this.Y = y;
+            };
+
+            Point.prototype.toString = function()
+            {
+                console.log(this.X + " " + this.Y);
+            }
+
+            function Line(x, y, x1, y1)
+            {
+                this.P1 = new Point(x, y);
+                this.P2 = new Point(x1, y1);
+            }
+            
+            Line.prototype.toString = function ()
+            {
+                Point.prototype.toString.call(this.P1)
+                Point.prototype.toString.call(this.P2)
+            }
+            
+            Line.prototype.CalculateDistance = function()
+            {
+                return Math.sqrt((this.P1.X - this.P2.X) * (this.P1.X - this.P2.X) + (this.P1.Y - this.P2.Y) * (this.P1.Y - this.P2.Y));
+            }
+            
+            function IsCanFromTriangle(line1, line2, line3)
+            {
+                return (line1 + line2 > line3 && line2 + line3 > line1 && line3 + line1 > line2);
+            }
+            
+            var line = new Line(1, 1, 6, 6);
+            var line1 = new Line(1, 1, 5, 5);
+            var line2 = new Line(1, 1, 7, 7);
+            var length = (line.CalculateDistance());
+            var length1 = (line1.CalculateDistance());
+            var length2 = (line2.CalculateDistance());
+            
+            console.log(IsCanFromTriangle(length, length1, length2));            
+        </script>
+    </body>
+</html>
+            

@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html >
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function CloneOfObject(old)
+            {
+                var clone = {};
+            
+                if (typeof old != "object")
+                {
+                    clone = old;
+                }
+            
+                else if (typeof (old) == "object")
+                {
+                    for (prop in old)
+                    {
+                        if (typeof (old[prop]) == "object")
+                        {
+                            clone[prop] = this.getCloneOfObject(old[prop]);
+                        }
+                        else
+                        {
+                            clone[prop] = old[prop];
+                        }
+                    }
+                }
+            
+                return clone;
+            }
+            
+            var arr = [1, 2, 3, 4];
+            var number = 4;
+            var point =
+            {
+            
+                X:3,
+                Y:4
+            };
+            //clone
+            var newArr = CloneOfObject(arr);
+            var newNumber = CloneOfObject(number);
+            var newPoint = CloneOfObject(point);
+            
+            // change first instance
+            number = 5;
+            arr[2] = 6;
+            point.X = 16;
+            // check is clone deep
+            console.log(newArr);
+            console.log(newNumber);
+            console.log(newPoint.X);
+        </script>
+    </body>
+</html>
