@@ -1,6 +1,6 @@
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\bin\Debug\BattleShips.exe
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\obj\Debug\BattleShips.csprojResolveAssemblyReference.cache
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\obj\Debug\BattleShips.exe
-C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Tasmanian Devils\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\obj\Debug\BattleShips.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\Bojidar\Downloads\Favorites\Desktop\Telerik\Academy\OOP\Project\BattleShips\BattleShips\obj\Debug\BattleShips.pdb

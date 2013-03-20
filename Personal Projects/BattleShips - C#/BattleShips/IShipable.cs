@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace BattleShips
+﻿namespace BattleShips
 {
     public interface IShipable
     {

@@ -15,11 +15,11 @@ namespace BattleShips
             return (Orientation)orientations.GetValue(number);
         }
 
-        private static MatrixCoordinates GetRandomMatrix()
+        private static MatrixCoordinates GetRandomMatrix(int maxRow, int maxCol)
         {
             Random rnd = new Random();
-            int col = rnd.Next(1, 21);
-            int row = rnd.Next(1, 11);
+            int col = rnd.Next(1, maxCol);
+            int row = rnd.Next(1, maxRow);
             return new MatrixCoordinates(row, col);
         }
 
@@ -45,11 +45,11 @@ namespace BattleShips
             }
         }
 
-        private static bool CheckIsValid(Ship ship, List<Ship> ships)
+        private static bool CheckIsValid(Ship ship, List<Ship> ships, int maxRow, int maxCol)
         {
             if (ship.Orientation == Orientation.Horizontal)
             {
-                if (ship.GetShipLength() + ship.TopLeft.Col > 20)
+                if (ship.GetShipLength() + ship.TopLeft.Col > maxCol)
                 {
                     return false;
                 }
@@ -80,7 +80,7 @@ namespace BattleShips
             }
             else if (ship.Orientation == Orientation.Vertical)
             {
-                if (ship.GetShipLength() + ship.TopLeft.Row > 10)
+                if (ship.GetShipLength() + ship.TopLeft.Row > maxRow)
                 {
                     return false;
                 }
@@ -113,15 +113,15 @@ namespace BattleShips
             return true;
         }
 
-        public static List<Ship> Generate(int numberOfShips,List<Ship> ships)
+        public static List<Ship> Generate(int numberOfShips,List<Ship> ships, int maxRow, int maxCol)
         {
 
             for (int i = 0; i < numberOfShips; )
             {
                 Orientation rndOrientation = GetRandomOrientation();
-                MatrixCoordinates newcordinates = GetRandomMatrix();
-                Ship newShip = GetNewShip(rndOrientation, newcordinates);
-                bool isValidShip = CheckIsValid(newShip,ships);
+                MatrixCoordinates newCordinates = GetRandomMatrix(maxRow,maxCol);
+                Ship newShip = GetNewShip(rndOrientation, newCordinates);
+                bool isValidShip = CheckIsValid(newShip,ships,maxRow,maxCol);
                 if (isValidShip)
                 {
                     ships.Add(newShip);

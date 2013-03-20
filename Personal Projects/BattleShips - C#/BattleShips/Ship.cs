@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace BattleShips
 {
@@ -16,8 +14,8 @@ namespace BattleShips
 
         public Ship(Orientation orientation, MatrixCoordinates topLeft)
         {
-            this.orientation = orientation;
-            this.topLeft = topLeft;
+            this.Orientation = orientation;
+            this.TopLeft = topLeft;
             this.isDestroyed = false;
         }
         
@@ -86,7 +84,7 @@ namespace BattleShips
             {
                 for (int i = 0; i < this.GetShipLength(); i++)
                 {
-                    if (this.TopLeft.Row + 1 == hitPoint.Row && this.TopLeft.Col == hitPoint.Col)
+                    if (this.TopLeft.Row + i == hitPoint.Row && this.TopLeft.Col == hitPoint.Col)
                     {
                         this.hitCounter++;
                         IsShipDestroyed();

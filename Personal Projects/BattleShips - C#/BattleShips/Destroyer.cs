@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace BattleShips
 {
+    //How the vessels will be drawed. You know that we can use ASCII table with its symbols.
     public class Destroyer : Ship
     {
         public new const int Length = 3;

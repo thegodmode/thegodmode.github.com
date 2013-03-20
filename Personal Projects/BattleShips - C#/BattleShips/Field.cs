@@ -1,85 +1,130 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace BattleShips
 {
-    public class Field : IRendable
+    public abstract class Field : IRendable
     { //[10,20];
-        private char[,] field = {
-            {' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' '},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
-        };
-        
-        public void Draw()
+
+        private int maxCol;
+        private int maxRow;
+
+        private List<MatrixCoordinates> hitCoords;
+
+        protected char[,] field; /*{
+            {' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' ','_',' '},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'},
+            {'|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|','_','|'}
+        };*/
+
+        public Field(int maxRow, int maxCol)
         {
-            for (int row = 0; row < this.field.GetLength(0); row++)
+
+            this.hitCoords = new List<MatrixCoordinates>();
+            this.maxCol = maxCol *2 + 1;
+            this.maxRow = maxRow  + 1;
+
+            field = new char[this.maxRow, this.maxCol];
+
+            for (int row = 0; row < this.maxRow; row++)
             {
-                for (int col = 0; col < this.field.GetLength(1); col++)
+                for (int col = 0; col < this.maxCol; col++)
                 {
-                    if (field[row,col] != '_' && field[row,col] != 'x' && field[row,col] != '|' && field[row,col] != ' ')
+                    if (row == 0)
                     {
-                        Console.BackgroundColor = ConsoleColor.Green;
-                        Console.ForegroundColor = ConsoleColor.White;
-                    }
-                    else if (field[row,col] == 'o')
-                    {
-                        Console.BackgroundColor = ConsoleColor.DarkGreen;
-                        Console.ForegroundColor = ConsoleColor.White;
-                    }
-                    else if (field[row, col] == 'x')
-                    {
-                        Console.BackgroundColor = ConsoleColor.Red;
-                        Console.ForegroundColor = ConsoleColor.White;
+                        if (col % 2 == 0)
+                        {
+                            this.field[row, col] = ' ';
+                        }
+                        else
+                        {
+                            this.field[row, col] = '_';
+                        }
                     }
                     else
                     {
-                        Console.BackgroundColor = ConsoleColor.Black;
-                        Console.ForegroundColor = ConsoleColor.White;
+                        if (col % 2 == 0)
+                        {
+                            this.field[row, col] = '|';
+                        }
+                        else
+                        {
+                            this.field[row, col] = '_';
+                        }
                     }
-                    Console.Write(field[row,col]);
                 }
-
-                Console.WriteLine();
             }
         }
+
+        public List<MatrixCoordinates> HitCoords
+        {
+            get
+            {
+                return hitCoords;
+            }
+            set
+            {
+                hitCoords = value;
+            }
+        }
+
+        public int MaxRow
+        {
+            get
+            {
+                return this.maxRow;
+            }
+        }
+
+        public int MaxCol
+        {
+            get
+            {
+                return this.maxCol;
+            }
+        }
+
+        public abstract void Draw();
 
         private void InsertHorizontalShip(int length, MatrixCoordinates topLeft, char symbol)
         {
             int row = topLeft.Row;
             int col = topLeft.Col * 2 - 1;
+
             for (int i = 0; i < length; i++)
             {
-                this.field[row,col] = symbol ;
-                while (field[row,col] != '_')
+                this.field[row, col] = symbol;
+                while (field[row, col] != '_') 
                 {
                     col++;
                 }
             }
-        }
+       }
 
         private void InsertVerticalShip(int length, MatrixCoordinates topLeft, char symbol)
         {
             int row = topLeft.Row;
             int col = topLeft.Col * 2 - 1;
+
             for (int i = 0; i < length; i++)
             {
-                this.field[row,col] = symbol;
-                while (field[row,col] != '_')
+                this.field[row, col] = symbol;
+                while (field[row, col] != '_')
                 {
                     row++;
                 }
             }
         }
-       
+
         public void AddShip(IShipable ship)
         {
             switch (ship.GetOrientation())
@@ -106,7 +151,18 @@ namespace BattleShips
         {
             int row = shot.Row;
             int col = shot.Col * 2 - 1;
-            field[row, col] = 'x';
+            field[row, col] = 'x'; //PONQKOGA GYRMI EI TUKA  s out of range
+        }
+
+        protected void PrintFieldCoordinates(int coordinate)
+        {
+            coordinate++;
+            return;
+        }
+
+        public void AddHitCoords(MatrixCoordinates shot)
+        {
+            this.hitCoords.Add(shot);
         }
     }
 }

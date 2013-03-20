@@ -5,5 +5,7 @@ namespace BattleShips
     public interface IUserInterface
     {
         MatrixCoordinates ReadUserInput();
+
+       
     }
 }

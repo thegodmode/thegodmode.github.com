@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace BattleShips
 {
@@ -16,6 +14,38 @@ namespace BattleShips
             this.col = col;
         }
     
+        public override int GetHashCode()
+        {
+            unchecked
+            {
+                int result = 17;
+                result = result * 23 + row.GetHashCode();
+                result = result * 23 + col.GetHashCode();
+                return result;
+            }
+        }
+
+        public bool Equals(MatrixCoordinates value)
+        {
+            if (ReferenceEquals(null, value))
+            {
+                return false;
+            }
+            if (ReferenceEquals(this, value))
+            {
+                return true;
+            }
+            return row == value.row &&
+                col == value.col;
+        }
+
+        public override bool Equals(object obj)
+        {
+            MatrixCoordinates temp = obj as MatrixCoordinates;
+            if (temp == null) return false;
+            return Equals(temp);
+        }
+
         public int Row
         {
             get
