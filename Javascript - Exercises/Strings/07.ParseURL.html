@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            var example = "http://www.devbg.org/forum/index.php";
+            var extractions = ExtractingURL(example);
+            
+            for (var i = 0; i < extractions.length; i++)
+            {
+                console.log(extractions[i]);
+            }
+            
+            function ExtractingURL(url)
+            {
+               
+                var startIndex = 0;
+                var endIndex = 0;
+                var separators = new Array("://", "/");
+                var extractions = [];
+                startIndex = url.indexOf(separators[0], startIndex);
+                if (startIndex > 0)
+                {
+                    extractions.push(url.substr(0, startIndex));
+                    endIndex = url.indexOf(separators[1], startIndex + separators[0].length);
+                    if (endIndex > 0)
+                    {
+                        extractions.push(url.substr(startIndex  + separators[0].length, endIndex - startIndex - separators[0].length));
+                        extractions.push(url.substr(endIndex));
+                    }
+                    else
+                    {
+                        extractions.push(url.substr(startIndex + separators[0].length));
+                        extractions.push("None");
+                    }
+                }
+                else
+                {
+                    extractions.push("None");
+                    startIndex = url.indexOf(separators[1], startIndex + 1);
+                    if (startIndex > 0)
+                    {
+                        extractions.push(url.substr(0, startIndex));
+                        extractions.push(url.substr(startIndex));
+                    }
+                    else
+                    {
+                        extractions.push(url);
+                        extractions.push("None");
+                    }
+                }
+                return extractions;
+            }
+        </script>
+    </body>
+</html>

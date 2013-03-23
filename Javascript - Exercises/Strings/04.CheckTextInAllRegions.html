@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function getRegion(text, startTagIndex, endTagIndex)
+            {
+                var region = text.substring(startTagIndex + 1, endTagIndex);
+                return region;
+            }
+
+            function RandomTransformText(textToBeTransform)
+            {
+                var newText = []
+                var number;
+                for (var i = 0; i < textToBeTransform.length; i++)
+                {
+                    number = Math.floor((Math.random() * 2) + 1);
+                    switch (number)
+                    {
+                        case 1:
+                            {
+                                newText.push(textToBeTransform[i].toUpperCase());
+                                break;
+                            }
+            
+                        case 2:
+                            {
+                                newText.push(textToBeTransform[i].toLowerCase());
+                                break;
+                            }
+                        default:
+                            {
+                                console.log("Error in TransformText()");
+                                break;
+                            }
+                    }
+                }
+            
+                return newText.join("");
+            }
+            
+            function transformText(textToBeTransform, listOfRegions)
+            {
+                var text = textToBeTransform;
+                for (var index = listOfRegions.length - 1; index >= 0; index--)
+                {
+                    switch (listOfRegions[index])
+                    {
+                        case "mixcase":
+                            {
+                                text = RandomTransformText(textToBeTransform);
+                                break;
+                            }
+            
+                        case "upcase":
+                            {
+                                text = textToBeTransform.toUpperCase();
+                                break;
+                            }
+                        case "lowcase":
+                            {
+                                text = textToBeTransform.toLowerCase();
+                                break;
+                            }
+                        default:
+                            {
+                                console.log("No such region");
+                                break;
+                            }
+                    }
+                }
+
+                return text;
+            }
+            
+            var text = "We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else."
+            var newText = [];
+            var isInTag = false;
+            var startTagIndex;
+            var endTagIndex;
+            var listOfRegions = [];
+            var textToBeTransform;
+            
+            for (var index = 0; index < text.length; index++)
+            {
+                if (text[index] == "<")
+                {
+                    startTagIndex = index;
+                    isInTag = true;
+                }
+                else if (isInTag)
+                {
+                    endTagIndex = text.indexOf(">", index);
+                    index = endTagIndex;
+                    isInTag = false;
+                    listOfRegions.push(getRegion(text, startTagIndex, endTagIndex));
+                }
+                else if (listOfRegions.length > 0)
+                {
+                    startTagIndex = text.indexOf("</", index);
+                    textToBeTransform = text.substring(index, startTagIndex);
+                    newText.push(transformText(textToBeTransform, listOfRegions));
+                    index = startTagIndex;
+                    for (var i = 0; i < listOfRegions.length; i++)
+                    {
+                        index = text.indexOf(">", index + 1);
+                    }
+            
+                    listOfRegions = [];
+                }
+                else 
+                {
+                    newText.push(text[index]);
+                }
+            }
+            
+            console.log(newText.join(""));
+        </script>
+    </body>
+</html>

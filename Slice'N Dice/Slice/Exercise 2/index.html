@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Architecture Bureau</title>
+        <link href="style.css" type="text/css" rel="stylesheet"/>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <div id="page_container">
+           <!-- ASIDE!-->
+             <aside id="left_page"> 
+			   <nav id="menu_background">
+					<ul id="menu">
+						 <li class="unhover"> <a href="#">Home</a></li>
+						 <li  class="unhover"><a href="#">Recent Projects</a></li>
+						 <li  class="unhover"><a href="#">Services</a></li>
+						 <li  class="unhover"><a href="#">Clients</a></li>
+						 <li  class="unhover"><a href="#">Solutions</a></li>
+						 <li  class="unhover"><a href="#">Contact us</a></li>
+					</ul>
+				</nav>      
+			   <article id="left_article">
+			   
+				   <header id="left_header">
+					  Latest News
+				   </header>
+				   <section>
+				     <article>
+						   <header class="date">02/03/07</header>
+						   <p class="left_article_text"> Even more websites all about website templates or Just Web Templates</p>
+					 </article>
+				   </section>
+				   <section>
+				     <article>
+						   <header class="date">01/03/07</header>
+						   <p class="left_article_text">If you're looking for beautiful and professionalu made templates you can find them at Template Beauty.</p>
+						   <footer><a href="#" id="left_link">more</a></footer>
+					 </article>
+				   </section>
+			   </article>		  
+               <a href="#"><img src="pics/Support_24_7.png" alt="support" id="support_image"/></a>
+             </aside>		
+		   <!-- MAIN ARTICLE!--> 
+             <article id="right_container">
+			      <section>
+					   <header id="right_header">Welcome to Our Site!</header>
+                       <hr class="line"> 
+					   <article>
+					       <div class="image_main_border">
+                              <div class="image_sub_border">
+									<img src="pics/Image_1.png" alt="image"/>
+                              </div>
+						  </div> 
+						   <p class="image_right_text"> 
+							 Don't forget to check free website templates every day, because we add a new free website tempalte almost daily.</br></br>
+							 You can remove any link to our website from this template you're free to use the template without linking back to us.</br></br>
+							 This is just a place holder so you can see how th site would look like.
+							 
+						  </p>
+				          <footer class="right_link"><a href="#">more</a></footer>
+					   </article>
+				   </section>
+                  <section id="profile">
+				    <header id="second_right_header">Company Profile</header>
+                    <hr class="line">  
+				    <article>
+					   <div class="mini_image_main_border">
+                        <div class="mini_image_sub_border">  
+                         <img src="pics/mini_image_1.png" alt="image" class="mini_image"/>
+                         <hr class="mini_line">
+                         <div class="image_text">Corpareate building</div>    
+                      </div>     
+                     </div>    
+                       <p class="mini_right_text">
+                          If you're having problems editing the templates please don't hesitate to ask for help on the forum.
+                       </p>  
+					</article>
+				    <article>
+						<div class="mini_image_main_border">
+							  <div class="mini_image_sub_border">     
+								  <img src="pics/mini_image_2.png" alt="image" class="mini_image" />
+								  <hr class="mini_line">
+								  <div class="image_text">Industrial</div>      
+							 </div> 
+						 </div>
+                         <p class="mini_right_text">
+							 If you're having problems editing the templates please don't hesitate to ask for help on the forum.
+						 </p>
+					</article>
+				  </section>
+                  <footer id="details"><a href="#">View Details</a></footer>
+               </article>				
+            <!--FOOTER!--> 
+			<footer id="page_footer">Copyright &copy 2007 Company All right reserved.</footer>
+         </div>
+	</body>
+</html>
+
+<script type="text/jscript">
+   
+$(document).ready(function(){
+    
+       $('.unhover').hover(
+       
+           function() {
+               
+			   
+               $(this).addClass('hover').removeClass('unhover');
+               },
+
+             function() {
+
+               $(this).addClass('unhover').removeClass('hover');
+               } 
+
+           );
+    
+    });
+
+</script>

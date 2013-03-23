@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function reverseString(str)
+            {
+                var arrChars = [];
+                for (var index = 0; index < str.length; index++)
+                {
+                    arrChars[index]=(str[str.length - index - 1]);
+                }
+
+                return arrChars.join("");
+            }
+            
+            var str = "peshooooo";
+            
+            console.log(reverseString(str));
+        </script>
+    </body>
+</html>
