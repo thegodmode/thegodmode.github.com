@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>TreeView</title>
+        <style>
+
+            li > ul {
+
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <ul id="menu">
+            <li>
+                <a href="#">Item 1</a>
+                <ul>
+                    <li>
+                        <a href="#">Item 1.1</a>
+                    </li>
+                    <li>
+                        <a href="#">Item 1.2</a>
+                        <ul>
+                            <li>
+                                <a href="#">1.2.1</a>
+                            </li>
+                            <li>
+
+                                <a href="#">1.2.2</a>
+                            </li>
+                            <li>
+                                <a href="#">1.2.3</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Item 1.3</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Item 2</a>
+            </li>
+            <li>
+                <a href="#">Item 3</a>
+                <ul>
+                    <li>
+                        <a href="#">Item 3.1</a>
+                    </li>
+                    <li>
+                        <a href="#">Item 3.2 </a>
+                        <ul>
+                            <li>
+                                <a href="#">3.2.1</a>
+                            </li>
+                            <li>
+                                <a href="#">3.2.2</a>
+                            </li>
+                            <li>
+                                <a href="#">3.2.3</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Item 3.2
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">
+                    Item 4
+                </a>
+            </li>
+        </ul>
+
+        <script>
+            var liTags = document.getElementsByTagName('li');
+            var i = 0;
+
+            for (i = 0; i < liTags.length; i++) {
+                liTags[i].addEventListener('click', showSubList);
+                liTags[i].class = 'expand';
+            }
+
+            function showSubList(event) {
+                if (this.childNodes[1]=== event.target &&
+                    this.getElementsByTagName('ul')[0] != undefined &&
+                    this.getElementsByTagName('ul')[0].style.display == 'block') {
+                    this.getElementsByTagName('ul')[0].style.display = 'none';
+                } else if (this.getElementsByTagName('ul')[0] != undefined) {
+                    this.getElementsByTagName('ul')[0].style.display = 'block';
+                }
+            }
+                       
+        </script>
+    </body>
+</html>
+        

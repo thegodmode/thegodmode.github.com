@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Generate Random Divs</title>
+    </head>
+    <body>
+
+        <form>
+            <label for="number">Enter number:</label>
+            <input id="number" type="number" value="1" /> <br />
+            <input id="submit" type="submit" value="OK"/>
+        </form>
+
+        <script>
+            /// <summary>Generate random number between two numbers include them</summary>
+            /// <param name="startNumber" type="Object">Start interval</param>
+            /// <param name="endNumber" type="Object">End interval</param>
+            /// <return>Return number</return>
+            function generateRandomNumber(startNumber, endNumber) {
+                return Math.floor(
+                    (Math.random() * (endNumber - startNumber + 1) + startNumber));
+            }
+            /// <summary>Generate random rgb string color:
+            /// Example:rgb(12, 14, 15)
+            //  </summary>
+            /// <param name="startNumber" type="Object">Start interval</param>
+            /// <param name="endNumber" type="Object">End interval</param>
+            /// <return>Return string</return>
+            function generateRandomColor(startNumber, endNumber) {
+                return "rgb(" + generateRandomNumber(startNumber, endNumber) + "," +
+                       generateRandomNumber(
+                           startNumber, endNumber) + "," + generateRandomNumber(
+                               startNumber, endNumber) + ")";
+            }
+            /// <summary>Generate random border radius.
+            ///  Example:(7px, 7px, 7px, 7px)  </summary>
+            /// <param name="startNumber" type="Object">Start interval</param>
+            /// <param name="endNumber" type="Object">End interval</param>
+            /// <return>Return string</return>
+            function generateRandomRadius(startNumber, endNumber) {
+                return generateRandomNumber(1, 30) + "px " +
+                       generateRandomNumber(1, 30) + "px " +
+                       generateRandomNumber(1, 30) +
+                       "px";
+            }
+
+            /// <summary>Generate specified number of divs with random width,height,
+            /// background,color,position,borderWidth,borderRadius,boderColor.Inner tag will be alsways
+            /// <stong> with content "DIV" </summary>
+            /// <param name="numberOfDivs" type="Object">The number of divs to be generated</param>
+            function generateRandomDivs(numberOfDivs) {
+                var documentFragment = document.createDocumentFragment();
+                var divElement, i;
+                for (i = 0; i < numberOfDivs; i++) {
+                    divElement = document.createElement("div");
+                    divElement.style.width = generateRandomNumber(20, 100) + "px";
+                    divElement.style.height = generateRandomNumber(50, 100) + "px";
+                    divElement.style.background = generateRandomColor(0, 255);
+                    divElement.style.color = generateRandomColor(0, 255);
+                    divElement.style.position = "absolute";
+                    divElement.style.left = generateRandomNumber(0, 1360) + "px";
+                    divElement.style.top = generateRandomNumber(100, 500) + "px";
+                    divElement.innerHTML = "<strong>DIV</strong>";
+                    divElement.style.borderWidth = generateRandomNumber(1, 20) + "px";
+                    divElement.style.borderStyle = "solid";
+                    divElement.style.borderColor = generateRandomColor(0, 255);
+                    divElement.style.borderRadius = generateRandomRadius(1, 30);
+                    documentFragment.appendChild(divElement);
+                }
+            
+                document.body.appendChild(documentFragment);
+            }
+            
+            var submitButton = document.getElementById("submit");
+            
+            /// <summary>Call generateDiv when certain button is clicked </summary>
+            /// <param name="e" type="Object">Event</param>
+            submitButton.onclick = function (e) {
+                // get the numbers of divs to generate
+                var inputNumber = document.getElementById("number").value;
+                generateRandomDivs(inputNumber);
+                // preserve the default action of event onclick
+                e.preventDefault();
+            };
+        </script>
+    </body>
+</html>
