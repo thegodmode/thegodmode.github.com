@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -38,9 +37,9 @@ class Lybirnth
 
     private static void FillLabyrinth(string[,] labyrinth, Coordinate startCoordinate)
     {
-        Queue<Coordinate> cordiantes = new Queue<Coordinate>();
-        cordiantes.Enqueue(startCoordinate);
-        BreathFirstSearch(cordiantes, labyrinth);
+        Queue<Coordinate> coordinates = new Queue<Coordinate>();
+        coordinates.Enqueue(startCoordinate);
+        BreathFirstSearch(coordinates, labyrinth);
 
         //Stack<Coordinate> cordiantes = new Stack<Coordinate>();
         //cordiantes.Push(startCoordinate);
@@ -49,11 +48,11 @@ class Lybirnth
         FillUnreachableCells(labyrinth);
     }
   
-    private static void BreathFirstSearch(Queue<Coordinate> cordiantes, string[,] labyrinth)
+    private static void BreathFirstSearch(Queue<Coordinate> coordinates, string[,] labyrinth)
     {
-        while (cordiantes.Count != 0)
+        while (coordinates.Count != 0)
         {
-            var currentCordinate = cordiantes.Dequeue();
+            var currentCordinate = coordinates.Dequeue();
             var x = currentCordinate.X;
             var y = currentCordinate.Y;
             var value = currentCordinate.Value + 1;
@@ -61,34 +60,34 @@ class Lybirnth
             if (x + 1 < labyrinth.GetLength(0) && labyrinth[x + 1, y] == "0")
             {
                 labyrinth[x + 1, y] = value.ToString();
-                cordiantes.Enqueue(new Coordinate(x + 1,y,value));
+                coordinates.Enqueue(new Coordinate(x + 1,y,value));
             }
 
             if (x - 1 >= 0 && labyrinth[x - 1, y] == "0")
             {
                 labyrinth[x - 1, y] = value.ToString();
-                cordiantes.Enqueue(new Coordinate(x - 1, y, value));
+                coordinates.Enqueue(new Coordinate(x - 1, y, value));
             }
 
             if (y + 1 < labyrinth.GetLength(1) && labyrinth[x, y + 1] == "0")
             {
                 labyrinth[x, y + 1] = value.ToString();
-                cordiantes.Enqueue(new Coordinate(x, y + 1, value));
+                coordinates.Enqueue(new Coordinate(x, y + 1, value));
             }
 
             if (y - 1 >= 0 && labyrinth[x, y - 1] == "0")
             {
                 labyrinth[x, y - 1] = value.ToString();
-                cordiantes.Enqueue(new Coordinate(x, y - 1, value));
+                coordinates.Enqueue(new Coordinate(x, y - 1, value));
             }
         }
     }
 
-    private static void DepthFirstSearch(Stack<Coordinate> cordiantes, string[,] labyrinth)
+    private static void DepthFirstSearch(Stack<Coordinate> coordinates, string[,] labyrinth)
     {
-        while (cordiantes.Count != 0)
+        while (coordinates.Count != 0)
         {
-            var currentCordinate = cordiantes.Pop();
+            var currentCordinate = coordinates.Pop();
             var x = currentCordinate.X;
             var y = currentCordinate.Y;
             var value = currentCordinate.Value + 1;
@@ -96,25 +95,25 @@ class Lybirnth
             if (x + 1 < labyrinth.GetLength(0) && labyrinth[x + 1, y] == "0")
             {
                 labyrinth[x + 1, y] = value.ToString();
-                cordiantes.Push(new Coordinate(x + 1, y, value));
+                coordinates.Push(new Coordinate(x + 1, y, value));
             }
 
             if (x - 1 >= 0 && labyrinth[x - 1, y] == "0")
             {
                 labyrinth[x - 1, y] = value.ToString();
-                cordiantes.Push(new Coordinate(x - 1, y, value));
+                coordinates.Push(new Coordinate(x - 1, y, value));
             }
 
             if (y + 1 < labyrinth.GetLength(1) && labyrinth[x, y + 1] == "0")
             {
                 labyrinth[x, y + 1] = value.ToString();
-                cordiantes.Push(new Coordinate(x, y + 1, value));
+                coordinates.Push(new Coordinate(x, y + 1, value));
             }
 
             if (y - 1 >= 0 && labyrinth[x, y - 1] == "0")
             {
                 labyrinth[x, y - 1] = value.ToString();
-                cordiantes.Push(new Coordinate(x, y - 1, value));
+                coordinates.Push(new Coordinate(x, y - 1, value));
             }
         }
     }
