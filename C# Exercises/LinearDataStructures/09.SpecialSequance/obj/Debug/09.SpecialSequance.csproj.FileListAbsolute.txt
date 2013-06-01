@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\09.SpecialSequance\bin\Debug\09.SpecialSequance.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\09.SpecialSequance\bin\Debug\09.SpecialSequance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\09.SpecialSequance\bin\Debug\09.SpecialSequance.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\09.SpecialSequance\obj\Debug\09.SpecialSequance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\09.SpecialSequance\obj\Debug\09.SpecialSequance.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\05.RemoveAllNegativeNumbers\obj\Debug\05.RemoveAllNegativeNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\05.RemoveAllNegativeNumbers\obj\Debug\05.RemoveAllNegativeNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\bin\Debug\08.TheMajoritant.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\bin\Debug\08.TheMajoritant.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\bin\Debug\08.TheMajoritant.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\obj\Debug\08.TheMajoritant.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\obj\Debug\08.TheMajoritant.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\08.TheMajoritant\obj\Debug\08.TheMajoritant.pdb

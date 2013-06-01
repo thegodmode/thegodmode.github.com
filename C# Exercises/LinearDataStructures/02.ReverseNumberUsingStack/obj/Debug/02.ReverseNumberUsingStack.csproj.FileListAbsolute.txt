@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\obj\Debug\02.ReverseNumberUsingStack.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\obj\Debug\02.ReverseNumberUsingStack.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\02.ReverseNumberUsingStack\obj\Debug\02.ReverseNumberUsingStack.pdb

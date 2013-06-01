@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\bin\Debug\10.FindShortestSequance.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\bin\Debug\10.FindShortestSequance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\bin\Debug\10.FindShortestSequance.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\obj\Debug\10.FindShortestSequance.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\obj\Debug\10.FindShortestSequance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\10.FindShortestSequance\obj\Debug\10.FindShortestSequance.pdb

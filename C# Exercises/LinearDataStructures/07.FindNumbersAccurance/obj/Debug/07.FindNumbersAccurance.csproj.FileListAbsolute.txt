@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\07.FindNumbersAccurance\bin\Debug\07.FindNumbersAccurance.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\07.FindNumbersAccurance\bin\Debug\07.FindNumbersAccurance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\07.FindNumbersAccurance\bin\Debug\07.FindNumbersAccurance.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\07.FindNumbersAccurance\obj\Debug\07.FindNumbersAccurance.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\07.FindNumbersAccurance\obj\Debug\07.FindNumbersAccurance.pdb

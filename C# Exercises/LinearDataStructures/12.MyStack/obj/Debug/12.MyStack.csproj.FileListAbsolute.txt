@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\bin\Debug\12.MyStack.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\bin\Debug\12.MyStack.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\bin\Debug\12.MyStack.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\obj\Debug\12.MyStack.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\obj\Debug\12.MyStack.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\12.MyStack\obj\Debug\12.MyStack.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\bin\Debug\14.Lybirnth.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\obj\Debug\14.Lybirnth.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\bin\Debug\14.Lybirnth.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\bin\Debug\14.Lybirnth.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\obj\Debug\14.Lybirnth.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\14.Lybirnth\obj\Debug\14.Lybirnth.pdb

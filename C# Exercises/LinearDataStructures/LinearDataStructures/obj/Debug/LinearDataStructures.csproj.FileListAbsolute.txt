@@ -1,0 +1,2 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\bin\Debug\01.ReadNumbers.exe.config
