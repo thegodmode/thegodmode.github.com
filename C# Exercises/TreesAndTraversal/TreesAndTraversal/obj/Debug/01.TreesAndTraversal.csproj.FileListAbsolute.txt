@@ -1,0 +1,3 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\bin\Debug\TreesAndTraversal.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\obj\Debug\TreesAndTraversal.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\obj\Debug\TreesAndTraversal.pdb

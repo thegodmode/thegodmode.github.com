@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\bin\Debug\02.TraverseFileSystem.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\bin\Debug\02.TraverseFileSystem.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\bin\Debug\02.TraverseFileSystem.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\obj\Debug\02.TraverseFileSystem.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\obj\Debug\02.TraverseFileSystem.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\02.TraverseFileSystem\obj\Debug\02.TraverseFileSystem.csprojResolveAssemblyReference.cache
