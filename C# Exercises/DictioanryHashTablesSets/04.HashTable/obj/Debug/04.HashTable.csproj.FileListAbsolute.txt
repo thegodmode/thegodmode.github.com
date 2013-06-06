@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\bin\Debug\04.HashTable.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\bin\Debug\04.HashTable.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\bin\Debug\04.HashTable.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\obj\Debug\04.HashTable.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\obj\Debug\04.HashTable.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\04.HashTable\obj\Debug\04.HashTable.pdb

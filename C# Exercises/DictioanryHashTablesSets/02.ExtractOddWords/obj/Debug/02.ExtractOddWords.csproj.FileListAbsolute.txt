@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\obj\Debug\02.ExtractOddWords.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\obj\Debug\02.ExtractOddWords.pdb
