@@ -1,0 +1,10 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\05.HashedSet.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\obj\Debug\05.HashedSet.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\05.HashedSet.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\05.HashedSet.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\04.HashTable.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\04.HashTable.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\obj\Debug\05.HashedSet.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\obj\Debug\05.HashedSet.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\PowerCollections.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\05.HashedSet\bin\Debug\PowerCollections.xml

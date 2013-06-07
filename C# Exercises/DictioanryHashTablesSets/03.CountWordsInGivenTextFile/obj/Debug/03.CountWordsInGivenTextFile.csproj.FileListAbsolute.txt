@@ -4,3 +4,5 @@ c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\
 c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\03.CountWordsInGivenTextFile\obj\Debug\03.CountWordsInGivenTextFile.csprojResolveAssemblyReference.cache
 c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\03.CountWordsInGivenTextFile\obj\Debug\03.CountWordsInGivenTextFile.exe
 c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\03.CountWordsInGivenTextFile\obj\Debug\03.CountWordsInGivenTextFile.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\03.CountWordsInGivenTextFile\bin\Debug\PowerCollections.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\03.CountWordsInGivenTextFile\bin\Debug\PowerCollections.xml
