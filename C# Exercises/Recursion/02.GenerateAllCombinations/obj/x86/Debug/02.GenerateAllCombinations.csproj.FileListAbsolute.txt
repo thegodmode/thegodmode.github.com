@@ -7,3 +7,8 @@ C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\02.GenerateAllC
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\02.GenerateAllCombinations\bin\Debug\02.GenerateAllCombinations.pdb
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\02.GenerateAllCombinations\obj\x86\Debug\02.GenerateAllCombinations.exe
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\02.GenerateAllCombinations\obj\x86\Debug\02.GenerateAllCombinations.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\02.GenerateAllCombinations\bin\Debug\02.GenerateAllCombinations.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\02.GenerateAllCombinations\bin\Debug\02.GenerateAllCombinations.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\02.GenerateAllCombinations\obj\x86\Debug\02.GenerateAllCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\02.GenerateAllCombinations\obj\x86\Debug\02.GenerateAllCombinations.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\02.GenerateAllCombinations\obj\x86\Debug\02.GenerateAllCombinations.pdb

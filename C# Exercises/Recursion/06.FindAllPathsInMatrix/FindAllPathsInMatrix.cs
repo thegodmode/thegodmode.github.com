@@ -8,8 +8,8 @@ class FindAllPathsInMatrix
 {
     static char[,] matrix = 
                             {
-                                 {' ','x',' ','x'},
-                                 {' ','x','x',' '},
+                                 {' ','x','e','x'},
+                                 {' ','x',' ',' '},
                                  {' ',' ',' ','x'},
                                  {'x','x',' ','e'}
                            };

@@ -5,3 +5,7 @@ C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\09.BFSShortestP
 C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\09.BFSShortestPath\obj\x86\Debug\09.BFSShortestPath.pdb
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\09.BFSShortestPath\obj\x86\Debug\09.BFSShortestPath.exe
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\09.BFSShortestPath\obj\x86\Debug\09.BFSShortestPath.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\09.BFSShortestPath\obj\x86\Debug\09.BFSShortestPath.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\09.BFSShortestPath\obj\x86\Debug\09.BFSShortestPath.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\09.BFSShortestPath\bin\Debug\09.BFSShortestPath.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\09.BFSShortestPath\bin\Debug\09.BFSShortestPath.pdb

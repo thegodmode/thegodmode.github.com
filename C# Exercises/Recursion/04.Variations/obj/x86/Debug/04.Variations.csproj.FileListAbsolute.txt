@@ -7,3 +7,8 @@ C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\04.Variations\o
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\04.Variations\obj\x86\Debug\04.Variations.pdb
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\04.Variations\bin\Debug\04.Variations.exe
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\04.Variations\bin\Debug\04.Variations.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\04.Variations\obj\x86\Debug\04.Variations.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\04.Variations\obj\x86\Debug\04.Variations.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\04.Variations\bin\Debug\04.Variations.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\04.Variations\bin\Debug\04.Variations.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\04.Variations\obj\x86\Debug\04.Variations.csprojResolveAssemblyReference.cache

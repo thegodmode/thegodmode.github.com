@@ -5,3 +5,8 @@ c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInS
 c:\users\bojidar\documents\visual studio 2010\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.pdb
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.exe
 C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\05.AllSubsetInSetOfStrings\bin\Debug\05.AllSubsetInSetOfStrings.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\05.AllSubsetInSetOfStrings\bin\Debug\05.AllSubsetInSetOfStrings.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\05.AllSubsetInSetOfStrings\obj\x86\Debug\05.AllSubsetInSetOfStrings.pdb
