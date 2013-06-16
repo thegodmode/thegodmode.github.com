@@ -1,0 +1,123 @@
+/* Site Colors:
+  #1A446C - blue grey
+  #689DC1 - light blue
+  #D4E6F4 - very light blue
+  #EEE4B9 - light tan
+  #8D0D19 - burgundy
+*/
+
+header#main-header, footer {
+	background-color: #1A446C;
+	color: #D4E6F4;
+}
+
+#main-content {
+	background-color: #EEE4B9;
+	min-height: 500px
+}
+
+footer, header {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+p, h1, body {
+	margin: 0;
+}
+
+/* New styles */
+
+#slider-content {
+
+    width:950px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+
+#slider-content:after, {
+
+    content: " ";
+    display: block;
+    clear: both;
+    
+    }
+
+#slider-content ul{
+   
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   display: block;
+   position: absolute;
+   left: 0;
+   top: 0;
+}
+
+#slider-content ul li img {
+
+    width: 550px;
+    height: 300px;
+    float:left;
+    padding: 0;
+    margin: 20px 70px 30px 20px;
+
+    
+}
+
+#slider-content ul li {
+
+    margin: 0;
+    padding: 0;
+    float: left;
+    
+}
+
+#slider-content .gameInfo {
+   
+   margin-right: 50px;
+   overflow: hidden;  
+}
+
+#slider-content .gameInfo p, #slider-content .gameInfo h2 {
+
+    width:260px;
+    max-height:170px;
+    overflow: hidden;
+}
+#slider-content .gameInfo h2 {
+    max-height:50px;
+}
+
+#slider {
+   
+    overflow: hidden;
+    clear: both;
+}
+
+#slider:after {
+    zoom: 1;
+}
+
+#left-arrow {
+    background-image: url("../images/left_arrow.png");
+    width: 128px;
+    height: 128px;
+    float: left;
+	cursor:pointer;
+}
+
+#right-arrow {
+    background-image: url("../images/right_arrow.png");
+    width: 128px;
+    height: 128px;
+    float: left;
+	cursor:pointer;
+}
+
+
+
