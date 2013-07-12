@@ -1,0 +1,77 @@
+1. CREATE PROC dbo.usp_SelectUsersFullName
+ AS
+   Select FirstName+' '+LastName as[Full Name] from People
+ GO
+-----------------------------------------------------------------------------
+2. CreatePROC dbo.usp_FindPeopleByMoney(
+  @money int)
+ AS
+  Select p.FirstName+' '+p.LastName as[Full Name],
+  a.Balance
+  from People p Join Accounts a
+  on p.PeopleID = AccountsID
+  where a.Balance >= @money
+ GO
+---------------------------------------------------------------------------
+3.  CREATE PROC dbo.usp_CalSumAfterInterest(
+  @money float,@yearlyInterest float, @months float)
+ AS
+   DECLARE @monthInter float = @yearlyInterest/12
+   DECLARE @result float =@money
+   while(@months>0)
+   begin
+    set @result = @result + (@result*@monthInter/100.0);
+	set @months = @months-1;
+   end
+   return @result
+ GO
+------------------------------------------------------------------------------------
+4.  CREATE PROC dbo.usp_CalUserInterest(
+  @AccountId int,@yearlyInterest float)
+ AS
+  DECLARE @userMoney money
+  DECLARE @result money
+  select  @userMoney = Balance from Accounts
+  where PeopleID = @AccountId
+  EXEC @result = dbo.usp_CalSumAfterInterest @userMoney,@yearlyInterest,1
+  return @result
+ GO
+ 
+ -----------------------------------------------------------------------------------
+5. ALTER PROC dbo.usp_WithdrawMoney(@AccountId int,@money money)
+AS
+declare @balance money
+select @balance = Balance from Accounts
+where AccountsID = @AccountId
+if(@balance>@money)
+begin
+UPDATE Accounts
+SET Balance= Balance - @money
+WHERE AccountsID = @AccountId
+return 1
+end
+else
+return 0
+GO
+/////////////////////
+CREATE PROC dbo.usp_DepositMoney (@AccountId int,@money money)
+AS
+UPDATE Accounts
+SET Balance= Balance + @money
+WHERE AccountsID = @AccountId
+GO
+
+-------------------------------------------------------------------------------------------------------------------
+6. ALTER TRIGGER [dbo].[tr_AccountsLogin] ON [dbo].[Accounts]
+  FOR  UPDATE
+AS
+   DECLARE @before money
+   DECLARE @after money
+   DECLARE @accID int
+   SELECT @before = Balance  FROM inserted 
+   SELECT @after = Balance FROM deleted
+   SELECT @accID = AccountsID from inserted
+   INSERT INTO Logs
+   VALUES(@accID,@before,@after);
+---------------------------------------------------------------------------------------------------------------
+ 
