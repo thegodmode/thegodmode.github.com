@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo</title>
+        <style>
+            tr td {
+
+                margin-right:30px;
+                display:inline-block;
+            }
+            tr {
+
+                margin-bottom:30px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <script type="x-mustache-template" id="person-template">	
+            <strong>{{Fname}}{{Lname}}</strong>
+            <strong>"Grade"{{Grade}}</strong>
+            <ul>
+            {{#Marks}} 
+            <li>
+            {{Subject}}: <strong>{{Score}}</strong>							
+            </li>
+            {{/Marks}}
+            {{^Marks}}	   
+            <li>
+            This student has no marks, yet	  						
+            </li>
+            {{/Marks}}
+            </ul>			
+        </script>
+
+
+        <div id="content"></div>
+
+        <script src="Scripts/class.js"></script>
+        <script src="Scripts/school.js"></script>
+        <script src="Scripts/tableView.js"></script>
+        <script src="Scripts/mustache.js"></script>
+        <script src="Scripts/jquery-2.0.3.min.js"></script>
+        <script src="Scripts/httpRequester.js"></script>
+        <script src="Scripts/main.js"></script>
+    </body>
+</html>
