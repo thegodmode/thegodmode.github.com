@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Require\Students.Client\bin\Students.Client.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\Require\Students.Client\bin\Students.Client.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Require\Students.Client\obj\Debug\Students.Client.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\Require\Students.Client\obj\Debug\Students.Client.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\Require\Students.Client\obj\Debug\Students.Client.pdb
