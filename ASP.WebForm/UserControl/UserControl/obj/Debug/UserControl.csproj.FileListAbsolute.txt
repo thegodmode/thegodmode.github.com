@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\bin\UserControl.dll.config
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\bin\UserControl.dll
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\bin\UserControl.pdb
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.dll
+C:\Users\Bojidar\documents\visual studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.pdb
