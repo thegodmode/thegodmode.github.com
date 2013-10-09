@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcExamApplication", "MvcExamApplication\MvcExamApplication.csproj", "{94844F21-A545-4AF9-BE36-19F8212E14CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcExam.Models", "MvcExam.Models\MvcExam.Models.csproj", "{1A6591BC-3823-460F-BA80-95E5A9F7CEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcExam.Data", "MvcExam.Data\MvcExam.Data.csproj", "{D3BD2EEB-4B33-4420-8E25-B6A62FACC257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94844F21-A545-4AF9-BE36-19F8212E14CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94844F21-A545-4AF9-BE36-19F8212E14CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94844F21-A545-4AF9-BE36-19F8212E14CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94844F21-A545-4AF9-BE36-19F8212E14CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6591BC-3823-460F-BA80-95E5A9F7CEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6591BC-3823-460F-BA80-95E5A9F7CEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6591BC-3823-460F-BA80-95E5A9F7CEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6591BC-3823-460F-BA80-95E5A9F7CEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BD2EEB-4B33-4420-8E25-B6A62FACC257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BD2EEB-4B33-4420-8E25-B6A62FACC257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BD2EEB-4B33-4420-8E25-B6A62FACC257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BD2EEB-4B33-4420-8E25-B6A62FACC257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

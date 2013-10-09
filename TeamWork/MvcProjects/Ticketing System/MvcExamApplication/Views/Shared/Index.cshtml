@@ -1,0 +1,32 @@
+﻿@model ICollection<MvcExamApplication.ViewModels.Ticket.TicketShortViewModel>
+@{
+    ViewBag.Title = "Home Page";  
+}
+
+<div class="row-fluid">
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+
+
+            <div class="span4">
+                <h2>@Model.ElementAt(i).Title</h2>
+                <p>
+                    <strong>Category: </strong>@Model.ElementAt(i).NameOfCategory
+                </p>
+                <p>
+                    <strong>Author: </strong>@Model.ElementAt(i).NameOfAuthor
+                </p>
+                <p>
+                    @Model.ElementAt(i).NumberOfComments comment(s)
+                </p>
+                <a class="btn" href="@Url.Action("Details", "Home", new { @Model.ElementAt(i).Id })">More Details...</a>
+            </div>
+
+            if ((i + 1) % 3 == 0 && (i + 1) < Model.Count())
+            {
+                @:</div>
+            @:<div class="row-fluid">
+            }
+    }
+
+</div>

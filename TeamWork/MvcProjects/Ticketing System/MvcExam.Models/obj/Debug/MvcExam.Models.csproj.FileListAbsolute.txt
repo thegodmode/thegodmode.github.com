@@ -1,0 +1,14 @@
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\MvcExam.Models.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\MvcExam.Models.pdb
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\obj\Debug\MvcExam.Models.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\obj\Debug\MvcExam.Models.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\obj\Debug\MvcExam.Models.pdb
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\MvcExam.Models.dll.config
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\EntityFramework.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\EntityFramework.xml
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\bojidar\documents\visual studio 2013\Projects\MvcExam\MvcExam.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
