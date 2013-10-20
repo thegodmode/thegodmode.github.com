@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Showroom.Models", "Showroom.Models\Showroom.Models.csproj", "{5B69FBEE-02CA-48BC-829E-D14F1B1184E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Showroom.Data", "Showroom.Data\Showroom.Data.csproj", "{63CE3DE4-BC76-461C-9B97-297DF2E97388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Showroom.WebApi", "Showroom.WebApi\Showroom.WebApi.csproj", "{5FDEF2B9-D4B2-4732-A029-0721B96269A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Showroom.MessageHandlers", "Showroom.MessageHandlers\Showroom.MessageHandlers.csproj", "{38C01AF3-FE66-442D-B026-B5CE0FF0BF19}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs22
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Showroom.Data\\Showroom.Data.csproj
+		SccProjectName1 = Showroom.Data
+		SccLocalPath1 = Showroom.Data
+		SccProjectUniqueName2 = Showroom.Models\\Showroom.Models.csproj
+		SccProjectName2 = Showroom.Models
+		SccLocalPath2 = Showroom.Models
+		SccProjectUniqueName3 = Showroom.WebApi\\Showroom.WebApi.csproj
+		SccProjectName3 = Showroom.WebApi
+		SccLocalPath3 = Showroom.WebApi
+		SccProjectUniqueName4 = Showroom.MessageHandlers\\Showroom.MessageHandlers.csproj
+		SccProjectName4 = Showroom.MessageHandlers
+		SccLocalPath4 = Showroom.MessageHandlers
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B69FBEE-02CA-48BC-829E-D14F1B1184E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B69FBEE-02CA-48BC-829E-D14F1B1184E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B69FBEE-02CA-48BC-829E-D14F1B1184E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B69FBEE-02CA-48BC-829E-D14F1B1184E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CE3DE4-BC76-461C-9B97-297DF2E97388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CE3DE4-BC76-461C-9B97-297DF2E97388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CE3DE4-BC76-461C-9B97-297DF2E97388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CE3DE4-BC76-461C-9B97-297DF2E97388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDEF2B9-D4B2-4732-A029-0721B96269A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDEF2B9-D4B2-4732-A029-0721B96269A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDEF2B9-D4B2-4732-A029-0721B96269A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDEF2B9-D4B2-4732-A029-0721B96269A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C01AF3-FE66-442D-B026-B5CE0FF0BF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C01AF3-FE66-442D-B026-B5CE0FF0BF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C01AF3-FE66-442D-B026-B5CE0FF0BF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C01AF3-FE66-442D-B026-B5CE0FF0BF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

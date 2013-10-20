@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.MessageHandlers\bin\Debug\Showroom.MessageHandlers.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.MessageHandlers\bin\Debug\Showroom.MessageHandlers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.MessageHandlers\obj\Debug\Showroom.MessageHandlers.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.MessageHandlers\obj\Debug\Showroom.MessageHandlers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.MessageHandlers\obj\Debug\Showroom.MessageHandlers.csprojResolveAssemblyReference.cache

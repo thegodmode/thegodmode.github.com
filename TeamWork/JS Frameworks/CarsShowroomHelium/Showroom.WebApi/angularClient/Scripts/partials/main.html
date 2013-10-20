@@ -1,0 +1,35 @@
+﻿<button id="logout" class="btn btn-primary"
+        ng-click="logoutUser()">LogOut</button>
+<h1>
+    Welcome <span>{{admin.username}}</span>
+</h1>
+
+<ul id="buttons-list">
+    <li>
+        <button id="save" class="btn btn-primary"
+                ng-click="setAdminRights()">SetAdminRights</button>
+    </li>
+    <li>
+        <button id="removerights" class="btn btn-primary"
+                ng-click="removeAdminRights()">RemoveAdminRights</button>
+    </li>
+    <li>
+        <button id="deleteusers" class="btn btn-primary"
+                ng-click="deleteUsers()">DeleteUsers</button>
+    </li>
+</ul>
+
+
+<div class="gridStyle" ng-grid="gridOptions">
+
+</div>
+
+<div class="items"  ng-repeat="item in itemsToUpdate">
+
+    <h2> User: {{item.username}}</h2>
+    <ul class="selectedItems"  ng-repeat="offert in item.offersTitles">
+       <li><a href='#/offers/{{offert.id}}'> {{offert.title}} </a></li> 
+
+    </ul>
+</div>
+  

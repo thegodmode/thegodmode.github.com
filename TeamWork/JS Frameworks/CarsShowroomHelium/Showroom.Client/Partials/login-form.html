@@ -1,0 +1,39 @@
+﻿
+<div id="tabstrip">
+    <ul>
+        <li class="k-state-active">Register
+        </li>
+        <li>Login
+        </li>
+        <li>Login as Admin
+        </li>
+    </ul>
+    <div>
+        <div class="weather">
+            <label for="tb-username">Username</label>
+            <input data-bind="value: username" type="text" id="tb-username" />
+            <label for="tb-password">Password</label>
+            <input data-bind="value: password" type="password" id="tb-password" />
+        </div>
+        <button data-bind="click: register">Register</button>
+    </div>
+    <div>
+        <div>
+            <label for="tb-login-username">Username</label>
+            <input data-bind="value: username" type="text" id="tb-login-username" />
+            <label for="tb-login-password">Password</label>
+            <input data-bind="value: password" type="password" id="tb-login-password" />
+        </div>                
+        <button data-bind="click: login">Login</button>
+    </div>
+    <div>
+        <div class="weather">
+            <label for="tb-admin-username">Username</label>
+            <input data-bind="value: username" type="text" id="tb-admin-username" />
+            <label for="tb-admin-password">Password</label>
+            <input data-bind="value: password" type="password" id="tb-admin-password" />
+        </div>                
+        <button data-bind="click: login">Login</button>
+    </div>
+</div>
+
