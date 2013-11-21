@@ -1,0 +1,17 @@
+﻿To: @ViewBag.To
+Subject: Email Verification at HotLikes.com
+
+<html>
+    <body>
+        <h1>Dear @ViewBag.FullName,</h1>
+        <p>You have made a registration at HotLikes.com.
+            Please click on the following URL in order to
+            confirm the registration. </p>
+        <p>
+            Verification Link:
+            <a href="http://localhost:39599/Account/Register/?key=@ViewBag.VerificationKey&id=@ViewBag.UserId">
+                Verification Link
+            </a>
+        </p>
+    </body>
+</html>

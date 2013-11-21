@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "HotLikes";
+    ViewBag.HideLogin = true;
+}
+
+<div id="EmailConfirm">
+    <header>
+        <h2>Confirm your email address</h2>
+    </header>
+    <div id="confirmation-container">
+        <div id="email-send">
+        </div>
+        <div>
+            To continue, please click on the link we sent to <strong>@ViewBag.Email</strong>. This will confirm your email as your contact address.
+        </div>
+    </div>
+    <footer>
+        <a href="http://www.@ViewBag.LinkToMail" id="EmailLink" target='_blank'>Go to your email</a>
+        @Ajax.ActionLink("Resend confirmation email", "ResendEmail", "Account", null, new AjaxOptions
+        {
+            HttpMethod = "GET",
+            OnSuccess = "HotLikes.utils.emailResendSuccessfull",
+            OnBegin = "return HotLikes.utils.checkEmailIsSend()"
+        }, new { @class = "link" })
+
+    </footer>
+</div>
+
+@section scripts {
+
+    @Scripts.Render("~/bundles/ajax")
+    @Scripts.Render("~/bundles/utils")
+}
+
