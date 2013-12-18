@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="ba692303-79b3-4db2-86cc-7e38b04668fd">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Skeleton/Content/bootstrap.css</FileRelativePath>
+        <ProjectRelativePath>Skeleton/Skeleton.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>8955920619622301386</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Skeleton/Content/bootstrap.min.css</FileRelativePath>
+        <ProjectRelativePath>Skeleton/Skeleton.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>15255017624466104006</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

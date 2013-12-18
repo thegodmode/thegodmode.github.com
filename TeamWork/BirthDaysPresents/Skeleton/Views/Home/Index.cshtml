@@ -1,0 +1,88 @@
+﻿@using Skeleton.ViewModels.Vote
+
+@model ICollection<Skeleton.ViewModels.Offer.OfferViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>
+    Welcome to Birth Days Presents System
+</h1>
+
+<div id="active-votes">Current Active Votes:</div>
+<div>
+    <span> - Available for Voting </span>
+    <ul>
+        @if (@Model.Count > 0)
+        {
+            foreach (var item in @Model)
+            {
+               
+                            <li>
+                                <h5>
+                                    Present for <span class="celebrator">@item.Celebrator</span> (BirthDay in @item.Year)
+                                </h5>
+                                @using (Ajax.BeginForm("VoteForPresent", "Vote",
+                                    new
+                                {
+                                    OfferId = @item.OfferId
+                                },
+                                    new AjaxOptions
+                                    {
+                                        HttpMethod = "POST",
+                                        InsertionMode = InsertionMode.Replace,
+                                        UpdateTargetId = "vote-container-" + @item.OfferId
+                                    }))
+                                {
+                            <div id="vote-container-@item.OfferId">
+                                <select name="PresentId">
+                                    @foreach (var present in item.PresentsData)
+                                    {
+                                                                            <option value="@present.Id">@present.Name</option>
+                                    }
+                                </select>
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Vote" class="btn btn-default vote" />
+                                    </div>
+                                </div>
+                            </div>
+                                }
+            
+                                <strong>Created By: @item.CreatorName</strong>
+                            </li>
+            }
+        }
+        else
+        {
+            <li>No One</li>
+        }
+    </ul>
+</div>
+<div>
+    <span> - Finished Voting</span>
+
+    <ul>
+        @if (ViewBag.VotedOffers.Count > 0)
+        {
+            foreach (var item in ViewBag.VotedOffers)
+            {
+                            <li>
+                                <h5>
+                                    Present for <span class="celebrator">@item.Celebrator</span> (BirthDay in @item.Year)
+                                </h5>
+                                @Html.Partial("_VoteForPresentPartial", @item.Votes as ICollection<GroupVotesViewModel>) <strong>Created By: @item.Author</strong>
+                            </li>
+            }
+        }
+        else
+        {
+            <li>No One</li>
+        }
+    </ul>
+        
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/ajax")
+}
+    

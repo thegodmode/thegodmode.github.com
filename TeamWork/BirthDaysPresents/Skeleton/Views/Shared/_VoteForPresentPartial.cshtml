@@ -1,0 +1,36 @@
+﻿@model ICollection<Skeleton.ViewModels.Vote.GroupVotesViewModel>
+
+@{
+    ViewBag.Title = "_VoteForPresentPartial";
+}
+
+<h4>Vote Results:</h4>
+
+<ul>
+    @if (@Model.Count > 0)
+    {
+        foreach (var item in @Model)
+        {
+                    <li>
+                        <strong>@item.PresentName -</strong>
+                        <span>
+                            @for (int i = 0; i < item.Names.Count; i++)
+                            {
+                                                            @Html.Raw(item.Names.ElementAt(i))
+                                                            if (i + 1 < item.Names.Count)
+                                                            {
+                                                                                                                            @Html.Raw(", ")
+                                                            }
+                            }
+                        </span>
+        
+                        <strong> (@item.Count)</strong>
+                    </li>
+        }
+    }
+    else
+    {
+        <li>No One voted</li>
+    }
+</ul>
+<br/>
