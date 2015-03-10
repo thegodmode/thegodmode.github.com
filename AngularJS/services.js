@@ -1,4 +1,7 @@
- app.service("MyService", function() {
+ var services = services || {}
+
+
+ services.myService =  function() {
  	
  	this.getCustomers = function() {
  		var customers = [{
@@ -14,4 +17,6 @@
 
  		return customers;
  	}
- })
+ }
+
+ app.service(services);

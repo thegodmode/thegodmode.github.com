@@ -1,3 +1,6 @@
 <div>
-    <h1>Hello test directive {{test}}</h1>
+    <h1 ng-click="update()">Click me damn it !! </h1>
+    <ul id="nav" ng-repeat="customer in customers">
+    	<li>{{customer.name}} - {{customer.city}}</li>
+    </ul>
 </div>
