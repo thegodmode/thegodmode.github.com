@@ -1,0 +1,13 @@
+<div ng-controller="MainController">
+			<h1>{{message}}</h1>
+			<div>
+				{{person.firstName}}  {{person.lastName}} is going to
+				<a href={{person.goingTo}}> Google </a>
+			</div>
+			<input type="text" name="text" placeholder="Search For" ng-model="searchText">
+			{{searchText | uppercase}}
+			<input type="submit" name="submit" value="Search">
+			<div ng-repeat = "user in users | orderBy:'name':!reverse">
+				<div>{{user.name}} - {{user.city}}</div>
+			</div>
+		</div>
