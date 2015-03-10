@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Client\bin\Showroom.Client.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Client\bin\Showroom.Client.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Client\obj\Debug\Showroom.Client.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Client\obj\Debug\Showroom.Client.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Client\obj\Debug\Showroom.Client.pdb

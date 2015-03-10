@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\bin\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\bin\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\bin\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\obj\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\obj\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\04.FindTheLongestSubsequanceOfEqualNumbers\obj\Debug\04.FindTheLongestSubsequanceOfEqualNumbers.pdb

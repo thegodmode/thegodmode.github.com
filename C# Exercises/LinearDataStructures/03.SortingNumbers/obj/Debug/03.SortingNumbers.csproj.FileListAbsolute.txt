@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.csprojResolveAssemblyReference.cache

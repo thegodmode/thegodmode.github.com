@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\14.TranslateWordInDictionary\bin\Debug\14.TranslateWordInDictionary.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\14.TranslateWordInDictionary\bin\Debug\14.TranslateWordInDictionary.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\14.TranslateWordInDictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\14.TranslateWordInDictionary\obj\x86\Debug\14.TranslateWordInDictionary.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\14.TranslateWordInDictionary\obj\x86\Debug\14.TranslateWordInDictionary.pdb

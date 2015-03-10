@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\bin\Debug\TestSchool.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\bin\Debug\TestSchool.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\bin\Debug\TestSchool.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\bin\Debug\School.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\bin\Debug\School.Common.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\obj\Debug\TestSchool.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestSchool\obj\Debug\TestSchool.pdb

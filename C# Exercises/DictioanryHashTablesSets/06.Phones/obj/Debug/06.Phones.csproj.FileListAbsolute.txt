@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\bin\Debug\06.Phones.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\obj\Debug\06.Phones.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\bin\Debug\06.Phones.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\bin\Debug\06.Phones.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\bin\Debug\PowerCollections.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\bin\Debug\PowerCollections.xml
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\obj\Debug\06.Phones.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\06.Phones\obj\Debug\06.Phones.pdb

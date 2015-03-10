@@ -1,0 +1,30 @@
+ship 1
+Row: 7
+Col: 1
+L: 5
+Orientation Horizontal
+----------------------
+ship 2
+Row: 5
+Col: 4
+L: 3
+Orientation Horizontal
+----------------------
+ship 3
+Row: 8
+Col: 2
+L: 3
+Orientation Horizontal
+----------------------
+ship 4
+Row: 6
+Col: 6
+L: 2
+Orientation Horizontal
+----------------------
+ship 5
+Row: 9
+Col: 4
+L: 3
+Orientation Horizontal
+----------------------

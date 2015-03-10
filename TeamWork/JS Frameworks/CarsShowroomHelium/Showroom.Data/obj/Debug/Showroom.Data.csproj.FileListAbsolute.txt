@@ -1,0 +1,10 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\Showroom.Data.dll.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\Showroom.Data.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\Showroom.Data.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\Showroom.Models.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\Showroom.Models.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\obj\Debug\Showroom.Data.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\obj\Debug\Showroom.Data.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\CarsShowRoom\carshowroom\CarsShowroomHelium\Showroom.Data\obj\Debug\Showroom.Data.pdb

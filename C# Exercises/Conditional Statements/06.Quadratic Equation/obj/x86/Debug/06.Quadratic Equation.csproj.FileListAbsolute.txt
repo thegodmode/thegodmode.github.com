@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\06.Quadratic Equation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\06.Quadratic Equation\obj\x86\Debug\06.Quadratic Equation.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\06.Quadratic Equation\obj\x86\Debug\06.Quadratic Equation.pdb

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>TreeView Demo</title>
+    </head>
+    <body>
+        <div id="treeView"></div>
+        <script src="scripts/jquery-1.10.2-min.js"></script>
+        <script src="scripts/treeView.js"></script>
+        <script>
+            $tree = $('#treeView').treeView();
+           
+            $subNode1 = $tree.addNode('Item 1', '#');
+            $subsubNode1 = $subNode1.addNode('Item 1.1', '#');
+              $subsubNode1.addNode('Item 1.1.1', '#');
+              $subsubNode1.addNode('Item 1.1.2', '#');
+              $subsubNode1.addNode('Item 1.1.3', '#');
+            $subNode1.addNode('Item 1.2', '#');
+            $subNode1.addNode('Item 1.3', '#');
+
+ 			$subNode2 = $tree.addNode('Item 2', '#');
+            $subNode2.addNode('Item 2.1', '#');
+            $subNode2.addNode('Item 2.2', '#');
+            $subNode2.addNode('Item 2.3', '#');
+
+           
+            $tree.addNode('Item 3', 'https://www.google.bg/');
+            $tree.addNode('Item 4', 'https://www.google.bg/');
+            $tree.serialize();
+
+        </script>
+    </body>
+</html>

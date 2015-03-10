@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div data-type="template" id="list-item">
+            <strong>-{name}-</strong> <span>-{age}-</span>
+        </div>
+
+        <script>
+              
+            function generateList(people, template)
+            {
+                var arrList = [];
+                var name;
+                var age;
+                var templateReplace;
+                arrList.push("<ul>");
+                for (var index = 0; index < people.length; index++)
+                {
+                    name = people[index].name;
+                    age = people[index].age;
+                    templateReplace = template.replace(/-{name}-/g, name).replace(/-{age}-/, age);
+                    
+                    arrList.push("<li>" + templateReplace + "</li>");
+                }
+
+                arrList.push("</ul>");
+                return arrList;
+            }
+            
+            var people =
+            [
+                { name: "Peter", age: 14 },
+                { name: "Ivan", age: 27 },
+                { name: "Ivo", age: 38 },
+                { name: "Ico", age: 49 },
+                { name: "Peter", age: 14 },
+               
+            
+            ];
+            var template = "<strong>-{name}-</strong> <span>-{age}-</span>";
+            var list;
+            
+            list = generateList(people, template);
+            
+            for (var index = 0; index < list.length; index++)
+            {
+                document.getElementById("list-item").innerHTML = list.join("");
+            }
+        </script>
+    </body>
+</html>
+    

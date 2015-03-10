@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\bin\Debug\Emploees.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\bin\Debug\Emploees.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\bin\Debug\Emploees.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\obj\Debug\Emploees.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\obj\Debug\Emploees.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpSecondSampleExam\Emploees\obj\Debug\Emploees.pdb

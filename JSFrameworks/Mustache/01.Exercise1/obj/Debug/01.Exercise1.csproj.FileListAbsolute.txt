@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Mustache\01.Exercise1\bin\01.Exercise1.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\Mustache\01.Exercise1\bin\01.Exercise1.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Mustache\01.Exercise1\obj\Debug\01.Exercise1.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\Mustache\01.Exercise1\obj\Debug\01.Exercise1.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\Mustache\01.Exercise1\obj\Debug\01.Exercise1.pdb

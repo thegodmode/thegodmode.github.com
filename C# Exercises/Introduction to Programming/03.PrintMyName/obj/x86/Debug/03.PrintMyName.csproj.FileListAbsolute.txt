@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\03.PrintMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\03.PrintMyName\obj\x86\Debug\03.PrintMyName.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\03.PrintMyName\obj\x86\Debug\03.PrintMyName.pdb

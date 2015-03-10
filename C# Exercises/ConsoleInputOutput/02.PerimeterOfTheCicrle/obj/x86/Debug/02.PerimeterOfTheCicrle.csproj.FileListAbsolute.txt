@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\bin\Debug\02.PerimeterOfTheCicrle.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\bin\Debug\02.PerimeterOfTheCicrle.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\obj\x86\Debug\02.PerimeterOfTheCicrle.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\obj\x86\Debug\02.PerimeterOfTheCicrle.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\obj\x86\Debug\02.PerimeterOfTheCicrle.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\obj\x86\Debug\02.PerimeterOfTheCicrle.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\bin\Debug\02.PerimeterOfTheCicrle.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\02.PerimeterOfTheCicrle\bin\Debug\02.PerimeterOfTheCicrle.pdb

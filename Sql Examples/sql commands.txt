@@ -1,0 +1,142 @@
+ 4. select * from Departments
+-------------------------------------------------------------------------
+ 5. select Name from Departments
+-------------------------------------------------------------------------
+ 6. select FirstName, MiddleName, LastName, Salary from Employees
+-----------------------------------------------------------------------------------
+ 7. select FirstName+''+ 
+		case when MiddleName is NULL then ''
+	        when MiddleName is not NULL then +' '+MiddleName
+		end
+		+' '+LastName as [Full Names]
+		from Employees 
+-----------------------------------------------------------------------------------
+ 8. select FirstName +'.' + LastName+'@telerik.com' as [Full Email Adresses] from Employees 
+-------------------------------------------------------------------------------------------------
+ 9. select DISTINCT Salary from Employees
+     order by Salary
+-------------------------------------------------------------------------------------------------
+10. SELECT
+   e.FirstName, e.MiddleName, e.LastName, e.JobTitle,b.FirstName as BOSS,d.Name AS DepartmentName,
+   a.AddressText as Adress, t.Name as TownName
+ FROM Employees e INNER JOIN Departments d 
+  ON e.DepartmentID = d.DepartmentID
+  Inner Join Employees b
+  on b.ManagerID = e.ManagerID
+  Inner Join Addresses a
+  on e.AddressID = a.AddressID
+  Inner Join Towns t
+  on t.TownID = a.TownID
+ where e.JobTitle = 'Senior Sales Representative' and b.EmployeeID!=e.EmployeeID
+-------------------------------------------------------------------------------------------------------
+11.  select FirstName+''+ 
+     case when MiddleName is NULL then ''
+	  when MiddleName is not NULL then +' '+MiddleName
+     end
+     +' '+LastName as [Full Names] from Employees
+     where FirstName like ('SA%')
+--------------------------------------------------------------------------------------------------------
+12.   select FirstName+''+ 
+		case when MiddleName is NULL then ''
+		 when MiddleName is not NULL then +' '+MiddleName
+		end
+		+' '+LastName as [Full Names] from Employees
+ 		where LastName like ('%ei%')
+-----------------------------------------------------------------------------------------------------
+13.  select FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names] from Employees
+ where Salary BETWEEN 20000 AND 30000;
+--------------------------------------------------------------------------------------------------------
+14.   select FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names] from Employees
+ where Salary =20000 or Salary=14000 or Salary=12600
+---------------------------------------------------------------------------------------------------------
+15.   select FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names] from Employees
+ where ManagerID is NULL
+---------------------------------------------------------------------------------------------------------
+16.   select FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names],Salary from Employees
+ where Salary > 50000
+ order By Salary DESC
+-----------------------------------------------------------------------------------------------------------
+17.    select top 5 FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names],Salary from Employees
+ where Salary > 50000
+ order By Salary DESC
+---------------------------------------------------------------------------------------------------------------
+18.   select FirstName+''+ 
+case when MiddleName is NULL then ''
+	 when MiddleName is not NULL then +' '+MiddleName
+end
++' '+LastName as [Full Names], a.AddressText from Employees Inner Join 
+Addresses a 
+on a.AddressID = Employees.AddressID
+----------------------------------------------------------------------------------------------------------------
+19. SELECT FirstName + ' ' + 
+ CASE 
+ WHEN MiddleName IS NULL THEN ''
+ WHEN MiddleName IS NOT NULL THEN + ' ' + MiddleName
+ END 
++ ' ' + LastName AS [Full Name],
+ e.JobTitle, 
+d.Name AS [Department Name], a.AddressText AS Address, t.Name AS [Town Name]
+ FROM Employees e, Departments d, Addresses a, Towns t
+ WHERE e.DepartmentID = d.DepartmentID
+ AND e.AddressID = a.AddressID
+ AND a.TownID = t.TownID
+-------------------------------------------------------------------------------------------------------------------
+20. 
+select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Full Names], man.FirstName as BOSS
+from Employees e Join Employees man
+on man.EmployeeID =e.ManagerID
+-------------------------------------------------------------------------------------------------------------------
+21. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name], 
+man.FirstName as Manager,
+a.AddressText as Adrress
+from Employees e Join Employees man
+on man.EmployeeID =e.ManagerID
+Join Addresses a 
+on e.AddressID =a.AddressID
+-----------------------------------------------------------------------------------------------------------------------
+22. select name from Departments
+Union
+select name from Towns
+Union
+select AddressText from Addresses
+---------------------------------------------------------------------------------------------------------------------
+23. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name], 
+    m.FirstName as Manager
+    from Employees e
+    left join Employees m on e.ManagerID=m.EmployeeID
+
+
+--------------------------------------------------------------------------------------------------------------------
+24. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name],
+       d.Name
+       from Employees e Join
+       Departments d
+       on d.DepartmentID = e.DepartmentID and (d.Name='Sales' or d.Name='Finance' and e.HireDate between '1995-1-1' and '2000-1-1')
+
+
+
+
+ 
+		
+ 
+ 

@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\03.CompareCharArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\03.CompareCharArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\03.CompareCharArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\03.CompareCharArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\03.CompareCharArrays\obj\x86\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache

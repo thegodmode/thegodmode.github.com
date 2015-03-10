@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\05.TextUpperCase\bin\Debug\05.TextUpperCase.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\05.TextUpperCase\bin\Debug\05.TextUpperCase.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\05.TextUpperCase\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\05.TextUpperCase\obj\x86\Debug\05.TextUpperCase.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\05.TextUpperCase\obj\x86\Debug\05.TextUpperCase.pdb

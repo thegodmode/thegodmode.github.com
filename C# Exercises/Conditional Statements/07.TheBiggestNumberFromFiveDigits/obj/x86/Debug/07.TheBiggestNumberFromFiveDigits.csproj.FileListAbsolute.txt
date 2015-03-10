@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\07.TheBiggestNumberFromFiveDigits\bin\Debug\07.TheBiggestNumberFromFiveDigits.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\07.TheBiggestNumberFromFiveDigits\bin\Debug\07.TheBiggestNumberFromFiveDigits.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\07.TheBiggestNumberFromFiveDigits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\07.TheBiggestNumberFromFiveDigits\obj\x86\Debug\07.TheBiggestNumberFromFiveDigits.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\07.TheBiggestNumberFromFiveDigits\obj\x86\Debug\07.TheBiggestNumberFromFiveDigits.pdb

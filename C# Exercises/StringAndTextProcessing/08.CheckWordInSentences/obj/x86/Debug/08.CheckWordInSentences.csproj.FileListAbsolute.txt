@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\08.CheckWordInSentences\bin\Debug\08.CheckWordInSentences.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\08.CheckWordInSentences\bin\Debug\08.CheckWordInSentences.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\08.CheckWordInSentences\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\08.CheckWordInSentences\obj\x86\Debug\08.CheckWordInSentences.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\08.CheckWordInSentences\obj\x86\Debug\08.CheckWordInSentences.pdb

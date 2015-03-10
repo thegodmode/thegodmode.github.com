@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\02.ExtractOddWords.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\obj\Debug\02.ExtractOddWords.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\obj\Debug\02.ExtractOddWords.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\PowerCollections.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\bin\Debug\PowerCollections.xml
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\02.ExtractOddWords\obj\Debug\02.ExtractOddWords.csprojResolveAssemblyReference.cache

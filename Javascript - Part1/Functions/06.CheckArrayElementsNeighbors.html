@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            var array = [4,23,2,4,53,6,24,42,141,4124,52,12,4,515,521];
+            var index = 2;
+            var isExist = CheckIndexIsExist(index, array);
+            
+            if (isExist)
+            {
+                var isTrue = CheckElementNeighbors(index, array);
+                console.log("Number " + array[index] + " at position " + index + " is it bigger than its neighbors?-> " + isTrue);
+            }
+            else
+            {
+                Console.WriteLine("This index doesnt exist!");
+            }
+       
+            function CheckIndexIsExist(index, array)
+            {
+                if (index > array.length - 1)
+                {
+                    return false;
+                }
+            
+                return true;
+            }
+            
+            function CheckElementNeighbors(index, array)
+            {
+                if (index == 0)
+                {
+                    if (array[index] > array[index + 1])
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            
+                if (index == array.length - 1)
+                {
+                    if (array[index] > array[index - 1])
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+                else
+                {
+                    if (array[index] > array[index + 1] && array[index] > array[index - 1])
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

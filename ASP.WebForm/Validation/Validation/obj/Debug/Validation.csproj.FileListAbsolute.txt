@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\bin\Validation.dll.config
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\bin\Validation.dll
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\bin\Validation.pdb
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\obj\Debug\Validation.dll
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Validation\Validation\obj\Debug\Validation.pdb

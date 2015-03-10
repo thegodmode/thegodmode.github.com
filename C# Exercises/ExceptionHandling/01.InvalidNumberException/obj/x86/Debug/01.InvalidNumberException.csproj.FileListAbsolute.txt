@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\01.InvalidNumberException\bin\Debug\01.InvalidNumberException.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\01.InvalidNumberException\bin\Debug\01.InvalidNumberException.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\01.InvalidNumberException\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\01.InvalidNumberException\obj\x86\Debug\01.InvalidNumberException.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\01.InvalidNumberException\obj\x86\Debug\01.InvalidNumberException.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.InvalidNumberException\obj\x86\Debug\01.InvalidNumberException.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.InvalidNumberException\obj\x86\Debug\01.InvalidNumberException.pdb

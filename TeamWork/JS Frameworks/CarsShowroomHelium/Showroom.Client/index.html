@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/libs/jquery-2.0.3.js"></script>
+    <script src="Scripts/libs/cryptojs-sha1.js"></script>
+
+    <link href="Styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="Styles/kendo.default.min.css" rel="stylesheet" />
+    <link href="Styles/default.css" rel="stylesheet" />
+
+    <script src="Scripts/libs/class.js"></script>         
+    <script src="Scripts/libs/kendo.all.min.js"></script> 
+    <script src="Scripts/libs/rsvp.min.js"></script>
+    <script src="Scripts/libs/http-requester.js"></script>
+    <script src="Scripts/app/data-persisters.js"></script>
+    <script src="Scripts/app/view-models.js"></script>
+    <script src="Scripts/app/views.js"></script>
+    <script src="Scripts/app-config.js"></script>   
+</head>
+<body>
+    <div id="app"></div> 
+  
+    <!--<script>
+        var headers = {
+            "X-sessionKey": "1QsbH9tpFQWrcXG48Csshqe7RzDcrb7Id7HBumerDQ1BvPUT9L"
+        }
+        var data = httpRequester.getJSON("http://localhost:51597/api/offers", headers).then(function (offers) {
+            var dataSource = new kendo.data.DataSource({
+                data: offers,
+                pageSize: 15
+            });
+
+            console.log(dataSource.options.data);
+
+            $("#pager").kendoPager({
+                dataSource: dataSource
+            });
+
+            $("#listView").kendoListView({
+                dataSource: dataSource,
+                template: kendo.template($("#template").html())
+            });
+        });
+        
+    </script>-->
+   
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\bin\Debug\TreesAndTraversal.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\bin\Debug\TreesAndTraversal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\bin\Debug\TreesAndTraversal.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\obj\Debug\TreesAndTraversal.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\obj\Debug\TreesAndTraversal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\TreesAndTraversal\TreesAndTraversal\obj\Debug\TreesAndTraversal.pdb

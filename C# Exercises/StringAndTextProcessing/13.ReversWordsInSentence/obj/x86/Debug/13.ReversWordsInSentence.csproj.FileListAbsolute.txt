@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\13.ReversWordsInSentence\bin\Debug\13.ReversWordsInSentence.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\13.ReversWordsInSentence\bin\Debug\13.ReversWordsInSentence.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\13.ReversWordsInSentence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\13.ReversWordsInSentence\obj\x86\Debug\13.ReversWordsInSentence.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\13.ReversWordsInSentence\obj\x86\Debug\13.ReversWordsInSentence.pdb

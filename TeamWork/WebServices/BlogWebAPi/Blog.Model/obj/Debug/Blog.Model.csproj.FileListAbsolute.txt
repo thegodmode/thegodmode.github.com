@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\bin\Debug\Blog.Model.dll.config
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\bin\Debug\Blog.Model.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\bin\Debug\Blog.Model.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\bin\Debug\EntityFramework.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\bin\Debug\EntityFramework.xml
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\obj\Debug\Blog.Model.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\obj\Debug\Blog.Model.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\BlogWebAPi\Blog.Model\obj\Debug\Blog.Model.pdb

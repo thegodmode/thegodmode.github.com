@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\Common.Classes\obj\Debug\Common.Classes.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\Common.Classes\bin\Debug\Common.Classes.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\Common.Classes\bin\Debug\Common.Classes.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\Common.Classes\obj\Debug\Common.Classes.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\Common.Classes\obj\Debug\Common.Classes.pdb

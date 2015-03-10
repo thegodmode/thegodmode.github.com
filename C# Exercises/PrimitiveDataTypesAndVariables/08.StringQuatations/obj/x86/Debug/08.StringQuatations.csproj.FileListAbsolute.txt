@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\bin\Debug\08.StringQuatations.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\bin\Debug\08.StringQuatations.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\obj\x86\Debug\08.StringQuatations.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\obj\x86\Debug\08.StringQuatations.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\obj\x86\Debug\08.StringQuatations.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08.StringQuatations\obj\x86\Debug\08.StringQuatations.pdb

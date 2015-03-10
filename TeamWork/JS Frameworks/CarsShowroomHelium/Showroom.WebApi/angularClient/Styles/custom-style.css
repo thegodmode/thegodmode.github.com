@@ -1,0 +1,83 @@
+﻿body {
+
+    background-color: bisque;
+}
+
+#content {
+    display: none;
+}
+
+/*Login Register */
+form {
+    margin: 0 auto;
+    width: 23%;
+}
+#login-button, #register-button {
+    margin-top: 7px;
+}
+
+#login-username-input, #register-username-input {
+
+    margin-bottom: 5px;
+}
+
+input:focus {
+
+    background-color: yellowgreen;
+    color: black;
+}
+
+#logout {
+
+    margin: 10px;
+    float: right;
+}
+
+h2 {
+    content: ""; 
+    display: block; 
+    clear: both;
+}
+
+/*Main Page */
+
+h1 {
+
+    margin-left:20px;
+}
+h1 span {
+
+    color: red;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.gridStyle {
+    border: 1px solid rgb(212, 212, 212);
+    width: 600px; 
+    height: 300px;
+    margin: 0 auto;
+}
+
+.gridStyle span:hover {
+    cursor: pointer;
+}
+
+#buttons-list {
+
+    list-style:none;
+    margin:40px 0 0 40px;
+    padding:0;
+    float:left;
+}
+
+    #buttons-list li {
+
+        padding-bottom:20px;
+    }
+
+.items {
+
+    width:400px;
+    margin:0 auto;
+}

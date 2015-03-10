@@ -1,0 +1,17 @@
+﻿@model ICollection<Skeleton.ViewModels.User.ShortUserViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Select User</h2>
+
+<ul id="users-list">
+    @foreach (var item in @Model)
+    {
+            <li>
+                
+                @Html.ActionLink(@item.Name, "CreateNewOffer", "Offer", new { @item.UserId }, "")
+            </li>
+    }
+
+</ul>

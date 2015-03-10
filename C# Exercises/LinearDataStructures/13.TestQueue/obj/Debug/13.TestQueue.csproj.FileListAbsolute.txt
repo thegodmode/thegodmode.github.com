@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\bin\Debug\13.TestQueue.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\obj\Debug\13.TestQueue.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\bin\Debug\13.TestQueue.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\bin\Debug\13.TestQueue.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\obj\Debug\13.TestQueue.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\LinearDataStructures\13.TestQueue\obj\Debug\13.TestQueue.pdb

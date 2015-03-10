@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\11.PrintNumber\bin\Debug\11.PrintNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\11.PrintNumber\bin\Debug\11.PrintNumber.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\11.PrintNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\11.PrintNumber\obj\x86\Debug\11.PrintNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\11.PrintNumber\obj\x86\Debug\11.PrintNumber.pdb

@@ -1,0 +1,19 @@
+﻿/// <reference path="tableView.js" />
+/// <reference path="school.js" />
+/// <reference path="httpRequester.js" />
+/// <reference path="jquery-2.0.3.js" />
+/// <reference path="jquery-2.0.3.intellisense.js" />
+
+$(document).ready(function () {
+  
+
+    HttpRequester.getJson("http://localhost:26116/api/students", function (people) {
+        var personTemplate = Mustache.compile(document.getElementById("person-template").innerHTML);
+
+        var tableView = controls.getTableView(people, 1);
+        var createdTableHtml = tableView.createTableView(personTemplate);
+        document.getElementById("content").appendChild(createdTableHtml);
+    }, function (err) {
+        console.log(err);
+    })
+});

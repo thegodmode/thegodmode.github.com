@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\07.SortArrays\bin\Debug\07.SortArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\07.SortArrays\bin\Debug\07.SortArrays.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\07.SortArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\07.SortArrays\obj\x86\Debug\07.SortArrays.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Arrays\07.SortArrays\obj\x86\Debug\07.SortArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\07.SortArrays\obj\x86\Debug\07.SortArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\07.SortArrays\obj\x86\Debug\07.SortArrays.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\07.SortArrays\bin\Debug\07.SortArrays.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\07.SortArrays\bin\Debug\07.SortArrays.pdb

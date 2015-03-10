@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\06.RemoveOddNumbersOfTimes\bin\Debug\06.RemoveOddNumbersOfTimes.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\06.RemoveOddNumbersOfTimes\bin\Debug\06.RemoveOddNumbersOfTimes.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\06.RemoveOddNumbersOfTimes\bin\Debug\06.RemoveOddNumbersOfTimes.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\06.RemoveOddNumbersOfTimes\obj\Debug\06.RemoveOddNumbersOfTimes.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\06.RemoveOddNumbersOfTimes\obj\Debug\06.RemoveOddNumbersOfTimes.pdb

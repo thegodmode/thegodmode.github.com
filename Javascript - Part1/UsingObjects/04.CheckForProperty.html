@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function hasProperty(object, property)
+            {
+                if (object[property] !== undefined)
+                {
+                    return true;
+                }
+                return false;
+            }
+            
+            var arr = [1, 2, 3, 4];
+            var isHasPropety = hasProperty(arr, "ela");
+        
+            console.log(isHasPropety);           
+        </script>
+    </body>
+</html>

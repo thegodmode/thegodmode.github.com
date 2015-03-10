@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\07.ReadnNumbers\bin\Debug\07.ReadnNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\07.ReadnNumbers\bin\Debug\07.ReadnNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\07.ReadnNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\07.ReadnNumbers\obj\x86\Debug\07.ReadnNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\07.ReadnNumbers\obj\x86\Debug\07.ReadnNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07.ReadnNumbers\obj\x86\Debug\07.ReadnNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07.ReadnNumbers\obj\x86\Debug\07.ReadnNumbers.pdb

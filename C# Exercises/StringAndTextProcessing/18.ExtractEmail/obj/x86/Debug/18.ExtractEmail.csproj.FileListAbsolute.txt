@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\18.ExtractEmail\bin\Debug\18.ExtractEmail.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\18.ExtractEmail\bin\Debug\18.ExtractEmail.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\18.ExtractEmail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\18.ExtractEmail\obj\x86\Debug\18.ExtractEmail.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\18.ExtractEmail\obj\x86\Debug\18.ExtractEmail.pdb

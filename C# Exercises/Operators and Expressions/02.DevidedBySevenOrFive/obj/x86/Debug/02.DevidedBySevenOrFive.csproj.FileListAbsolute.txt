@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\02.DevidedBySevenOrFive\bin\Debug\02.DevidedBySevenOrFive.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\02.DevidedBySevenOrFive\bin\Debug\02.DevidedBySevenOrFive.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\02.DevidedBySevenOrFive\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\02.DevidedBySevenOrFive\obj\x86\Debug\02.DevidedBySevenOrFive.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\02.DevidedBySevenOrFive\obj\x86\Debug\02.DevidedBySevenOrFive.pdb

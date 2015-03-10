@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exercise1", "01.Exercise1\01.Exercise1.csproj", "{994E0DD0-260E-4281-98C9-918942686796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Exercise2", "02.Exercise2\02.Exercise2.csproj", "{8A7930BE-1F1B-492F-85E7-17ACBCB3C6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentWebApi", "StudentWebApi\StudentWebApi.csproj", "{3DE13B4F-F46C-4CDD-999C-F95118D98035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994E0DD0-260E-4281-98C9-918942686796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994E0DD0-260E-4281-98C9-918942686796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994E0DD0-260E-4281-98C9-918942686796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994E0DD0-260E-4281-98C9-918942686796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7930BE-1F1B-492F-85E7-17ACBCB3C6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7930BE-1F1B-492F-85E7-17ACBCB3C6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7930BE-1F1B-492F-85E7-17ACBCB3C6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7930BE-1F1B-492F-85E7-17ACBCB3C6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE13B4F-F46C-4CDD-999C-F95118D98035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE13B4F-F46C-4CDD-999C-F95118D98035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE13B4F-F46C-4CDD-999C-F95118D98035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE13B4F-F46C-4CDD-999C-F95118D98035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

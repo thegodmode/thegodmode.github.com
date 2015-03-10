@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\05.PrintLongestString\bin\Debug\05.PrintLongestString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\05.PrintLongestString\bin\Debug\05.PrintLongestString.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\05.PrintLongestString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\05.PrintLongestString\obj\x86\Debug\05.PrintLongestString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\MultidimensionalArrays\05.PrintLongestString\obj\x86\Debug\05.PrintLongestString.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05.PrintLongestString\obj\x86\Debug\05.PrintLongestString.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05.PrintLongestString\obj\x86\Debug\05.PrintLongestString.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05.PrintLongestString\bin\Debug\05.PrintLongestString.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05.PrintLongestString\bin\Debug\05.PrintLongestString.pdb

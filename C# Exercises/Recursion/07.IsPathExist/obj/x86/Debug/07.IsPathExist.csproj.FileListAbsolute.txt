@@ -1,0 +1,9 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\07.IsPathExist\bin\Debug\07.IsPathExist.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\07.IsPathExist\bin\Debug\07.IsPathExist.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\07.IsPathExist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\07.IsPathExist\obj\x86\Debug\07.IsPathExist.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Recursion\07.IsPathExist\obj\x86\Debug\07.IsPathExist.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\07.IsPathExist\obj\x86\Debug\07.IsPathExist.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\07.IsPathExist\obj\x86\Debug\07.IsPathExist.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\07.IsPathExist\bin\Debug\07.IsPathExist.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\Recursion\07.IsPathExist\bin\Debug\07.IsPathExist.pdb

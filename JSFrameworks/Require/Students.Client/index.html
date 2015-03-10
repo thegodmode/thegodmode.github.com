@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Students Demo</title>
+        <style>
+
+            #comboBox {
+
+                margin-top: 50px;
+                margin-left: 300px;
+            }
+            #student-info span {
+            
+                border: 1px solid black;
+                padding: 12px;
+                cursor: pointer;
+                font-size: 22px;
+                font-weight: bold;
+                width: 300px;
+                text-align: center;
+                display: inline-block;
+            }
+            #student-info > span:hover, #student-info > ul li:hover {
+            
+                background-color: sienna;
+                color: white;
+            }
+            
+            #comboBox ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+            }
+            #student-info {
+                float: left;
+            }
+            #student-info > ul {
+                display: none;
+            }
+            #student-info>ul li {
+            
+                border: 1px solid black;
+                padding: 12px;
+                cursor: pointer;
+                font-size: 22px;
+                font-weight: bold;
+                width: 300px;
+                text-align: center;
+            }
+            #student-marks {
+                display: inline-block;
+                margin-left: 50px;
+            }
+            #student-marks ul {
+                border: 1px solid black;
+                width: 300px;
+                padding: 12px;
+            }
+        </style>
+        <script src="Scripts/libs/require.js" data-main="Scripts/app-config"></script>
+        <!--<script src="Scripts/libs/jquery-2.0.3.js"></script>
+        <script src="Scripts/libs/require.js"></script>
+        <script src="Scripts/libs/q.js"></script>
+        <script src="Scripts/libs/class.js"></script>
+        <script src="Scripts/libs/mustache.js"></script>
+        <script src="Scripts/data/httpRequester.js"></script>
+        <script src="Scripts/data/DataPersister.js"></script>
+        <script src="Scripts/data/Controls.js"></script>
+        <script src="Scripts/data/Application.js"></script>-->
+    </head>
+    <body>
+        <div id="comboBox">
+
+        </div>
+        <script type="x-mustache-template" id="student-template">	
+            <div student-id={{Id}}>
+            <strong>Name:{{Name}}</strong><br/>
+            <strong>Grade:{{Grade}}</strong>	
+            </div>
+        </script>
+        <script type="x-mustache-template" id="mark-template">	
+            {{Subject}}: <strong>{{Value}}</strong>		
+        </script>
+    </body>
+</html>
+    

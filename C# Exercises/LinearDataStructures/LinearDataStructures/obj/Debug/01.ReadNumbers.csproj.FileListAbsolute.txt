@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\obj\Debug\01.ReadNumbers.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.pdb
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.exe
+C:\Users\Bojidar\Documents\GitHub\thegodmode.github.com\C# Exercises\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.pdb

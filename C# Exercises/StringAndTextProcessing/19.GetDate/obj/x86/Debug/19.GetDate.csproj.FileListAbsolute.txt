@@ -1,0 +1,7 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\19.GetDate\bin\Debug\19.GetDate.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\19.GetDate\bin\Debug\19.GetDate.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\19.GetDate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\19.GetDate\obj\x86\Debug\19.GetDate.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\19.GetDate\obj\x86\Debug\19.GetDate.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\19.GetDate\obj\x86\Debug\19.GetDate.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\19.GetDate\obj\x86\Debug\19.GetDate.pdb

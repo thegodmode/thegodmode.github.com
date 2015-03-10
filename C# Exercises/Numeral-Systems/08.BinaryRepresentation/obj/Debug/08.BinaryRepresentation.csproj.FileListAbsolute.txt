@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\obj\Debug\08.BinaryRepresentation.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\obj\Debug\08.BinaryRepresentation.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\08.BinaryRepresentation\obj\Debug\08.BinaryRepresentation.csprojResolveAssemblyReference.cache

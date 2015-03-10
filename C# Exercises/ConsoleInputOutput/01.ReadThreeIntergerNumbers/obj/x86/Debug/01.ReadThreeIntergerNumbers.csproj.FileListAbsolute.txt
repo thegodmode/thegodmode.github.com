@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\bin\Debug\01.ReadThreeIntergerNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\bin\Debug\01.ReadThreeIntergerNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\obj\x86\Debug\01.ReadThreeIntergerNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\obj\x86\Debug\01.ReadThreeIntergerNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\obj\x86\Debug\01.ReadThreeIntergerNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\obj\x86\Debug\01.ReadThreeIntergerNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\bin\Debug\01.ReadThreeIntergerNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\01.ReadThreeIntergerNumbers\bin\Debug\01.ReadThreeIntergerNumbers.pdb

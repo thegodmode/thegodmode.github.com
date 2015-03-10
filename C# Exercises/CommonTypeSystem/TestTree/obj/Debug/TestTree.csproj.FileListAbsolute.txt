@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\bin\Debug\TestTree.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\bin\Debug\TestTree.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\bin\Debug\TestTree.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\bin\Debug\BinarySearchTrees.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\bin\Debug\BinarySearchTrees.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\obj\Debug\TestTree.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\obj\Debug\TestTree.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\CommonTypeSystem\TestTree\obj\Debug\TestTree.pdb

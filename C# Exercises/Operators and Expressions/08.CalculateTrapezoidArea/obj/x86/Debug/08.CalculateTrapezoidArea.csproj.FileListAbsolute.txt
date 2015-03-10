@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\08.CalculateTrapezoidArea\bin\Debug\08.CalculateTrapezoidArea.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\08.CalculateTrapezoidArea\bin\Debug\08.CalculateTrapezoidArea.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\08.CalculateTrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\08.CalculateTrapezoidArea\obj\x86\Debug\08.CalculateTrapezoidArea.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\08.CalculateTrapezoidArea\obj\x86\Debug\08.CalculateTrapezoidArea.pdb

@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\04.ReadTwoInteger\bin\Debug\04.ReadTwoInteger.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\04.ReadTwoInteger\bin\Debug\04.ReadTwoInteger.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\04.ReadTwoInteger.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\04.ReadTwoInteger.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\04.ReadTwoInteger.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\04.ReadTwoInteger.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\04.ReadTwoInteger\bin\Debug\04.ReadTwoInteger.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\04.ReadTwoInteger\bin\Debug\04.ReadTwoInteger.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\04.ReadTwoInteger\obj\x86\Debug\04.ReadTwoInteger.csprojResolveAssemblyReference.cache

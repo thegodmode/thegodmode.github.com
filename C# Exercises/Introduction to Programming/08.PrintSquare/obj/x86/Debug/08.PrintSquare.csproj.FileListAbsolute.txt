@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\08.PrintSquare\bin\Debug\08.PrintSquare.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\08.PrintSquare\bin\Debug\08.PrintSquare.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\08.PrintSquare\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\08.PrintSquare\obj\x86\Debug\08.PrintSquare.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\08.PrintSquare\obj\x86\Debug\08.PrintSquare.pdb

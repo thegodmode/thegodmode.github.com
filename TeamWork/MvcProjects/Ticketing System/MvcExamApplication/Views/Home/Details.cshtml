@@ -1,0 +1,79 @@
+﻿@model MvcExamApplication.ViewModels.Ticket.TicketFullViewModel
+@{
+    ViewBag.Title = "Details Page";  
+}
+
+<h2>@Model.Title</h2>
+<h3>Category: @Model.CategoryName</h3>
+
+<div class="row-fluid">
+    <div class="span4">
+        <p>
+            <strong>Author:</strong> @Model.AuthorName
+        </p>
+        <p>
+            <strong>Priority:</strong> @Model.Priority
+        </p>
+    </div>
+    @if (@Model.ScreenshotUrl != null)
+    {
+            <div class="span4">
+                <p>
+                    <img src="@Model.ScreenshotUrl" />
+                </p>
+            </div>
+    }
+   
+    @if (@Model.Description != null)
+    { 
+            <div class="span4">
+
+                <p>
+                    <strong>Description:</strong> @Model.Description
+                </p>
+
+            </div>
+    }
+</div>
+
+<div id="comments-container">
+    @foreach (var item in Model.Comments)
+    {
+            @Html.Partial("_CommentPartial",
+                item)
+    }
+</div>
+
+<div>
+    <span id="error"></span>
+    @if (User.Identity.IsAuthenticated)
+    {
+        using (Ajax.BeginForm("AddComment", "Ticket", new { TicketId = Model.Id }, new AjaxOptions
+        {
+            UpdateTargetId = "comments-container",
+            InsertionMode = InsertionMode.InsertAfter,
+            HttpMethod = "POST",
+            OnFailure = "ErrorMessage",
+            OnBegin = "HideError"
+        }))
+        {
+                    @Html.AntiForgeryToken()
+                    <label for="add-comment">Add Comment</label>
+                    <textarea id="add-comment" name="Content" placeholder="Comment..."></textarea>
+                    <input type="submit" name="Submit" class="btn" />
+        }
+    }
+</div>
+<script>
+    function ErrorMessage(error) {
+        $("#error").show().text(error.statusText);
+    }
+    function HideError() {
+        if ($("#add-comment").val().length == 0) {
+            $("#error").show().text("Comments is required!");
+            return false;
+        }
+        $("#error").show().hide();
+        return true;
+    }
+</script>

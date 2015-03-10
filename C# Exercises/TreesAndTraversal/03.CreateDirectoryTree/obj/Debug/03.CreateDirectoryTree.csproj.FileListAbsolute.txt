@@ -1,0 +1,8 @@
+C:\Users\Bojidar\Desktop\TelerikAcademy-master\TelerikAcademy-master\DataStructuresAndAlgorithms\03.TreesAndTraversals\03.CreateDirectoryTree\bin\Debug\03.CreateDirectoryTree.exe.config
+C:\Users\Bojidar\Desktop\TelerikAcademy-master\TelerikAcademy-master\DataStructuresAndAlgorithms\03.TreesAndTraversals\03.CreateDirectoryTree\bin\Debug\03.CreateDirectoryTree.exe
+C:\Users\Bojidar\Desktop\TelerikAcademy-master\TelerikAcademy-master\DataStructuresAndAlgorithms\03.TreesAndTraversals\03.CreateDirectoryTree\bin\Debug\03.CreateDirectoryTree.pdb
+C:\Users\Bojidar\Desktop\TelerikAcademy-master\TelerikAcademy-master\DataStructuresAndAlgorithms\03.TreesAndTraversals\03.CreateDirectoryTree\obj\Debug\03.CreateDirectoryTree.exe
+C:\Users\Bojidar\Desktop\TelerikAcademy-master\TelerikAcademy-master\DataStructuresAndAlgorithms\03.TreesAndTraversals\03.CreateDirectoryTree\obj\Debug\03.CreateDirectoryTree.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\03.CreateDirectoryTree\bin\Debug\03.CreateDirectoryTree.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\03.CreateDirectoryTree\obj\Debug\03.CreateDirectoryTree.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\TreesAndTraversal\03.CreateDirectoryTree\obj\Debug\03.CreateDirectoryTree.pdb

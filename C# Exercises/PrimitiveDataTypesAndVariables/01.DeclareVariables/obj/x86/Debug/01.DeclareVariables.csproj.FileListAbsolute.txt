@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.pdb

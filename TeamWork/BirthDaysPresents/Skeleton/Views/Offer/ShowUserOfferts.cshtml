@@ -1,0 +1,53 @@
+﻿@model ICollection<Skeleton.ViewModels.Offer.OfferViewModel>
+@{
+    ViewBag.Title = "ShowUserOfferts";
+}
+
+<h2>My Offerts</h2>
+
+<ul>
+    
+    @if (@Model.Count > 0)
+    { 
+        foreach (var item in @Model)
+        {
+        <li>
+            @using (Ajax.BeginForm("StopVoting", "Vote",
+                new
+            {
+                OfferId = @item.OfferId
+            },
+                new AjaxOptions
+                {
+                    HttpMethod = "POST",
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = "vote-container" + -@item.OfferId
+                }))
+            {
+        
+                            <h5>
+                                Present for <span class="celebrator">@item.Celebrator</span> (BirthDay in @item.Year)
+                            </h5>
+    <div id="vote-container-@item.OfferId">
+        @foreach (var present in item.PresentsData)
+        {
+            <div>@present.Name</div>
+        }
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Stop Voting" class="btn btn-default vote" />
+            </div>
+        </div>
+    </div>
+            }
+        </li>
+        }
+    }
+    else
+    {
+        <li><h2>No Active Offerts</h2></li>
+    }
+</ul>
+@section Scripts {
+    @Scripts.Render("~/bundles/ajax")
+}

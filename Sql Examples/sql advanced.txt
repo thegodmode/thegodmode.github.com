@@ -1,0 +1,156 @@
+1. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name],
+ e.Salary
+ from Employees e
+ where Salary = 
+ (Select Min(Salary) from Employees)
+--------------------------------------------------------------------------------------------------
+2.  select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name],
+ e.Salary
+ from Employees e
+ where Salary = 
+ (Select Min(Salary)*1.1 from Employees)
+-------------------------------------------------------------------------------------------------------
+3. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name],
+ e.Salary, d.Name
+ from Employees e Join Departments d
+ on d.DepartmentID = e.DepartmentID
+ WHERE Salary = 
+  (SELECT Min(Salary) FROM Employees 
+   WHERE DepartmentID = e.DepartmentID)
+ORDER BY e.DepartmentID
+---------------------------------------------------------------------------------------------------------
+4. SELECT
+  AVG(Salary) [Average Salary],
+  d.Name
+FROM Employees e Join Departments d
+on d.DepartmentID = e.DepartmentID
+WHERE e.DepartmentID = 1
+GROUP BY d.Name
+---------------------------------------------------------------------------------------------------------
+5.SELECT
+  AVG(Salary) [Average Salary],
+  d.Name
+FROM Employees e Join Departments d
+on d.DepartmentID = e.DepartmentID and d.Name='Sales'
+GROUP BY d.Name
+-------------------------------------------------------------------------------------------------------------
+6.SELECT
+  AVG(Salary) [Average Salary],
+  d.Name,
+  COUNT(*) as Count
+FROM Employees e Join Departments d
+on d.DepartmentID = e.DepartmentID and d.Name='Sales'
+GROUP BY d.Name
+------------------------------------------------------------------------------------------------------------
+7. SELECT
+  COUNT(*) as [Number Of Boss]
+FROM Employees e 
+where e.ManagerID is Null
+-------------------------------------------------------------------------------------------------------------
+8. SELECT
+  COUNT(*) as [Number Of Boss]
+FROM Employees e 
+where e.ManagerID is not Null
+--------------------------------------------------------------------------------------------------------------
+9.SELECT
+  AVG(Salary) [Average Salary],
+  d.Name
+ FROM Employees e Join Departments d
+on d.DepartmentID = e.DepartmentID 
+GROUP BY d.Name
+-------------------------------------------------------------------------------------------------
+10.SELECT
+  AVG(Salary) [Average Salary],
+  d.Name,
+  t.Name as Town,
+  COUNT(*) as Count
+ FROM Employees e Join Departments d
+on d.DepartmentID = e.DepartmentID 
+Join Addresses a
+on a.AddressID = e.AddressID
+Join Towns t
+on t.TownID = a.TownID
+GROUP BY d.Name, t.Name
+---------------------------------------------------------------------------------------------------
+11. SELECT e.FirstName, e.LastName, 
+	(SELECT COUNT(EmployeeID)
+	FROM Employees m
+	WHERE m.ManagerID=e.EmployeeID) as [Employee Count]
+FROM Employees e
+WHERE (SELECT COUNT(EmployeeID)
+		FROM Employees m
+		WHERE m.ManagerID=e.EmployeeID) = 5
+-----------------------------------------------------------------------------------------------------
+12. select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name], 
+    IsNULL(m.FirstName,'no manager') as Manager
+    from Employees e
+    left join Employees m 
+	on e.ManagerID = m.EmployeeID 
+-------------------------------------------------------------------------------------------------------
+13.  select e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [Employes Full Name]
+ from Employees e
+ where LEN(e.LastName) = 5
+---------------------------------------------------------------------------------------------------------
+14.  SELECT convert(varchar, CURRENT_TIMESTAMP, 113)
+--------------------------------------------------------------------------------------------------------
+15. CREATE TABLE Users (
+  UserID int IDENTITY(1,1),
+  UserNames nvarchar(100) NOT NULL,
+  CONSTRAINT AK_UserNames UNIQUE(UserNames),
+  Passwords nvarchar(100) NOT NULL,
+  CHECK(len(Passwords)>=5),
+  FullNames nvarchar(100) NOT NULL,
+  LastLogin datetime NOT NULL,
+  GroupID int NOT NULL,
+  FOREIGN KEY (GroupID) REFERENCES Groups(nameID),
+  CONSTRAINT PK_UserID PRIMARY KEY(UserID))
+-------------------------------------------------------------------------------------------------------
+16.  CREATE VIEW [Today Login Users] AS
+SELECT LastLogin
+FROM Users
+WHERE convert(varchar, LastLogin, 111) =  convert(varchar, getdate(), 111)
+-----------------------------------------------------------------------------------------------------
+17. 18. CREATE TABLE Groups (
+  nameID int IDENTITY(1,1),
+  name nvarchar(100) NOT NULL,
+  CONSTRAINT AK_name UNIQUE(name),
+  CONSTRAINT PK_nameID PRIMARY KEY(nameID)
+  )
+  GO 
+-----------------------------------------------------------------------------------------
+
+19.ALTER PROC dbo.usp_AddUsers
+AS
+ Declare @number int = 1;
+ while(@number<100)
+ begin
+    insert into Users
+	VALUES('Pesron'+ CONVERT(varchar, @number) ,'123456','Bojidar Penchev','2013-07-11 00:00:00',1)
+	Set @number = @number+1
+ end
+
+ EXEC usp_AddUsers
+
+ select * from Users
+-------------------------------------------------------------------------------------------
+20. Create PROC dbo.usp_AddGroups
+AS
+ Declare @number int = 1;
+ while(@number<100)
+ begin
+    insert into Groups
+	VALUES('Firmata'+ CONVERT(varchar, @number))
+	Set @number = @number+1
+ end
+------------------------------------------------------------------------------------------
+22. insert into Users
+select SUBSTRING(e.FirstName, 1, 1) + LOWER(e.LastName) as [UserNames],
+SUBSTRING(e.FirstName, 1, 1) + LOWER(e.LastName) as [Passwords],
+e.FirstName + ' ' + isNull(e.MiddleName+' ','') +  e.LastName as [FullNames],
+NULL as [LastLogin],
+1 as [GroupID]
+from Employees e
+
+
+
+

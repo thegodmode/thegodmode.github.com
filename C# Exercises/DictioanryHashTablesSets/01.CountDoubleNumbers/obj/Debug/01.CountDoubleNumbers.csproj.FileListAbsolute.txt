@@ -1,0 +1,8 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\bin\Debug\01.CountDoubleNumbers.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\bin\Debug\01.CountDoubleNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\bin\Debug\01.CountDoubleNumbers.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\obj\Debug\01.CountDoubleNumbers.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\obj\Debug\01.CountDoubleNumbers.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\obj\Debug\01.CountDoubleNumbers.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\bin\Debug\PowerCollections.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DictioanryHashTablesSets\01.CountDoubleNumbers\bin\Debug\PowerCollections.xml

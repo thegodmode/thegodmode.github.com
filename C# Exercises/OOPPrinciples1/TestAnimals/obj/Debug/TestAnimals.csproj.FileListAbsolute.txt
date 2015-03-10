@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\bin\Debug\TestAnimals.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\bin\Debug\TestAnimals.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\bin\Debug\TestAnimals.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\obj\Debug\TestAnimals.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\obj\Debug\TestAnimals.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\obj\Debug\TestAnimals.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\bin\Debug\Animals.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestAnimals\bin\Debug\Animals.Common.pdb

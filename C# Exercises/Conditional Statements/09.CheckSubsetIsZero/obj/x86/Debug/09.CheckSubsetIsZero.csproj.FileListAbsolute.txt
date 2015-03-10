@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\09.CheckSubsetIsZero\bin\Debug\09.CheckSubsetIsZero.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\09.CheckSubsetIsZero\bin\Debug\09.CheckSubsetIsZero.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\09.CheckSubsetIsZero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\09.CheckSubsetIsZero\obj\x86\Debug\09.CheckSubsetIsZero.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\09.CheckSubsetIsZero\obj\x86\Debug\09.CheckSubsetIsZero.pdb

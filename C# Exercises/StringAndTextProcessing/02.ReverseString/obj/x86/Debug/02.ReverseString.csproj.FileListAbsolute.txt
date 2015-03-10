@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\02.ReverseString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\02.ReverseString\obj\x86\Debug\02.ReverseString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\02.ReverseString\obj\x86\Debug\02.ReverseString.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\02.ReverseString\obj\x86\Debug\02.ReverseString.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\02.ReverseString\obj\x86\Debug\02.ReverseString.pdb

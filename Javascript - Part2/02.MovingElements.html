@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Moving Elements</title>
+        <style>
+           
+            #wrapper {
+
+                width: 300px;
+                height: 300px;
+                margin: 100px auto;
+                position: relative;
+            }
+            #wrapper div {
+                display: inline-block;
+                border: 1px solid red;
+                width: 50px;
+                height: 50px;
+                text-align: center;
+                background: green;
+                position: absolute;
+                border-radius: 30px 30px;
+                position: absolute;
+            }
+            #wrapper div strong {
+                display: block;
+                padding: 14px 0px;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <form>
+            <button id="start">Start</button>
+            <button id="stop" disabled="disabled">Stop </button>
+        </form>
+        <section id="wrapper">
+
+        </section>
+        <script>
+            (function () {
+                'use strict';
+
+                /// <summary>Generate set of divs in circle position</summary>
+                /// <param name="numberOfDivs" type="Object"> Number of divs to be generated</param>
+                /// <return> documentFragment </return>
+                function generateDivElements(numberOfDivs) {
+                    var documentFragment = document.createDocumentFragment();
+                    var angle = 0;
+                    var radius = 50;
+                    var divElement;
+                    for (var i = 0; i < numberOfDivs; i++) {
+                        divElement = document.createElement("div");
+                        divElement.innerHTML = "<strong>" + i + "</strong>";
+                        divElement.style.left = Math.cos(
+                            angle + 2 * Math.PI / numberOfDivs * i) / radius * 5000 + 'px';
+                        divElement.style.top = Math.sin(
+                            angle + 2 * Math.PI / numberOfDivs * i) / radius * 5000 + 'px';
+                        documentFragment.appendChild(divElement);
+                    }
+                    return documentFragment;
+                }
+                /// <summary>Change the position of specified divs </summary>
+                /// <param name="allDivs" type="Object"> divs to change</param>
+                /// <param name="angle" type="Object"> the angle - used to calculate the position </param>
+                /// <param name="radius" type="Object"> the radius -  used to calculate the position </param>
+                function changeDivPosition(allDivs, angle, radius) {
+                    var divLength = allDivs.length;
+                    var i = 0;
+                    for (i = 0; i < divLength; i++) {
+                        allDivs[i].style.left = Math.cos(
+                            angle + 2 * Math.PI / divLength * i) / radius * 5000 +
+                                                'px';
+                        allDivs[i].style.top = Math.sin(
+                            angle + 2 * Math.PI / divLength * i) / radius * 5000 +
+                                               'px';
+                    }
+                }
+                /// <summary>Change the position of specified divs and certain interval</summary>
+                /// <param name="allDivs" type="Object">divs to animate</param>
+                /// <return> The Id of function - SetInterval() </return>
+                function animateDiv(allDivs) {
+                    var radius = 50;
+                    var angle = 0
+                    refreshIntervalId = setInterval(function () {
+                        changeDivPosition(allDivs, angle, radius);
+                        angle += 0.1;
+                    }, 100);
+                    return refreshIntervalId;
+                }
+
+                var startButton = document.getElementById("start");
+                var stopButton = document.getElementById("stop");
+                var refreshIntervalId;
+                var allDivs;
+                var documentFragment = generateDivElements(5);
+
+                document.getElementById("wrapper").appendChild(documentFragment);
+                allDivs = document.getElementsByTagName("div");
+                /// <summary>Start animate divs,disable startButton and enable stopButton</summary>
+                startButton.onclick = function (e) {
+                    refreshIntervalId = animateDiv(allDivs);
+                    e.preventDefault();
+                    stopButton.disabled = false;
+                    startButton.disabled = true;
+                }
+                /// <summary>Stop animate divs,enable startButton and disable stopButton</summary>
+                stopButton.onclick = function (e) {
+                    clearInterval(refreshIntervalId);
+                    e.preventDefault();
+                    stopButton.disabled = true;
+                    startButton.disabled = false;
+                }
+            })();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\12.ASC\bin\Debug\12.ASC.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\12.ASC\bin\Debug\12.ASC.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\12.ASC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\12.ASC\obj\x86\Debug\12.ASC.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\12.ASC\obj\x86\Debug\12.ASC.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12.ASC\obj\x86\Debug\12.ASC.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12.ASC\obj\x86\Debug\12.ASC.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12.ASC\bin\Debug\12.ASC.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12.ASC\bin\Debug\12.ASC.pdb

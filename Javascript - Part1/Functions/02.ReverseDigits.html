@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function Reverse(number)
+            {
+                var reverse = 0;
+                while (number > 0)
+                {
+                    reverse = reverse * 10 + number % 10;
+                    number = parseInt(number / 10);
+                }
+                return reverse;
+            }
+
+            var number = parseInt(prompt("Enter number"));
+            var reverseNumber = Reverse(number);
+            
+            console.log(number + "->" + reverseNumber);  
+        </script>
+    </body>
+</html>

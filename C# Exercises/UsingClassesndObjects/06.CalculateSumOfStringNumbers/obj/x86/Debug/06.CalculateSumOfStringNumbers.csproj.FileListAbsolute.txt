@@ -1,0 +1,10 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\bin\Debug\06.CalculateSumOfStringNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\bin\Debug\06.CalculateSumOfStringNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\06.CalculateSumOfStringNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\06.CalculateSumOfStringNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\06.CalculateSumOfStringNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\06.CalculateSumOfStringNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\bin\Debug\06.CalculateSumOfStringNumbers.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\bin\Debug\06.CalculateSumOfStringNumbers.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\UsingClassesndObjects\06.CalculateSumOfStringNumbers\obj\x86\Debug\06.CalculateSumOfStringNumbers.csprojResolveAssemblyReference.cache

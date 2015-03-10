@@ -1,0 +1,6 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\bin\Debug\04.StudentsAge.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\bin\Debug\04.StudentsAge.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\bin\Debug\04.StudentsAge.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\obj\Debug\04.StudentsAge.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\obj\Debug\04.StudentsAge.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\04.StudentsAge\obj\Debug\04.StudentsAge.csprojResolveAssemblyReference.cache

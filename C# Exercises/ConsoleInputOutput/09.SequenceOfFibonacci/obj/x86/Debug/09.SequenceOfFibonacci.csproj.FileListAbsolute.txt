@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.pdb

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            var expression = "((a+b)()/5-d)";
+            var bracketsCounter = 0;
+            
+            for (var index = 0; index < expression.length; index++)
+            {
+                if (expression[index] == '(')
+                {
+                    bracketsCounter++;
+                }
+                if (expression[index] == ')')
+                {
+                    bracketsCounter--;
+                }
+            }
+
+            if (bracketsCounter != 0)
+            {
+                console.log("This expression has invalid brackets!");
+            }
+            else
+            {
+                console.log("The expression is correct!");
+            }
+        </script>
+    </body>
+</html>

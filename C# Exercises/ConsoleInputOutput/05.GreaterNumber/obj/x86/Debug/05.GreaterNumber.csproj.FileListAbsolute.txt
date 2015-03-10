@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\05.GreaterNumber.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\05.GreaterNumber.pdb

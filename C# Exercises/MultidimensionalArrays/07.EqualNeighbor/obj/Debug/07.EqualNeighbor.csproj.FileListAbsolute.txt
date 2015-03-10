@@ -1,0 +1,6 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\bin\Debug\07.EqualNeighbor.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\bin\Debug\07.EqualNeighbor.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\bin\Debug\07.EqualNeighbor.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\obj\Debug\07.EqualNeighbor.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\obj\Debug\07.EqualNeighbor.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07.EqualNeighbor\obj\Debug\07.EqualNeighbor.pdb

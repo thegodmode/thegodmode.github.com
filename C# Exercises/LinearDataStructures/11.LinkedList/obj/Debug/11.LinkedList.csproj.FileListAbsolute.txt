@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb

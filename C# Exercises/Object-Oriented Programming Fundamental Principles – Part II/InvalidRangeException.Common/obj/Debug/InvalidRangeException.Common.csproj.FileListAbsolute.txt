@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\InvalidRangeException.Common\obj\Debug\InvalidRangeException.Common.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\InvalidRangeException.Common\bin\Debug\InvalidRangeException.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\InvalidRangeException.Common\bin\Debug\InvalidRangeException.Common.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\InvalidRangeException.Common\obj\Debug\InvalidRangeException.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\InvalidRangeException.Common\obj\Debug\InvalidRangeException.Common.pdb

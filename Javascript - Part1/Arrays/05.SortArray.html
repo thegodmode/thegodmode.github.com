@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var array = [10,2,5,3,7,12,15,16,2,14,1];
+            var i = 0;
+            var j = 0;
+            var min = 0;
+            var temp = 0;
+            var k;
+            
+            for (i = 0; i < array.length - 1; i++)
+            {
+                min = i;
+            
+                for (j = i + 1; j < array.length; j++)
+                {
+                    if (array[j] < array[min])
+                    {
+                        min = j;
+                    }
+                }
+            
+                temp = array[i];
+                array[i] = array[min];
+                array[min] = temp;
+            }
+            
+            console.log("{ ");
+            
+            for (k = 0; k < array.length;k++)
+            {
+                if (k < array.length - 1)
+                {
+                    console.log(array[k] + ", ");
+                }
+                else
+                {
+                    console.log(array[k]);
+                }
+            }
+            
+            console.log(" }");
+           
+            
+        
+        </script>
+    </body>
+</html>

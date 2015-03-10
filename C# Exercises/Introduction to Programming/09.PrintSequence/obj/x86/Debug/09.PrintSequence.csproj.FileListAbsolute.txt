@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\09.PrintSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\09.PrintSequence\obj\x86\Debug\09.PrintSequence.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\09.PrintSequence\obj\x86\Debug\09.PrintSequence.pdb

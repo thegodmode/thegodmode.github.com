@@ -1,0 +1,38 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* styles for removing the background from form */
+.no-color {
+  background-color: white;
+  border-style:none;
+}
+.book-title {
+
+    padding:10px;
+    font-size:16pt;
+    background:#EEEEEE;
+}
+
+#categoryTemplate {
+
+    margin-top:50px;
+}
+#MainContent_NewCategoryBtn{
+
+    margin-top:20px;
+    display:block;
+}
+
+#MainContent_Back {
+    margin-top: 20px;
+    display: block;
+}
+table tr td, table tr th {
+
+    text-overflow:ellipsis;
+    overflow:hidden;
+    white-space:nowrap;
+    max-width:150px;
+}

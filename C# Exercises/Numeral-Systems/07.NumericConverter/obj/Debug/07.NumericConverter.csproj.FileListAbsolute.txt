@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\bin\Debug\07.NumericConverter.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\obj\Debug\07.NumericConverter.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\bin\Debug\07.NumericConverter.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\bin\Debug\07.NumericConverter.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\obj\Debug\07.NumericConverter.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\Numeral-Systems\07.NumericConverter\obj\Debug\07.NumericConverter.pdb

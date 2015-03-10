@@ -1,0 +1,182 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseString", "02.ReverseString\02.ReverseString.csproj", "{CF8CB695-3810-4FAF-9FB2-E2DBF4CA2604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CheckBracketsInExpression", "03.CheckBracketsInExpression\03.CheckBracketsInExpression.csproj", "{AE328FF0-D7B5-4AFD-9171-B75DF1933CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindSubStringInString", "04.FindSubStringInString\04.FindSubStringInString.csproj", "{622C147A-D3B0-4CF9-A2B2-765264A24DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TextUpperCase", "05.TextUpperCase\05.TextUpperCase.csproj", "{94C3FF30-6B98-4418-8E86-90AE96F9E9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReadString", "06.ReadString\06.ReadString.csproj", "{F25C2936-2376-42F7-BE07-8695AB318EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.EncodeAndDecodeString", "07.EncodeAndDecodeString\07.EncodeAndDecodeString.csproj", "{BCC3CA69-7E21-4D71-929A-817441EBCB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CheckWordInSentences", "08.CheckWordInSentences\08.CheckWordInSentences.csproj", "{70FBE066-AF3C-43E8-848F-9E98BCA8A9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ReplaceForbiddenWords", "09.ReplaceForbiddenWords\09.ReplaceForbiddenWords.csproj", "{4A89BF07-0A77-4F6D-87E4-15E54548144B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ConvertCharToUnicode", "10.ConvertCharToUnicode\10.ConvertCharToUnicode.csproj", "{88B8041A-AE43-439B-8B38-CC7071C7F808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PrintNumber", "11.PrintNumber\11.PrintNumber.csproj", "{CB8546B8-F313-494A-98E7-CC28D7136670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ExtractURL", "12.ExtractURL\12.ExtractURL.csproj", "{A55F75AD-0C49-4AE7-AD82-3B294C8226AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ReversWordsInSentence", "13.ReversWordsInSentence\13.ReversWordsInSentence.csproj", "{41B9E970-0A48-47B1-B170-54163C7C4279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.TranslateWordInDictionary", "14.TranslateWordInDictionary\14.TranslateWordInDictionary.csproj", "{DA8B7B8E-B13B-43F1-B438-4A35CF720411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.ChangeURL", "15.ChangeURL\15.ChangeURL.csproj", "{B6DAF6C4-5962-4DD5-85D6-F1EB4AA8E344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.CalculateDateDistance", "16.CalculateDateDistance\16.CalculateDateDistance.csproj", "{2C05E9A6-4FBA-416F-BDF6-59FB9539A0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.PrintDate", "17.PrintDate\17.PrintDate.csproj", "{D8EADE31-C081-45A1-805E-EF1640942D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.ExtractEmail", "18.ExtractEmail\18.ExtractEmail.csproj", "{CCA12E3E-053D-42FB-87E7-EC41498597BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.GetDate", "19.GetDate\19.GetDate.csproj", "{05423F2C-496D-4FDD-AE26-595FFC2F6E65}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 19
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://penchev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 02.ReverseString\\02.ReverseString.csproj
+		SccProjectName1 = 02.ReverseString
+		SccLocalPath1 = 02.ReverseString
+		SccProjectUniqueName2 = 03.CheckBracketsInExpression\\03.CheckBracketsInExpression.csproj
+		SccProjectName2 = 03.CheckBracketsInExpression
+		SccLocalPath2 = 03.CheckBracketsInExpression
+		SccProjectUniqueName3 = 04.FindSubStringInString\\04.FindSubStringInString.csproj
+		SccProjectName3 = 04.FindSubStringInString
+		SccLocalPath3 = 04.FindSubStringInString
+		SccProjectUniqueName4 = 05.TextUpperCase\\05.TextUpperCase.csproj
+		SccProjectName4 = 05.TextUpperCase
+		SccLocalPath4 = 05.TextUpperCase
+		SccProjectUniqueName5 = 06.ReadString\\06.ReadString.csproj
+		SccProjectName5 = 06.ReadString
+		SccLocalPath5 = 06.ReadString
+		SccProjectUniqueName6 = 07.EncodeAndDecodeString\\07.EncodeAndDecodeString.csproj
+		SccProjectName6 = 07.EncodeAndDecodeString
+		SccLocalPath6 = 07.EncodeAndDecodeString
+		SccProjectUniqueName7 = 08.CheckWordInSentences\\08.CheckWordInSentences.csproj
+		SccProjectName7 = 08.CheckWordInSentences
+		SccLocalPath7 = 08.CheckWordInSentences
+		SccProjectUniqueName8 = 09.ReplaceForbiddenWords\\09.ReplaceForbiddenWords.csproj
+		SccProjectName8 = 09.ReplaceForbiddenWords
+		SccLocalPath8 = 09.ReplaceForbiddenWords
+		SccProjectUniqueName9 = 10.ConvertCharToUnicode\\10.ConvertCharToUnicode.csproj
+		SccProjectName9 = 10.ConvertCharToUnicode
+		SccLocalPath9 = 10.ConvertCharToUnicode
+		SccProjectUniqueName10 = 11.PrintNumber\\11.PrintNumber.csproj
+		SccProjectName10 = 11.PrintNumber
+		SccLocalPath10 = 11.PrintNumber
+		SccProjectUniqueName11 = 12.ExtractURL\\12.ExtractURL.csproj
+		SccProjectName11 = 12.ExtractURL
+		SccLocalPath11 = 12.ExtractURL
+		SccProjectUniqueName12 = 13.ReversWordsInSentence\\13.ReversWordsInSentence.csproj
+		SccProjectName12 = 13.ReversWordsInSentence
+		SccLocalPath12 = 13.ReversWordsInSentence
+		SccProjectUniqueName13 = 14.TranslateWordInDictionary\\14.TranslateWordInDictionary.csproj
+		SccProjectName13 = 14.TranslateWordInDictionary
+		SccLocalPath13 = 14.TranslateWordInDictionary
+		SccProjectUniqueName14 = 15.ChangeURL\\15.ChangeURL.csproj
+		SccProjectName14 = 15.ChangeURL
+		SccLocalPath14 = 15.ChangeURL
+		SccProjectUniqueName15 = 16.CalculateDateDistance\\16.CalculateDateDistance.csproj
+		SccProjectName15 = 16.CalculateDateDistance
+		SccLocalPath15 = 16.CalculateDateDistance
+		SccProjectUniqueName16 = 17.PrintDate\\17.PrintDate.csproj
+		SccProjectName16 = 17.PrintDate
+		SccLocalPath16 = 17.PrintDate
+		SccProjectUniqueName17 = 18.ExtractEmail\\18.ExtractEmail.csproj
+		SccProjectName17 = 18.ExtractEmail
+		SccLocalPath17 = 18.ExtractEmail
+		SccProjectUniqueName18 = 19.GetDate\\19.GetDate.csproj
+		SccProjectName18 = 19.GetDate
+		SccLocalPath18 = 19.GetDate
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8CB695-3810-4FAF-9FB2-E2DBF4CA2604}.Debug|x86.ActiveCfg = Debug|x86
+		{CF8CB695-3810-4FAF-9FB2-E2DBF4CA2604}.Debug|x86.Build.0 = Debug|x86
+		{CF8CB695-3810-4FAF-9FB2-E2DBF4CA2604}.Release|x86.ActiveCfg = Release|x86
+		{CF8CB695-3810-4FAF-9FB2-E2DBF4CA2604}.Release|x86.Build.0 = Release|x86
+		{AE328FF0-D7B5-4AFD-9171-B75DF1933CDA}.Debug|x86.ActiveCfg = Debug|x86
+		{AE328FF0-D7B5-4AFD-9171-B75DF1933CDA}.Debug|x86.Build.0 = Debug|x86
+		{AE328FF0-D7B5-4AFD-9171-B75DF1933CDA}.Release|x86.ActiveCfg = Release|x86
+		{AE328FF0-D7B5-4AFD-9171-B75DF1933CDA}.Release|x86.Build.0 = Release|x86
+		{622C147A-D3B0-4CF9-A2B2-765264A24DA0}.Debug|x86.ActiveCfg = Debug|x86
+		{622C147A-D3B0-4CF9-A2B2-765264A24DA0}.Debug|x86.Build.0 = Debug|x86
+		{622C147A-D3B0-4CF9-A2B2-765264A24DA0}.Release|x86.ActiveCfg = Release|x86
+		{622C147A-D3B0-4CF9-A2B2-765264A24DA0}.Release|x86.Build.0 = Release|x86
+		{94C3FF30-6B98-4418-8E86-90AE96F9E9CF}.Debug|x86.ActiveCfg = Debug|x86
+		{94C3FF30-6B98-4418-8E86-90AE96F9E9CF}.Debug|x86.Build.0 = Debug|x86
+		{94C3FF30-6B98-4418-8E86-90AE96F9E9CF}.Release|x86.ActiveCfg = Release|x86
+		{94C3FF30-6B98-4418-8E86-90AE96F9E9CF}.Release|x86.Build.0 = Release|x86
+		{F25C2936-2376-42F7-BE07-8695AB318EC3}.Debug|x86.ActiveCfg = Debug|x86
+		{F25C2936-2376-42F7-BE07-8695AB318EC3}.Debug|x86.Build.0 = Debug|x86
+		{F25C2936-2376-42F7-BE07-8695AB318EC3}.Release|x86.ActiveCfg = Release|x86
+		{F25C2936-2376-42F7-BE07-8695AB318EC3}.Release|x86.Build.0 = Release|x86
+		{BCC3CA69-7E21-4D71-929A-817441EBCB7C}.Debug|x86.ActiveCfg = Debug|x86
+		{BCC3CA69-7E21-4D71-929A-817441EBCB7C}.Debug|x86.Build.0 = Debug|x86
+		{BCC3CA69-7E21-4D71-929A-817441EBCB7C}.Release|x86.ActiveCfg = Release|x86
+		{BCC3CA69-7E21-4D71-929A-817441EBCB7C}.Release|x86.Build.0 = Release|x86
+		{70FBE066-AF3C-43E8-848F-9E98BCA8A9ED}.Debug|x86.ActiveCfg = Debug|x86
+		{70FBE066-AF3C-43E8-848F-9E98BCA8A9ED}.Debug|x86.Build.0 = Debug|x86
+		{70FBE066-AF3C-43E8-848F-9E98BCA8A9ED}.Release|x86.ActiveCfg = Release|x86
+		{70FBE066-AF3C-43E8-848F-9E98BCA8A9ED}.Release|x86.Build.0 = Release|x86
+		{4A89BF07-0A77-4F6D-87E4-15E54548144B}.Debug|x86.ActiveCfg = Debug|x86
+		{4A89BF07-0A77-4F6D-87E4-15E54548144B}.Debug|x86.Build.0 = Debug|x86
+		{4A89BF07-0A77-4F6D-87E4-15E54548144B}.Release|x86.ActiveCfg = Release|x86
+		{4A89BF07-0A77-4F6D-87E4-15E54548144B}.Release|x86.Build.0 = Release|x86
+		{88B8041A-AE43-439B-8B38-CC7071C7F808}.Debug|x86.ActiveCfg = Debug|x86
+		{88B8041A-AE43-439B-8B38-CC7071C7F808}.Debug|x86.Build.0 = Debug|x86
+		{88B8041A-AE43-439B-8B38-CC7071C7F808}.Release|x86.ActiveCfg = Release|x86
+		{88B8041A-AE43-439B-8B38-CC7071C7F808}.Release|x86.Build.0 = Release|x86
+		{CB8546B8-F313-494A-98E7-CC28D7136670}.Debug|x86.ActiveCfg = Debug|x86
+		{CB8546B8-F313-494A-98E7-CC28D7136670}.Debug|x86.Build.0 = Debug|x86
+		{CB8546B8-F313-494A-98E7-CC28D7136670}.Release|x86.ActiveCfg = Release|x86
+		{CB8546B8-F313-494A-98E7-CC28D7136670}.Release|x86.Build.0 = Release|x86
+		{A55F75AD-0C49-4AE7-AD82-3B294C8226AE}.Debug|x86.ActiveCfg = Debug|x86
+		{A55F75AD-0C49-4AE7-AD82-3B294C8226AE}.Debug|x86.Build.0 = Debug|x86
+		{A55F75AD-0C49-4AE7-AD82-3B294C8226AE}.Release|x86.ActiveCfg = Release|x86
+		{A55F75AD-0C49-4AE7-AD82-3B294C8226AE}.Release|x86.Build.0 = Release|x86
+		{41B9E970-0A48-47B1-B170-54163C7C4279}.Debug|x86.ActiveCfg = Debug|x86
+		{41B9E970-0A48-47B1-B170-54163C7C4279}.Debug|x86.Build.0 = Debug|x86
+		{41B9E970-0A48-47B1-B170-54163C7C4279}.Release|x86.ActiveCfg = Release|x86
+		{41B9E970-0A48-47B1-B170-54163C7C4279}.Release|x86.Build.0 = Release|x86
+		{DA8B7B8E-B13B-43F1-B438-4A35CF720411}.Debug|x86.ActiveCfg = Debug|x86
+		{DA8B7B8E-B13B-43F1-B438-4A35CF720411}.Debug|x86.Build.0 = Debug|x86
+		{DA8B7B8E-B13B-43F1-B438-4A35CF720411}.Release|x86.ActiveCfg = Release|x86
+		{DA8B7B8E-B13B-43F1-B438-4A35CF720411}.Release|x86.Build.0 = Release|x86
+		{B6DAF6C4-5962-4DD5-85D6-F1EB4AA8E344}.Debug|x86.ActiveCfg = Debug|x86
+		{B6DAF6C4-5962-4DD5-85D6-F1EB4AA8E344}.Debug|x86.Build.0 = Debug|x86
+		{B6DAF6C4-5962-4DD5-85D6-F1EB4AA8E344}.Release|x86.ActiveCfg = Release|x86
+		{B6DAF6C4-5962-4DD5-85D6-F1EB4AA8E344}.Release|x86.Build.0 = Release|x86
+		{2C05E9A6-4FBA-416F-BDF6-59FB9539A0A9}.Debug|x86.ActiveCfg = Debug|x86
+		{2C05E9A6-4FBA-416F-BDF6-59FB9539A0A9}.Debug|x86.Build.0 = Debug|x86
+		{2C05E9A6-4FBA-416F-BDF6-59FB9539A0A9}.Release|x86.ActiveCfg = Release|x86
+		{2C05E9A6-4FBA-416F-BDF6-59FB9539A0A9}.Release|x86.Build.0 = Release|x86
+		{D8EADE31-C081-45A1-805E-EF1640942D22}.Debug|x86.ActiveCfg = Debug|x86
+		{D8EADE31-C081-45A1-805E-EF1640942D22}.Debug|x86.Build.0 = Debug|x86
+		{D8EADE31-C081-45A1-805E-EF1640942D22}.Release|x86.ActiveCfg = Release|x86
+		{D8EADE31-C081-45A1-805E-EF1640942D22}.Release|x86.Build.0 = Release|x86
+		{CCA12E3E-053D-42FB-87E7-EC41498597BE}.Debug|x86.ActiveCfg = Debug|x86
+		{CCA12E3E-053D-42FB-87E7-EC41498597BE}.Debug|x86.Build.0 = Debug|x86
+		{CCA12E3E-053D-42FB-87E7-EC41498597BE}.Release|x86.ActiveCfg = Release|x86
+		{CCA12E3E-053D-42FB-87E7-EC41498597BE}.Release|x86.Build.0 = Release|x86
+		{05423F2C-496D-4FDD-AE26-595FFC2F6E65}.Debug|x86.ActiveCfg = Debug|x86
+		{05423F2C-496D-4FDD-AE26-595FFC2F6E65}.Debug|x86.Build.0 = Debug|x86
+		{05423F2C-496D-4FDD-AE26-595FFC2F6E65}.Release|x86.ActiveCfg = Release|x86
+		{05423F2C-496D-4FDD-AE26-595FFC2F6E65}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\bin\Debug\03.StundentMethod.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\obj\Debug\03.StundentMethod.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\bin\Debug\03.StundentMethod.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\bin\Debug\03.StundentMethod.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\obj\Debug\03.StundentMethod.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\OOP3\03.StundentMethod\obj\Debug\03.StundentMethod.pdb

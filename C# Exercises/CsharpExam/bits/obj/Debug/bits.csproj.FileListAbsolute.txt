@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\bin\Debug\bits.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\bin\Debug\bits.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\bin\Debug\bits.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\obj\Debug\bits.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\obj\Debug\bits.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\bits\obj\Debug\bits.csprojResolveAssemblyReference.cache

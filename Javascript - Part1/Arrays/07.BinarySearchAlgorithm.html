@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var sortedArray = [2, 3, 5, 6, 7, 10, 15, 17,32];
+            var start = 0;
+            var end = sortedArray.length - 1;
+            var middle = 0;
+            var value = 32;
+            var isFind = false
+            while (start <= end)
+            {
+                middle = start + parseInt((end - start) / 2);
+                if (value == sortedArray[middle])
+                {
+                    console.log("Value find at index: " + middle);
+                    isFind = true;
+                    break;
+                }
+                else if (value > sortedArray[middle])
+                {
+                    start = middle + 1;
+                }
+                else
+                {
+                    end = middle - 1;
+                }
+            }
+            if (!isFind) {
+
+                console.log("Value doesnt exist");
+
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\bin\Debug\Sheets.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\bin\Debug\Sheets.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\bin\Debug\Sheets.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\obj\Debug\Sheets.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\obj\Debug\Sheets.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CsharpExam\Sheets\obj\Debug\Sheets.pdb

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            //This is the function
+            function grouped(persons, property)
+            {
+                var grouped = {};
+                var i,j
+                
+                for (i = 0; i < persons.length; i++)
+                {
+                    if (grouped[persons[i][property]])
+                    {
+                        grouped[persons[i][property]];
+                    }
+                    else
+                    {
+                        grouped[persons[i][property]] = 1;
+                    }
+                }
+            
+                return grouped;
+            }
+            
+            var persons =
+            [
+                { firstname: "Gosho", lastname: "Petrov", age: 32 },
+                { firstname: "Bay", lastname: "Ivan", age: 71 },
+                { firstname: "Blagoi", lastname: "Ivanov", age: 12 },
+                { firstname: "Dragan", lastname: "Cankov", age: 62 },
+                { firstname: "Dragan", lastname: "Cankov", age: 62 },
+            ]
+            
+            var groupedByLastName = grouped(persons, "lastname");
+            var groupedByFirstName = grouped(persons, "firstname");
+            
+            for (var i in groupedByLastName)
+            {
+                console.log(i + " => " + groupedByLastName[i]);
+            }
+          /* for (var i in groupedByFirstName)
+            {
+                console.log(i + " => " + groupedByFirstName[i]);
+            }*/            
+        </script>
+    </body>
+</html>
+    

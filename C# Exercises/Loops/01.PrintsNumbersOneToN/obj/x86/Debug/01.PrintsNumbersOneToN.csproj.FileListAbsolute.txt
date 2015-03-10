@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\01.PrintsNumbersOneToN\bin\Debug\01.PrintsNumbersOneToN.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\01.PrintsNumbersOneToN\bin\Debug\01.PrintsNumbersOneToN.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\01.PrintsNumbersOneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\01.PrintsNumbersOneToN\obj\x86\Debug\01.PrintsNumbersOneToN.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\01.PrintsNumbersOneToN\obj\x86\Debug\01.PrintsNumbersOneToN.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Loops\01.PrintsNumbersOneToN\obj\x86\Debug\01.PrintsNumbersOneToN.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Loops\01.PrintsNumbersOneToN\obj\x86\Debug\01.PrintsNumbersOneToN.pdb

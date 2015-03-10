@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\bin\Debug\01.ConverToBinary.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\bin\Debug\01.ConverToBinary.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\bin\Debug\01.ConverToBinary.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\obj\Debug\01.ConverToBinary.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\obj\Debug\01.ConverToBinary.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\01.ConverToBinary\obj\Debug\01.ConverToBinary.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogWebAPi", "BlogWebAPi\BlogWebAPi.csproj", "{80E87BDF-B204-4EE4-BF28-E24D324061C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Model", "Blog.Model\Blog.Model.csproj", "{56ABD968-0837-4565-BAC8-0677DDC5DCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogWebApi.Tests", "BlogWebApi.Tests\BlogWebApi.Tests.csproj", "{A7B7C230-1728-45D8-AA06-13EFCFC827B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E87BDF-B204-4EE4-BF28-E24D324061C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E87BDF-B204-4EE4-BF28-E24D324061C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E87BDF-B204-4EE4-BF28-E24D324061C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E87BDF-B204-4EE4-BF28-E24D324061C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ABD968-0837-4565-BAC8-0677DDC5DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ABD968-0837-4565-BAC8-0677DDC5DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ABD968-0837-4565-BAC8-0677DDC5DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ABD968-0837-4565-BAC8-0677DDC5DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B7C230-1728-45D8-AA06-13EFCFC827B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B7C230-1728-45D8-AA06-13EFCFC827B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B7C230-1728-45D8-AA06-13EFCFC827B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B7C230-1728-45D8-AA06-13EFCFC827B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

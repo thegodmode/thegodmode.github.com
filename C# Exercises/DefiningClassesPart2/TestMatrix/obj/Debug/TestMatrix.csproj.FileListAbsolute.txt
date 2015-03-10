@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\bin\Debug\TestMatrix.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\bin\Debug\TestMatrix.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\bin\Debug\TestMatrix.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\bin\Debug\Common.Classes.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\bin\Debug\Common.Classes.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\obj\Debug\TestMatrix.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\DefiningClassesPart2\TestMatrix\obj\Debug\TestMatrix.pdb

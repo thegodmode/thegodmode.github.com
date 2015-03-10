@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\06.CalculateExpression\bin\Debug\06.CalculateExpression.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\06.CalculateExpression\bin\Debug\06.CalculateExpression.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\06.CalculateExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\06.CalculateExpression\obj\x86\Debug\06.CalculateExpression.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\06.CalculateExpression\obj\x86\Debug\06.CalculateExpression.pdb

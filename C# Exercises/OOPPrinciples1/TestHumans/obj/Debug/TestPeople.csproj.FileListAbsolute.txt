@@ -1,0 +1,8 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\bin\Debug\TestHumans.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\obj\Debug\TestPeople.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\bin\Debug\TestHumans.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\bin\Debug\TestHumans.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\bin\Debug\People.Common.dll
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\bin\Debug\People.Common.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\obj\Debug\TestHumans.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\OOPPrinciples1\TestHumans\obj\Debug\TestHumans.pdb

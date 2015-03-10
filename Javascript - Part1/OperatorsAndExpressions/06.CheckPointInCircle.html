@@ -1,0 +1,28 @@
+﻿<!-- Write an expression that 
+checks if given print (x,  y) 
+is within a circle K(O, 5).
+!-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var point = { X: 0, Y: 0 };
+            
+            point.X = prompt("Enter X");
+            point.Y = prompt("Enter Y");
+            
+            if ((point.X - 0) * (point.X - 0) + (point.Y - 0) * (point.Y - 0) <= 5 * 5)
+            {
+             console.log("The point is In");
+            }
+            else
+            {
+             console.log("The point is OUT");
+            }
+        </script>
+    </body>
+</html>

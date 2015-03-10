@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\bin\Debug\05.HexaDecimalToBinary.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\bin\Debug\05.HexaDecimalToBinary.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\bin\Debug\05.HexaDecimalToBinary.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\obj\Debug\05.HexaDecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\obj\Debug\05.HexaDecimalToBinary.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\05.HexaDecimalToBinary\obj\Debug\05.HexaDecimalToBinary.pdb

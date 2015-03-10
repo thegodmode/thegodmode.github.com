@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function countSubstringInText(text, substring)
+            {
+                var counter = 0;
+                var index = 0;
+                text = text.toLowerCase();
+                substring = substring.toLowerCase();
+                index = text.indexOf(substring, 0);
+                while (index > -1)
+                {
+                    counter++;
+                    index = text.indexOf(substring, index + 1);
+                }
+
+                return counter;
+            }
+            
+            var text = "We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days."
+            
+            console.log(countSubstringInText(text, "in"));
+        </script>
+    </body>
+</html>

@@ -1,0 +1,151 @@
+#wrapper {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+#wrapper:after {
+  display: block;
+  content: "";
+  clear: both;
+  _zoom: 1;
+}
+#wrapper > div {
+  display: block;
+  width: 150px;
+  float: left;
+  border: 1px solid #D7DBDD;
+  margin: 0;
+  padding: 0;
+}
+#wrapper > div:nth-child(1) {
+  background: url('imgs/install.png') no-repeat;
+  background-position: 4px 15px;
+}
+#wrapper > div:nth-child(2) {
+  background: #ffffff;
+  /* Old browsers */
+
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+
+  background: url('imgs/tuneUp.png') no-repeat 4px 15px, -moz-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* FF3.6+ */
+
+  background: url('imgs/tuneUp.png') no-repeat 4px 15px, -webkit-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: url('imgs/tuneUp.png') no-repeat 4px 15px, -o-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Opera 11.10+ */
+
+  background: url('imgs/tuneUp.png') no-repeat 4px 15px, -ms-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* IE10+ */
+
+  background: url('imgs/tuneUp.png') no-repeat 4px 15px, linear-gradient(to bottom, #ffffff 40%, #f1f2f3 80%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#05334b', endColorstr='#73ccf9', GradientType=0);
+  /* IE6-8 */
+
+}
+#wrapper > div:nth-child(3) {
+  background: url('imgs/manage.png') no-repeat;
+  background-position: 4px 15px;
+}
+#wrapper > div:nth-child(4) {
+  background: #ffffff;
+  /* Old browsers */
+
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+
+  background: url('imgs/openSource.png') no-repeat 4px 15px, -moz-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* FF3.6+ */
+
+  background: url('imgs/openSource.png') no-repeat 4px 15px, -webkit-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: url('imgs/openSource.png') no-repeat 4px 15px, -o-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Opera 11.10+ */
+
+  background: url('imgs/openSource.png') no-repeat 4px 15px, -ms-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* IE10+ */
+
+  background: url('imgs/openSource.png') no-repeat 4px 15px, linear-gradient(to bottom, #ffffff 40%, #f1f2f3 80%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#05334b', endColorstr='#73ccf9', GradientType=0);
+  /* IE6-8 */
+
+}
+#wrapper > div:nth-child(5) {
+  background: url('imgs/twitter.png') no-repeat;
+  background-position: 4px 15px;
+}
+#wrapper > div:nth-child(6) {
+  background: #ffffff;
+  /* Old browsers */
+
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+
+  background: url('imgs/about.png') no-repeat 4px 15px, -moz-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* FF3.6+ */
+
+  background: url('imgs/about.png') no-repeat 4px 15px, -webkit-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: url('imgs/about.png') no-repeat 4px 15px, -o-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* Opera 11.10+ */
+
+  background: url('imgs/about.png') no-repeat 4px 15px, -ms-linear-gradient(top, #ffffff 40%, #f1f2f3 80%);
+  /* IE10+ */
+
+  background: url('imgs/about.png') no-repeat 4px 15px, linear-gradient(to bottom, #ffffff 40%, #f1f2f3 80%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#05334b', endColorstr='#73ccf9', GradientType=0);
+  /* IE6-8 */
+
+}
+#wrapper > div:nth-child(2n+1) {
+  height: 270px;
+}
+#wrapper > div:nth-child(2n) {
+  height: 291px;
+}
+#wrapper > div hgroup {
+  margin: 12px 0 0 45px;
+}
+#wrapper > div hgroup h1,
+#wrapper > div hgroup h2,
+#wrapper > div hgroup h3 {
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+#wrapper > div hgroup h2:first-child {
+  margin-top: 32px;
+}
+#wrapper > div p {
+  margin: 24px 6px 0 4px;
+}
+#wrapper > div div {
+  margin-top: 4px;
+}
+#wrapper > div div a {
+  display: block;
+  margin-left: 4px;
+  color: #C72D2F;
+  text-decoration: none;
+}
+#wrapper > div div a:hover {
+  text-decoration: underline;
+}
+#wrapper > div div a span {
+  text-transform: uppercase;
+}
+#wrapper > div div.yellowBox {
+  border: 1px solid yellow;
+  margin: 0 3px;
+  padding-right: 1px;
+  background: #FFFFDD;
+}
+#wrapper > div div.yellowBox a {
+  display: inline-block;
+}

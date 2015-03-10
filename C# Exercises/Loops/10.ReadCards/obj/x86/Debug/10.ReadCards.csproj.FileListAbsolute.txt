@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\10.ReadCards\bin\Debug\10.ReadCards.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\10.ReadCards\bin\Debug\10.ReadCards.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\10.ReadCards\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\10.ReadCards\obj\x86\Debug\10.ReadCards.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Loops\10.ReadCards\obj\x86\Debug\10.ReadCards.pdb

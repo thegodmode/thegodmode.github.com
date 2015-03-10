@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\BattleGame\BattleGame.Client\bin\BattleGame.Client.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\BattleGame\BattleGame.Client\bin\BattleGame.Client.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\BattleGame\BattleGame.Client\obj\Debug\BattleGame.Client.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\BattleGame\BattleGame.Client\obj\Debug\BattleGame.Client.dll
+c:\users\bojidar\documents\visual studio 2012\Projects\BattleGame\BattleGame.Client\obj\Debug\BattleGame.Client.pdb

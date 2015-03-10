@@ -1,0 +1,8 @@
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\bin\Debug\CallHistoryTest.exe.config
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\obj\Debug\CallHistoryTest.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\bin\Debug\CallHistoryTest.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\bin\Debug\CallHistoryTest.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\bin\Debug\DefiningClasses.Common.dll
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\bin\Debug\DefiningClasses.Common.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\obj\Debug\CallHistoryTest.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\DefiningClasses.Common\CallHistoryTest\obj\Debug\CallHistoryTest.pdb

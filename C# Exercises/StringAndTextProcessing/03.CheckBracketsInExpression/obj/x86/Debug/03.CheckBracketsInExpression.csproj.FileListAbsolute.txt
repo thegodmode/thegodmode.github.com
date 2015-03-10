@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\03.CheckBracketsInExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\03.CheckBracketsInExpression\obj\x86\Debug\03.CheckBracketsInExpression.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\03.CheckBracketsInExpression\obj\x86\Debug\03.CheckBracketsInExpression.pdb

@@ -1,0 +1,5 @@
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\Bank.Common\obj\Debug\Bank.Common.csprojResolveAssemblyReference.cache
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\Bank.Common\bin\Debug\Bank.Common.dll
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\Bank.Common\bin\Debug\Bank.Common.pdb
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\Bank.Common\obj\Debug\Bank.Common.dll
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\Bank.Common\obj\Debug\Bank.Common.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\CSharpExam2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

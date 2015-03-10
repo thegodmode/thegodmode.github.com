@@ -1,0 +1,71 @@
+/*
+ * jQuery Blueberry Slider v0.4 BETA
+ * http://marktyrrell.com/labs/blueberry/
+ *
+ * Copyright (C) 2011, Mark Tyrrell <me@marktyrrell.com>
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+.blueberry { margin: 0 auto; }
+.blueberry .slides {
+	display: block;
+	position: relative;
+	overflow: hidden;
+}
+.blueberry .slides li {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.blueberry .slides li img {
+	display: block;
+	width: 100%;
+	
+}
+.blueberry .slides li.active { display: block; position: relative; }
+.blueberry .crop li img { width: auto; }
+
+.blueberry .pager {
+	bottom:0;
+	position:absolute;
+	right:5px;
+	margin:0px 20px 10px 0px;
+	
+}
+.blueberry .pager li { display: inline-block; margin-left:11px; }
+.blueberry .pager li a,
+.blueberry .pager li a span {
+	display: block;
+	
+}
+.blueberry .pager li a span {
+   
+   padding:0 7px 3px 7px;
+
+}
+.blueberry .pager li a {
+	
+    -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+	border-radius: 6px;
+}
+.blueberry .pager li a span {
+	
+	font: 3.2em Georgia, sans-serif;
+	color: #fff;
+}
+.blueberry .pager li.active a span { background: #2c2e32; }

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\07.PrintDateAndTime\bin\Debug\07.PrintDateAndTime.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\07.PrintDateAndTime\bin\Debug\07.PrintDateAndTime.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\07.PrintDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\07.PrintDateAndTime\obj\x86\Debug\07.PrintDateAndTime.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Introduction to Programming\07.PrintDateAndTime\obj\x86\Debug\07.PrintDateAndTime.pdb

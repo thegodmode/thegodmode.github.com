@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html >
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var arr = [document, window, navigator];
+            var minString = null, maxString = null;
+       
+                      
+            for (var i = 0; i < arr.length; i++)
+            {
+                for (var item in arr[i])
+                {
+                    if (minString === null && maxString === null)
+                    {
+                        minString = maxString = item;
+                        continue;
+                    }
+                    if (item.toString() < minString.toString())
+                    {
+                        minString = item;;
+                    }
+            
+                    if (item.toString() > maxString.toString())
+                    {
+                        maxString = item;
+                    }
+                }
+            
+                console.log(minString);
+                console.log(maxString);
+                maxString = minString = null;
+            }
+        </script>
+    </body>
+</html>

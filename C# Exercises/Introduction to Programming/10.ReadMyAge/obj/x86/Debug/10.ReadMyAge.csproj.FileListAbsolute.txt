@@ -1,0 +1,5 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Introduction to Programming\10.ReadMyAge\bin\Debug\10.ReadMyAge.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Introduction to Programming\10.ReadMyAge\bin\Debug\10.ReadMyAge.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Introduction to Programming\10.ReadMyAge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Introduction to Programming\10.ReadMyAge\obj\x86\Debug\10.ReadMyAge.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Introduction to Programming\10.ReadMyAge\obj\x86\Debug\10.ReadMyAge.pdb

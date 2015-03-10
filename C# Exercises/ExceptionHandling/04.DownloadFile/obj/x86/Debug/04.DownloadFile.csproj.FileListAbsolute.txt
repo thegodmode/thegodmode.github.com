@@ -1,0 +1,7 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\04.DownloadFile\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\04.DownloadFile\obj\x86\Debug\04.DownloadFile.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\ExceptionHandling\04.DownloadFile\obj\x86\Debug\04.DownloadFile.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFile\obj\x86\Debug\04.DownloadFile.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFile\obj\x86\Debug\04.DownloadFile.pdb

@@ -1,0 +1,6 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\bin\Debug\GenomeDecoder.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\bin\Debug\GenomeDecoder.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\bin\Debug\GenomeDecoder.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\obj\Debug\GenomeDecoder.csprojResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\obj\Debug\GenomeDecoder.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\GenomeDecoder\obj\Debug\GenomeDecoder.pdb

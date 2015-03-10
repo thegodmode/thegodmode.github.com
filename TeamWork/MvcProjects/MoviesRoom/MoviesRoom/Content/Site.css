@@ -1,0 +1,252 @@
+﻿body
+{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background: url("../img/background-body.png") repeat-x;
+    color: #D68686;
+}
+
+.btn-register {
+
+    margin-left:180px;
+}
+form legend {
+    color:white;
+}
+.login-submit {
+
+    margin-bottom:20px;
+}
+
+#socialLoginForm form {
+
+    margin-top:20px;
+}
+/* styles for validation helpers */
+.field-validation-error
+{
+    color: #b94a48;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+input.input-validation-error
+{
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error
+{
+    border: 0 none;
+}
+
+.validation-summary-errors
+{
+    color: #b94a48;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* styles for removing the background from form */
+.no-color
+{
+    background-color: white;
+    border-style: none;
+}
+/*Home Page*/
+.film-image
+{
+    width: 166px;
+    height: 238px;
+    float: left;
+    overflow: hidden;
+    margin-right: 50px;
+}
+
+.film-larger-image
+{
+    width: 332px;
+    height: 476px;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+#ticketCounter label
+{
+
+    font-size: 18px;
+    font-weight: bold;
+}
+.additional-info
+{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.film-description
+{
+    font-size: 14px;
+    font-style: italic;
+    display: inline;
+}
+
+.film-title-description
+{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.film-title
+{
+    width: 140px;
+    float: left
+}
+
+.film-details
+{
+    font-size: larger;
+    margin-bottom: 20px;
+    color: #9C9595;
+}
+/*.film-details p {
+width: -20px;
+}*/
+#updatater
+{
+
+    background: white;
+    margin-left: 368px;
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+#updatater h3
+{
+
+    color: black;
+}
+
+.container h2
+{
+
+    width: 320px;
+    background: none;
+    margin: 0px;
+    padding: 5px;
+    color: #f60;
+    border-radius: 8px;
+    text-align: center;
+}
+.main-page-title
+{
+
+    width:100% !important;
+    padding: 0 !important;
+    overflow:hidden;
+    text-align:left !important;
+    margin-bottom:10px !important;
+}
+.film-section
+{
+    margin-top: 30px;
+}
+
+.film-comments
+{
+    /*font-size: small;
+    font-weight: 700;*/
+    /*padding-bottom: 10px;*/
+    width: 100%;
+    max-height: 300px;
+    overflow: auto;
+    margin: auto;
+}
+
+.film-comments div
+{
+
+    padding: 5px;
+}
+
+.film-comments div:nth-child(2n)
+{
+    background: #ebebeb;
+}
+
+.comment
+{
+    font-weight: normal;
+}
+
+.italic
+{
+    font-style: italic;
+    font-size: x-small;
+    display: inline;
+    margin-left: 25px;
+    margin-right: 5px; 
+    font-weight: normal;
+}
+
+.user
+{
+    font-weight: bold;
+    font-size: smaller;
+    display: inline;
+    margin-bottom: 10px;
+    color: blue;
+}
+
+.admin
+{
+
+    color: red;
+}
+
+/*Administration*/
+
+/*.container {
+width: 1250px !important;
+}*/
+
+/*.categories-container {
+width:400px;
+margin: 0 auto;
+}*/
+
+textarea
+{
+    margin-top: 15px;
+    /*margin-left: 340px;*/
+    height: 96px;
+    width: 570px;
+    display: block;
+}
+
+.add-comment
+{
+    margin-left: 368px;
+}
+
+#submit-comment
+{
+    margin-left: 445px;
+}
+
+input[type="text"], input[type="number"]
+{
+    margin: 0;
+}
+
+.ticket div:nth-of-type(2n)
+{
+    background: #ebebeb;
+}

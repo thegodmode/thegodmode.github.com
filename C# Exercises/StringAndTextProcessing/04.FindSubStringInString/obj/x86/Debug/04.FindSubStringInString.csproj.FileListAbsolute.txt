@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\04.FindSubStringInString\bin\Debug\04.FindSubStringInString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\04.FindSubStringInString\bin\Debug\04.FindSubStringInString.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\04.FindSubStringInString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\04.FindSubStringInString\obj\x86\Debug\04.FindSubStringInString.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\StringAndTextProcessing\04.FindSubStringInString\obj\x86\Debug\04.FindSubStringInString.pdb

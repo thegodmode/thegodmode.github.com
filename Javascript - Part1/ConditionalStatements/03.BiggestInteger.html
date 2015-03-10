@@ -1,0 +1,45 @@
+﻿<!-- Write a script that finds the biggest 
+of three integers using nested if statements.
+!-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>Check Console</div>
+        <script>
+            var a = parseInt(prompt("Enter number"));
+            var b = parseInt(prompt("Enter number"));
+            var c = parseInt(prompt("Enter number"));
+            
+            if (a > b)
+            {
+                if (a > c)
+                {
+                    console.log(a);
+                }
+                else
+                    console.log(c);
+            }
+            else
+            {
+                if (a > c)
+                {
+                    console.log(b)
+                }
+                else
+                {
+                    if (b > c)
+                    {
+                        console.log(b)
+                    }
+                    else
+                    {
+                        console.log(c)
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,3 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestStringBuilder\bin\Debug\TestStringBuilder.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestStringBuilder\obj\Debug\TestStringBuilder.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\OOP3\TestStringBuilder\obj\Debug\TestStringBuilder.pdb

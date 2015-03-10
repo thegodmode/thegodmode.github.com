@@ -1,0 +1,45 @@
+﻿@model MvcExamApplication.ViewModels.Ticket.CreateTicketViewModel
+@{
+    ViewBag.Title = "Add Ticket";  
+}
+<h2>Add Ticket</h2>
+@using (Html.BeginForm("Create", "Ticket", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <fieldset class="form-horizontal">
+        <div class="control-group">
+            @Html.LabelFor(m => m.CategoryName, new { @class = "control-label" })
+            <div class="controls">
+                @Html.DropDownList("CategoryName", (IEnumerable<SelectListItem>)ViewBag.Categories)
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Title, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextBoxFor(m => m.Title)
+                @Html.ValidationMessageFor(model => model.Title, null, new { @class = "help-inline" })
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Priority, new { @class = "control-label" })
+            <div class="controls">
+                @Html.DropDownList("Priority", (IEnumerable<SelectListItem>)ViewBag.Priority)
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.ImageUrl, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextBoxFor(m => m.ImageUrl)
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Description, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextAreaFor(m => m.Description)
+            </div>
+        </div>
+        <div class="form-actions no-color">
+            <input type="submit" value="Register" class="btn" />
+        </div>
+    </fieldset>
+}

@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\bin\Debug\AirplaneDrinks.exe.config
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\bin\Debug\AirplaneDrinks.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\bin\Debug\AirplaneDrinks.pdb
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\obj\Debug\AirplaneDrinks.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\obj\Debug\AirplaneDrinks.exe
+C:\Users\Bojidar\documents\visual studio 2012\Projects\PracticalExam5Feb\AirplaneDrinks\obj\Debug\AirplaneDrinks.pdb

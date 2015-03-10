@@ -1,0 +1,8 @@
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\bin\Debug\TestShapes.exe.config
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\bin\Debug\TestShapes.exe
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\bin\Debug\TestShapes.pdb
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\bin\Debug\ClassLibrary.dll
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\bin\Debug\ClassLibrary.pdb
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\obj\Debug\TestShapes.csprojResolveAssemblyReference.cache
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\obj\Debug\TestShapes.exe
+c:\Users\Bojidar\documents\visual studio 2012\Projects\Solution1\TestShapes\obj\Debug\TestShapes.pdb

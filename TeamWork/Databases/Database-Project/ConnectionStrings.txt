@@ -1,0 +1,6 @@
+// MySQL
+server=c8399625-feb5-4750-8d1d-a203007f3196.mysql.sequelizer.com;database=dbc8399625feb547508d1da203007f3196;uid=vqaqwloofksabfea;pwd=vyzW4dzAXWXDVCU4ZfqBPq2FEc2z3Ro5yXELfZvWnFWeKeVRLXi65QueF3r2j8Gg
+
+// SQL Server
+Server=02caa815-5932-47d7-9c6f-a20300ad6ac1.sqlserver.sequelizer.com;Database=db02caa815593247d79c6fa20300ad6ac1;User ID=dkytkdngysryjsdu;Password=HEc6s4KgNNAvwXRKbRCJjrN33pjWcbL3uMWRrzqnW2fRNiZhaf5NnFLqZhddTWeM;
+

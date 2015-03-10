@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\09.CheckIsInCircleOrOutOfTrapezoid\bin\Debug\09.CheckIsInCircleOrOutOfTrapezoid.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\09.CheckIsInCircleOrOutOfTrapezoid\bin\Debug\09.CheckIsInCircleOrOutOfTrapezoid.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\09.CheckIsInCircleOrOutOfTrapezoid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\09.CheckIsInCircleOrOutOfTrapezoid\obj\x86\Debug\09.CheckIsInCircleOrOutOfTrapezoid.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\09.CheckIsInCircleOrOutOfTrapezoid\obj\x86\Debug\09.CheckIsInCircleOrOutOfTrapezoid.pdb

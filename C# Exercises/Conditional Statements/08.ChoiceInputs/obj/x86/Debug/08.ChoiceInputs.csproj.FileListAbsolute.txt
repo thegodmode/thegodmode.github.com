@@ -1,0 +1,5 @@
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\08.ChoiceInputs\bin\Debug\08.ChoiceInputs.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\08.ChoiceInputs\bin\Debug\08.ChoiceInputs.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\08.ChoiceInputs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\08.ChoiceInputs\obj\x86\Debug\08.ChoiceInputs.exe
+C:\Users\Bojidar\Documents\Visual Studio 2010\Projects\Conditional Statements\08.ChoiceInputs\obj\x86\Debug\08.ChoiceInputs.pdb

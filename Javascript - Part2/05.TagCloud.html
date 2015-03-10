@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>TagCloud</title>
+    </head>
+    <body>
+        <script>
+            // generate random number between two values
+            function generateRandomFontSize(startNumber, endNumber) {
+                return Math.floor(
+                    (Math.random() * (endNumber - startNumber + 1) + startNumber));
+            }
+            // count words from given array.Return associative array - [word] [wordCounter];
+            function countWordsInTags(tags) {
+                var words = []
+                var length = tags.length;
+                for (var i = 0; i < length; i++) {
+                    if (words[tags[i].toLowerCase()] != null) {
+                        words[tags[i].toLowerCase()]++;
+                    } else {
+                        words[tags[i].toLowerCase()] = 1;
+                    }
+                }
+                return words;
+            }
+
+            // Generate font size for each word from certain range of font values (minFontSize, maxFontSize).
+            // Return associative array - [word],[fontSize];
+            function generateFontSizeForEachWord(words, minFontSize, maxFontSize) {
+                var wordsValues = [];
+                var fontForValues = [];
+                var fontSize,i;
+                var fontSizeForEachWord = {};
+                // make array of unique wordsCounter from given words
+                for (i in words) {
+                    if (wordsValues.indexOf(words[i]) == -1) {
+                        wordsValues.push(words[i]);
+                    }
+                }
+
+                wordsValues.sort();
+                wordsValues.reverse();
+                // for each unique wordsCounter generate random font size
+                for (i = 0; i < wordsValues.length; i++) {
+                    fontSize = generateRandomFontSize(minFontSize, maxFontSize);
+                    fontForValues.push(fontSize);
+                    maxFontSize = fontSize - 7; // make the next font size smaller then the first;
+                }
+                // foreach words applay the generated fonts
+                for (var j in words) {
+                    for (i = 0; i < wordsValues.length; i++) {
+                        if (words[j] == wordsValues[i]) {
+                            fontSizeForEachWord[j] = fontForValues[i];
+                            break;
+                        }
+                    }
+                }
+
+                return fontSizeForEachWord;
+            }
+            // Return associative array - [word],[fontSize];
+            function generateTagCloud(tags, minFontSize, maxFontSize) {
+                var words = countWordsInTags(tags);
+               
+                return generateFontSizeForEachWord(words, minFontSize, maxFontSize);
+            }
+            // Print the tag cloud.Input parametur is associative array - [word],[fontSize];
+            function printTagCloud(tagCloud) {
+                var documentFragment = document.createDocumentFragment();
+                var element
+                for (var i in tagCloud) {
+                    element = document.createElement("div");
+                    element.innerHTML = i;
+                    element.style.fontSize = tagCloud[i] + "px";
+                    documentFragment.appendChild(element);
+                }
+            
+                document.body.appendChild(documentFragment);
+            }
+            
+            var tags = [
+                "cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css",
+                "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC",
+                "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript",
+                "http", "http", "CMS"
+            ]
+            var tagCloud = generateTagCloud(tags, 17, 42);
+            
+            printTagCloud(tagCloud);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <form>
+            <label for="textColor">Select text color</label>
+            <input id="textColor" type="color" /> <br/>
+            <label for="backgroundColor">Select background color</label>
+            <input id="backgroundColor" type="color"/><br/>
+            <textarea id="textarea"> Sample text </textarea>
+        </form>
+
+        <script>
+            (function() {
+                'use strict';
+
+                var textColor = document.getElementById("textColor");
+                var backgroundColor = document.getElementById("backgroundColor");
+                var textArea = document.getElementById("textarea");
+                
+                textColor.onchange = function () {
+                    textArea.style.color = textColor.value;
+                };
+            
+                backgroundColor.onchange = function () {
+                    textArea.style.background = backgroundColor.value;
+                };
+            })();
+        </script>
+    </body>
+</html>
+    

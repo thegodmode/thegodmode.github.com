@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\11.ExtractBit\bin\Debug\11.ExtractBit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\11.ExtractBit\bin\Debug\11.ExtractBit.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\11.ExtractBit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\11.ExtractBit\obj\x86\Debug\11.ExtractBit.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\Operators and Expressions\11.ExtractBit\obj\x86\Debug\11.ExtractBit.pdb

@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\03.ConvertToHexadecimal\bin\Debug\03.ConvertToHexadecimal.exe.config
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\03.ConvertToHexadecimal\bin\Debug\03.ConvertToHexadecimal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\03.ConvertToHexadecimal\bin\Debug\03.ConvertToHexadecimal.pdb
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\03.ConvertToHexadecimal\obj\Debug\03.ConvertToHexadecimal.exe
+c:\users\bojidar\documents\visual studio 2012\Projects\Numeral-Systems\03.ConvertToHexadecimal\obj\Debug\03.ConvertToHexadecimal.pdb

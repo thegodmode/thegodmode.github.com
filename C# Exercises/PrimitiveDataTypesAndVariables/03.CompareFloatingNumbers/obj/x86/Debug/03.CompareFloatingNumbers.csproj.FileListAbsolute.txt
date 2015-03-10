@@ -1,0 +1,5 @@
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.pdb
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\x86\Debug\03.CompareFloatingNumbers.exe
+c:\users\bojidar\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\x86\Debug\03.CompareFloatingNumbers.pdb

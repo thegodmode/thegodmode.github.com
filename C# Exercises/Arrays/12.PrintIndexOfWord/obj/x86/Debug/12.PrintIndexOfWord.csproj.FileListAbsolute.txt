@@ -1,0 +1,9 @@
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\12.PrintIndexOfWord\bin\Debug\12.PrintIndexOfWord.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\12.PrintIndexOfWord\bin\Debug\12.PrintIndexOfWord.pdb
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\12.PrintIndexOfWord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\12.PrintIndexOfWord\obj\x86\Debug\12.PrintIndexOfWord.exe
+C:\Users\Bojidar\documents\visual studio 2010\Projects\Arrays\12.PrintIndexOfWord\obj\x86\Debug\12.PrintIndexOfWord.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\12.PrintIndexOfWord\obj\x86\Debug\12.PrintIndexOfWord.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\12.PrintIndexOfWord\obj\x86\Debug\12.PrintIndexOfWord.pdb
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\12.PrintIndexOfWord\bin\Debug\12.PrintIndexOfWord.exe
+C:\Users\Bojidar\Documents\Visual Studio 2012\Projects\Arrays\12.PrintIndexOfWord\bin\Debug\12.PrintIndexOfWord.pdb
