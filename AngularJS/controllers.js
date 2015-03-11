@@ -1,6 +1,6 @@
 var controllers = controllers || {}
 
-controllers.MainController = function($scope, myService) {
+controllers.MainController = function($scope, $http, myService) {
 	unit();
 
 	function unit() {
@@ -10,12 +10,28 @@ controllers.MainController = function($scope, myService) {
 			goingTo: 'http://google.com'
 		}
 
+		var customers = [{
+ 			name: "Tohn",
+ 			city: 'Lovech'
+ 		}, {
+ 			name: "Aose",
+ 			city: 'Pleven'
+ 		}, {
+ 			name: "Borka",
+ 			city: 'Tihyana'
+ 		}]
+
+
 		$scope.person = person
 		$scope.message = "Hello Angular!"
-		$scope.users = myService.getCustomers();
+		myService.getCustomers().then(function(data){
+
+              $scope.users = customers;
+
+		});
 
 
-		
+
 	}
 };
 

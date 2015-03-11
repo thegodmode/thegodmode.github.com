@@ -1,21 +1,17 @@
  var services = services || {}
 
 
- services.myService =  function() {
+ services.myService = function($http) {
+ 	var url = "json.html";
  	
- 	this.getCustomers = function() {
- 		var customers = [{
- 			name: "Tohn",
- 			city: 'Lovech'
- 		}, {
- 			name: "Aose",
- 			city: 'Pleven'
- 		}, {
- 			name: "Borka",
- 			city: 'Tihyana'
- 		}];
 
- 		return customers;
+
+ 	this.getCustomers = function() {
+        
+       
+ 		return $http.get(url);
+ 		
+        
  	}
  }
 
