@@ -1,5 +1,10 @@
 var app = angular.module("app", ['ngRoute']);
 
+app.constant('URLS', {
+    
+    "Customers": "../customer/"
+    
+});
 
 app.config(function($routeProvider) {
 	$routeProvider
