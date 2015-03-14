@@ -1,0 +1,113 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
+
+a {
+	color: #FFF;
+}
+
+nav { 
+	margin: 50px 0;
+	background-color: #E64A19;
+}
+
+nav ul {
+	padding:0;
+	margin:0;
+	list-style: none;
+	position: relative;
+	}
+	
+nav ul li {
+	display:inline-block;
+	background-color: #E64A19;
+	}
+
+nav a {
+	display:block;
+	padding:0 10px;	
+	color:#FFF;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+}
+
+nav a:hover { 
+	background-color: #000000; 
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+	display: none;
+	position: absolute; 
+	top: 60px;
+}
+	
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+	display:inherit;
+}
+	
+/* Fisrt Tier Dropdown */
+nav ul ul li {
+	width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+}
+
+/* Second, Third and more Tiers	*/
+nav ul ul ul li {
+	position: relative;
+	top:-60px; 
+	left:170px;
+}
+
+	
+/* Change this in order to change the Dropdown symbol */
+li > a:after { content:  ' +'; }
+li > a:only-child:after { content: ''; }
