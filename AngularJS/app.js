@@ -21,3 +21,23 @@ app.config(function($routeProvider) {
 		});
 });
 
+/* set default header for all request */
+/*app.run([function ($http) {
+	
+	/*$http.defaults.headers.common.Authorization = 'Bearer YmVlcDpib29w' 
+
+}])*/
+
+/* delete header per request 
+$http({
+    method: 'GET',
+    url: 'http://.../',
+
+    transformRequest: function(data, headersGetter) {
+        var headers = headersGetter();
+
+        delete headers['Authorization'];
+
+        return headers;
+    }
+}); */
