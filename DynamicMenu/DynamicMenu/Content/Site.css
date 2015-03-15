@@ -51,7 +51,7 @@ a {
 }
 
 nav { 
-	margin: 50px 0;
+	
 	background-color: #E64A19;
 }
 
@@ -74,6 +74,11 @@ nav a {
 	font-size:20px;
 	line-height: 60px;
 	text-decoration:none;
+}
+
+nav a.active {
+
+    background-color:violet;
 }
 
 nav a:hover { 

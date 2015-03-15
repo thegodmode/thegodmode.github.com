@@ -14,10 +14,22 @@ namespace DynamicMenu.Controllers
     {
         //
         // GET: /Menu/
-        [OutputCache(Duration=60)]
+        //[OutputCache(Duration=60)]
         public ActionResult Create()
         {
-            var menuItems = this.Deserialize();
+            if (System.Web.HttpContext.Current.Cache["menu"] == null)
+            {
+                System.Web
+                      .HttpContext
+                      .Current
+                      .Cache
+                      .Add("menu", this.Deserialize(), null, DateTime.Now.AddMinutes(1),
+                    System.Web.Caching.Cache.NoSlidingExpiration, System.Web.Caching.CacheItemPriority.Normal, null);
+            }
+            
+            var menuItems = (IEnumerable<MenuItem>)
+            System.Web.HttpContext.Current.Cache["menu"];
+
             return PartialView("_Create", menuItems);
         }
 

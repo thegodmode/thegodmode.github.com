@@ -1,25 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ArrayOfMenuItem>
-  <MenuItem Title="Home" Link="Home/Index">
-    <Children>
-      <MenuItem Title="Home1.1" Link="Home/Index1.1"/>
-      <MenuItem Title="Home1.2" Link="Home/Index1.2">
-      <Children>
-        <MenuItem Title="Home1.2.1" Link="Home/Index1.2.1"/>
-        <MenuItem Title="Home1.2.2" Link="Home/Index1.2.2"/>
-        <MenuItem Title="Home1.2.3" Link="Home/Index1.2.3">
-          <Children>
-            <MenuItem Title="Home1.2.3.1" Link="Home/Index1.2.3.1"/>
-            <MenuItem Title="Home1.2.3.2" Link="Home/Index1.2.3.2"/>
-            <MenuItem Title="Home1.2.3.3" Link="Home/Index1.2.3.3"/>
-          </Children>
-        </MenuItem>
-        <MenuItem Title="Home1.2.4" Link="Home/Index1.2.4"/>
-      </Children>
-    </MenuItem>
-    <MenuItem Title="Home1.3" Link="Home/Index1.3"/>
-    <MenuItem Title="Home1.4" Link="Home/Index1.4"/>
-  </Children>
+  <MenuItem Title="Home" Controller="Home" Action="Index">
+    <Params>
+      <MenuParam Name="id" Value ="23"/>
+    </Params>
   </MenuItem>
-  <MenuItem Title="Home2" Link="Home/Index2"/>
+  <MenuItem Title="About" Controller="Home" Action="About"/>
+  <MenuItem Title="Contact" Controller="Home" Action="Contact"/>
 </ArrayOfMenuItem>
