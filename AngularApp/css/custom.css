@@ -7,8 +7,13 @@ html {
 }
 
 body {
-  background: #c1bdba;
+  background:url('../img/background.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   font-family: 'Titillium Web', sans-serif;
+  padding: 1% 0;
+  margin:0;
+  height:100%;
 }
 
 a {
@@ -20,7 +25,8 @@ a {
 
 #wrapper{
 
-   margin: 10% auto;
+   margin: 0 auto;
+   
 }
 
 a:hover {
@@ -29,9 +35,10 @@ a:hover {
 
 .form {
   background: rgba(19, 35, 47, 0.9);
-  padding: 40px;
+  padding: 20px 40px 40px 40px;
   max-width: 600px;
-  margin: 40px auto;
+  min-height: 620px;
+  margin: 0 auto;
   border-radius: 4px;
   box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
 }
@@ -155,6 +162,12 @@ textarea {
   margin-right: 2%;
 }
 
+#login .field-wrap {
+
+  width: 70%;
+  margin: 40px auto;
+}
+
 .top-row:after {
   content: "";
   display: table;
@@ -177,6 +190,7 @@ textarea {
   letter-spacing: .1em;
   background: #1ab188;
   color: #ffffff;
+  border-radius: 4px;
   -webkit-transition: all 0.5s ease;
           transition: all 0.5s ease;
   -webkit-appearance: none;
@@ -208,8 +222,11 @@ textarea {
   opacity: 0;
   zoom: 1;
   z-index: 1;
-
-}
+  background: rgba(19, 35, 47, 0.9);
+  color:rgba(255, 255, 255, 0.5);
+  font-size: 22px;
+ 
+} 
 
 #languagesBox > div {
   background: transparent url("http://i60.tinypic.com/mtwkzd.png") no-repeat 95% center;
