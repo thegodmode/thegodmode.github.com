@@ -93,10 +93,12 @@ label {
   pointer-events: none;
   font-size: 22px;
 }
-label .req {
+.req {
   margin: 2px;
   color: #1ab188;
 }
+
+
 
 label.active {
   -webkit-transform: translateY(-25px);
@@ -124,6 +126,7 @@ input, textarea {
   border: 1px solid #a0b3b0;
   color: #ffffff;
   border-radius: 0;
+  border-radius: 4px;
   -webkit-transition: border-color .25s ease, box-shadow .25s ease;
           transition: border-color .25s ease, box-shadow .25s ease;
 }
@@ -142,6 +145,16 @@ textarea {
   margin-bottom: 40px;
 }
 
+#signup .field-wrap:nth-of-type(even){
+  margin-right: 0;
+  float: right;
+}
+
+#signup .top-row > div {
+
+  margin-right: 2%;
+}
+
 .top-row:after {
   content: "";
   display: table;
@@ -151,9 +164,6 @@ textarea {
   float: left;
   width: 48%;
   margin-right: 4%;
-}
-.top-row > div:last-child {
-  margin: 0;
 }
 
 .button {
@@ -183,4 +193,35 @@ textarea {
 .forgot {
   margin-top: -20px;
   text-align: right;
+}
+
+#languagesBox {
+  position: relative;
+}
+
+#languagesBox > select {
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0;
+  zoom: 1;
+  z-index: 1;
+
+}
+
+#languagesBox > div {
+  background: transparent url("http://i60.tinypic.com/mtwkzd.png") no-repeat 95% center;
+  height: 40px;
+  line-height: 40px;
+  border: 1px solid #b3b3b3;
+  border-radius: 4px;
+  position: relative;
+  color:rgba(255, 255, 255, 0.5);
+  padding-left: 13px;
+  font-size: 22px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  overflow: hidden;
 }
