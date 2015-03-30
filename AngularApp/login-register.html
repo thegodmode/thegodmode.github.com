@@ -79,15 +79,15 @@
                   <input type="email"required autocomplete="off"/>
                 </div>
                 <div class="field-wrap">
-                  <div id="languagesBox">
-                    <div>Select City<span class="req">*</span></div>
-                    <select>
-                      <option>Sofia</option>
-                      <option>Lovech</option>
-                      <option>Varna</option>
-                      <option>Burgas</option>
-                    </select>
-                  </div>
+                  <select>
+                    <option value="0" data-req="true">Select</option>
+                    <option value="1">Sofia</option>
+                    <option value="2">Lovech</option>
+                     <option value="1">Varna</option>
+                    <option value="2">Gabrovo</option>
+                     <option value="1">Pleven</option>
+                    <option value="2">Lovech</option>
+                  </select>
                 </div>
                 <div class="field-wrap">
                   <label>
@@ -154,13 +154,50 @@
         
         });
         
-        function languageBox(container) {
-        
-        $(container  + " > select").on("change", function(){
-        $(this).siblings('div').text($(this).children('option:selected').text());
-        });
-        }
-        languageBox("#languagesBox");
-        </script>
-      </body>
-    </html>
+        $.fn.select2ul = function() {
+        var wrapper = "#ulWrapper";
+        var container = "#ulContainer";
+        var select = this.selector;
+        var id = this.attr("id") || "";
+        var className = this.attr("class") || "";
+        $(select).wrap("<div class='customList' data-id='" + id + "' data-class='" + className + "'>");
+          $(select).parent().prepend("<ul id='" + wrapper.substr(1) + "'><li><span></span><ul id='" + container.substr(1) + "'>");
+          $(wrapper).click(function() {
+          $(container).toggle();
+          });
+          
+          var isRequired = $(select + " option[value='0']").attr("data-req");
+
+          $(wrapper + " > li:first-child > span").append($(select + " option[value='0']").text());
+          if (isRequired === "true") {
+              $(wrapper + " > li:first-child > span").append("<span class='req'>*</span>");
+          };
+
+          $(select + " > option").each(function(i, val) {
+          
+          if (i==0) {
+               
+               return;
+          }; 
+            
+          var value = $(this).val();
+          var img = $(this).attr("data-img");$(select + " option[value='0']").html()
+          var imgTag = img == null || img == undefined || img == '' ? "" : "<img src='" + img + "' />";
+          $(container).append("<li class=" + value + ">" + imgTag + "<a>" + val.innerHTML);
+            });
+            $('body').on('click', container + " li", function () {
+            $(wrapper + " > li:first-child > span").text($(this).find("a").text());
+            var selected = $(this).attr("class");
+            $(select + " > option[value='" + selected + "']").attr("selected", "selected");
+            });
+            $(document).click(function (e) {
+            if (!$(wrapper).is(e.target) && $(wrapper).has(e.target).length === 0) {
+            $(wrapper).find(container).hide();
+            }
+            });
+            }
+
+            $("select").select2ul();
+            </script>
+          </body>
+     </html>
