@@ -12,14 +12,10 @@
           <li class="tab"><a href="#signup" tabindex="-1">Sign Up</a></li>
           <li class="tab active"><a href="#login" tabindex="-1">Log In</a></li>
         </ul>
-        
         <div class="tab-content">
-          
           <div id="login">
             <h1>Welcome to Ads!</h1>
-            
             <form action="/" method="post">
-              
               <div class="field-wrap">
                 <label>
                   Username<span class="req">*</span>
@@ -33,19 +29,13 @@
                 </label>
                 <input type="password"required autocomplete="off"/>
               </div>
-              
-              
-              <button class="button button-block"/>Log In</button>
-              
+              <button class="shiny-button button button-block"/>Log In</button>
             </form>
           </div>
           <div id="signup">
             <h1>Sign Up for Free</h1>
-            
             <form action="/" method="post">
-              
               <div class="top-row">
-                
                 <div class="field-wrap">
                   <label>
                     Username<span class="req">*</span>
@@ -70,8 +60,6 @@
                   </label>
                   <input type="password"required autocomplete="off"/>
                 </div>
-                
-                
                 <div class="field-wrap">
                   <label>
                     Email Address<span class="req">*</span>
@@ -83,9 +71,9 @@
                     <option value="0" data-req="true">Select</option>
                     <option value="1">Sofia</option>
                     <option value="2">Lovech</option>
-                     <option value="1">Varna</option>
+                    <option value="1">Varna</option>
                     <option value="2">Gabrovo</option>
-                     <option value="1">Pleven</option>
+                    <option value="1">Pleven</option>
                     <option value="2">Lovech</option>
                   </select>
                 </div>
@@ -95,24 +83,14 @@
                   </label>
                   <input type="text"required autocomplete="off"/>
                 </div>
-                
-                
-                
               </div>
-              
-              
-              
-              <button type="submit" class="button button-block"/>Get Started</button>
-              
+              <button type="submit" class="button shiny-button button-block"/>Get Started</button>
             </form>
           </div>
-          
-          
-          
           </div><!-- tab-content -->
-          
           </div> <!-- /form -->
         </div>
+
         <script type="text/javascript">
         $('.form').find('input, textarea').on('keyup blur focus', function (e) {
         
@@ -167,19 +145,20 @@
           });
           
           var isRequired = $(select + " option[value='0']").attr("data-req");
-
-          $(wrapper + " > li:first-child > span").append($(select + " option[value='0']").text());
+          $(wrapper + " > li:first-child > span")
+          .append($(select + " option[value='0']")
+          .text());
+          
           if (isRequired === "true") {
-              $(wrapper + " > li:first-child > span").append("<span class='req'>*</span>");
+          $(wrapper + " > li:first-child > span").append("<span class='req'>*</span>");
           };
-
           $(select + " > option").each(function(i, val) {
           
           if (i==0) {
-               
-               return;
-          }; 
-            
+          
+          return;
+          };
+          
           var value = $(this).val();
           var img = $(this).attr("data-img");$(select + " option[value='0']").html()
           var imgTag = img == null || img == undefined || img == '' ? "" : "<img src='" + img + "' />";
@@ -196,8 +175,7 @@
             }
             });
             }
-
             $("select").select2ul();
             </script>
           </body>
-     </html>
+        </html>

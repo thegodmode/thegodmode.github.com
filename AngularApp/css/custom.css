@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 html {
   overflow-y: scroll;
   min-height:100%;
@@ -28,6 +29,7 @@ a {
           transition: .5s ease;
 }
 
+/*login tab */
 #wrapper{
 
    margin: 6% auto;
@@ -196,9 +198,11 @@ textarea {
   background: #1ab188;
   color: #ffffff;
   border-radius: 4px;
+  cursor: pointer;
   -webkit-transition: all 0.5s ease;
           transition: all 0.5s ease;
   -webkit-appearance: none;
+
 }
 .button:hover, .button:focus {
   background: #179b77;
@@ -214,7 +218,10 @@ textarea {
   text-align: right;
 }
 
+/* end login tab */
+
 /* custom drop down By Mario Vidov */
+
 .customList {
   width: 100%;
   border: 1px solid #a0b3b0;
@@ -235,6 +242,7 @@ textarea {
   height: 100%;
   display: block;
   cursor: pointer;
+  color:rgba(255, 255, 255, 0.5);
 }
 #ulWrapper > li:first-child > span {
   display: block;
@@ -269,3 +277,61 @@ textarea {
 select {
   display: none;
 }
+
+/* end custom drop down By Mario Vidov */
+
+/* add shiny buttons */
+
+.shiny-button {
+
+  position: relative;
+  -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+  overflow: hidden;
+    
+}
+
+.shiny-button:before {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  content: "";
+  height: 20px;
+  width: 700px;
+  background: rgba(255, 255, 255, 0.3);
+  -webkit-transform: rotate(-20deg);
+      -ms-transform: rotate(-20deg);
+          transform: rotate(-20deg);
+  -webkit-animation-name: shine;
+          animation-name: shine;
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-timing-function: cubic-beizer(0.17, 0.79, 0.96, 0.25);
+          animation-timing-function: cubic-beizer(0.17, 0.79, 0.96, 0.25);
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes shine {
+  0% {
+    top: -100px;
+    left: -280px;
+  }
+  100% {
+    top: 100%;
+    left: 100%;
+  }
+}
+@keyframes shine {
+  0% {
+    top: -100px;
+    left: -280px;
+  }
+  100% {
+    top: 100%;
+    left: 100%;
+  }
+}
+
+/* end shiny buttons */
