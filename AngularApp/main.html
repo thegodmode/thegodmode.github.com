@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Ads! - Login</title>
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+  </head>
+  <body>
+    <div id="main-content">
+      <nav>
+        <div class="menu-icon"><div class="center-line"></div></div>
+        <div class="main-menu-container">
+          <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Blog</li>
+            <li>Contact</li>
+          </ul>
+        </div>
+      </nav>
+      <div class="page-shader"></div>
+    </div>
+    <script type="text/javascript">
+var menutoggle = true
+
+$(".menu-icon, .page-shader").click(function(){
+  if (menutoggle == true){
+    $(".main-menu-container").toggleClass("menu-open");
+    $(".menu-icon").toggleClass("menu-open");
+    $(".page-shader").toggleClass("menu-open");
+    menutoggle = false;
+    setTimeout(function(){
+      menutoggle = true;
+    }, 300);
+  }
+});
+
+  </script>
+  </body>
+</html>
+

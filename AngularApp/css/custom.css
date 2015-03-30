@@ -7,7 +7,9 @@
 
 html {
   overflow-y: scroll;
-  min-height:100%;
+  height:100%;
+  font-size: 62.5%;
+
 }
 
 body {
@@ -19,7 +21,7 @@ body {
   font-style: italic;
   padding: 1% 0;
   margin:0;
-  min-height:100%;
+  height:100%;
 }
 
 a {
@@ -29,12 +31,25 @@ a {
           transition: .5s ease;
 }
 
-/*login tab */
 #wrapper{
 
-   margin: 6% auto;
+   margin: 3% auto;
    
 }
+
+#main-content {
+
+  width: 76%;
+  height: 100%;
+  background: rgba(19, 35, 47, 0.9);
+  border: 1px solid red;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+
+
+/*login tab */
 
 a:hover {
   color: #179b77;
@@ -335,3 +350,139 @@ select {
 }
 
 /* end shiny buttons */
+
+/* menu */
+nav{
+  position: fixed;
+  width: inherit;
+  z-index: 9000;
+  height: 3rem;
+  background: transparent;
+}
+
+.main-menu-container{
+  width: 20rem;
+  max-width: 14%;
+  margin-left: -14%;
+  transition: margin-left .3s cubic-bezier(0.7, 1, 0.7, 1);
+  background: rgb(255,255,255);
+ }
+
+.main-menu-container ul{
+  list-style: none;
+}
+
+.main-menu-container ul li{
+  width: 100%;
+  height: 5rem;
+  line-height: 5rem;
+  padding-left: 1rem;
+  transition: background .2s ease-in-out;
+}
+
+.main-menu-container ul li:hover{
+  background: rgba(0,0,0,0.1);
+}
+
+.main-menu-container.menu-open{
+  margin-left: 0;
+}
+
+.menu-icon{
+  width: 50px;
+  height: 50px;
+  padding: 17px 15px;
+  transition: background .2s ease;
+}
+
+.menu-icon:hover{
+  background: rgba(255,255,255,0.1)
+}
+
+.center-line{
+  width: 20px;
+  height: 3px;
+  background: white;
+  margin: 6px 0;
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+  transition: all .3s cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.center-line:before{
+  display: block;
+  position: absolute;
+  top: -7px;
+  left: 0;
+  content: "";
+  width: 20px;
+  height: 3px;
+  background: rgb(255,255,255);
+  transition: all .3s cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.center-line:after{
+  display: block;
+  position: absolute;
+  top: 7px;
+  left: 0;
+  content: "";
+  width: 20px;
+  height: 3px;
+  background: rgb(255,255,255);
+  transition: all .3s cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.menu-open .center-line{
+  -webkit-animation: menu-to-arrow .3s cubic-bezier(0.7, 1, 0.7, 1) backwards;
+  animation: menu-to-arrow .3s cubic-bezier(0.7, 1, 0.7, 1) backwards;
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.menu-open .center-line:before{
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  left: 8px;
+  top: -4px;
+  width: 14px;
+}
+
+.menu-open .center-line:after{
+  -webkit-transform: rotate(45deg);
+  transform: rotate(-45deg);
+  left: 8px;
+  top: 4px;
+  width: 14px;
+}
+
+@-webkit-keyframes menu-to-arrow{
+  0%   {-webkit-transform: rotate(0deg);}
+  100% {-webkit-transform: rotate(180deg);}
+}
+
+@keyframes menu-to-arrow{
+  0%   {transform: rotate(0deg);}
+  100% {transform: rotate(180deg);}
+}
+
+.page-shader{
+  background: rgba(0,0,0,0);
+  width: 100%;
+  height: 5rem;
+  position: fixed;
+  transition: background .3s ease, height .1ms ease .3s;
+}
+
+.page-shader.menu-open{
+  background: rgba(0,0,0,0.5);
+  height: 100%;
+  transition: background .3s ease, height .1ms ease;
+}
+
+@media screen and (max-width: 768px){
+  .menu-icon:hover{
+    background: rgba(255,255,255,0);
+  }
+}
+/* end menu */
