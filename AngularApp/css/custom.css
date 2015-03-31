@@ -353,11 +353,12 @@ select {
 
 /* menu */
 nav{
-  position: fixed;
-  width: inherit;
-  z-index: 9000;
-  height: 3rem;
+  width: 100%;
+  height: 5rem;
   background: transparent;
+  position: absolute;
+  z-index: 99999;
+
 }
 
 .main-menu-container{
@@ -366,10 +367,16 @@ nav{
   margin-left: -14%;
   transition: margin-left .3s cubic-bezier(0.7, 1, 0.7, 1);
   background: rgb(255,255,255);
+  border-radius: 0 4px 4px 0;
+  font-weight: normal;
  }
 
 .main-menu-container ul{
   list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+
 }
 
 .main-menu-container ul li{
@@ -382,10 +389,13 @@ nav{
 
 .main-menu-container ul li:hover{
   background: rgba(0,0,0,0.1);
+  cursor: pointer;
 }
 
 .main-menu-container.menu-open{
   margin-left: 0;
+  border-radius: 0 4px 4px 0;
+  font-weight: normal;
 }
 
 .menu-icon{
@@ -470,7 +480,6 @@ nav{
   background: rgba(0,0,0,0);
   width: 100%;
   height: 5rem;
-  position: fixed;
   transition: background .3s ease, height .1ms ease .3s;
 }
 
