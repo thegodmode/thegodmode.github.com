@@ -39,13 +39,14 @@ a {
 
 #main-content {
 
-  width: 76%;
+  width: 52%;
   height: 100%;
   background: rgba(19, 35, 47, 0.9);
-  border: 1px solid red;
   margin: 0 auto;
   position: relative;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border-radius: 4px;
 }
 
 
@@ -495,3 +496,213 @@ nav{
   }
 }
 /* end menu */
+
+/* article */
+#main-content article {
+
+    width: 600px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 4px;
+    margin-bottom: 40px;
+
+}
+#main-content header h2 {
+   
+   margin: 12px 0 0 12px;
+   padding: 0;
+   text-align: center;
+   font-size: 33px;
+   overflow: hidden;
+   display: inline-block;
+   max-width: 80%;
+
+}
+
+article video {
+
+  width: 100%;
+  height: 100%;
+}
+
+#main-content footer p {
+  margin: 0;
+  padding: 5px 10px;
+  font-size: 22px;
+  float: right;
+  font-weight: bold;
+}
+
+#main-content article:after{
+
+   content: ""; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+.author {
+
+  color:#7487b2;
+}
+
+/* end article */
+
+/* like icon */
+button#heart {
+  background: transparent;
+  border: 0;
+  float: right;
+
+}
+
+button#heart:focus {outline:0;}
+
+button#heart span {
+  font-size: 70px;
+  font-weight: normal;
+  color: #cccccc;
+  position: relative;
+}
+button#heart span span {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  font-size: 70px;
+}
+button#heart.faved span {
+  -webkit-animation: heart 0.5s;
+  animation: heart 0.5s;
+  color: #e86c6c;
+}
+button#heart.faved span span {
+  z-index: 1000;
+  -webkit-animation: heartHollow 0.5s;
+  animation: heartHollow 0.5s;
+}
+.heart 0% {
+  transform: scale(1);
+}
+.heart 25% {
+  transform: scale(1.2);
+  color: #e86c6c;
+}
+.heart 50% {
+  transform: scale(1.4);
+  color: #e86c6c;
+}
+.heart 100% {
+  transform: scale(1);
+  color: #e86c6c;
+}
+.heartHollow 0% {
+  transform: scale(1);
+  opacity: 1;
+}
+.heartHollow 25% {
+  transform: scale(1.4);
+  opacity: 0.5;
+}
+.heartHollow 50% {
+  transform: scale(1.6);
+  opacity: 0.25;
+}
+.heartHollow 100% {
+  transform: scale(2);
+  opacity: 0;
+  display: none;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.2);
+    color: #e86c6c;
+  }
+  50% {
+    transform: scale(1.4);
+    color: #e86c6c;
+  }
+  100% {
+    transform: scale(1);
+    color: #e86c6c;
+  }
+}
+@-webkit-keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.2);
+    color: #e86c6c;
+  }
+  50% {
+    transform: scale(1.4);
+    color: #e86c6c;
+  }
+  100% {
+    transform: scale(1);
+    color: #e86c6c;
+  }
+}
+@keyframes heartHollow {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  25% {
+    transform: scale(1.4);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.6);
+    opacity: 0.25;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+    display: none;
+  }
+}
+@-webkit-keyframes heartHollow {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  25% {
+    transform: scale(1.4);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.6);
+    opacity: 0.25;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+    display: none;
+  }
+}
+/* end like icon */
+
+#loadMore {
+    padding: 10px;
+    text-align: center;
+    background-color: #33739E;
+    color: #fff;
+    box-shadow: 0 1px 1px #ccc;
+    width: 300px;
+    display: block;
+    margin: 30px auto;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+#loadMore:hover{
+  
+
+  background: #025fff;
+
+}
