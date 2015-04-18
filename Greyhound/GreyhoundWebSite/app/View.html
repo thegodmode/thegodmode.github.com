@@ -1,0 +1,37 @@
+﻿<table class="table custom">
+    <thead>
+        <tr>
+            <th>Race Event</th>
+            <th>Entry</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="raceEvent in raceEvents">
+            <td>
+                RaceEvent ID={{raceEvent.ID}}<br/>
+                EventNumber={{raceEvent.EventNumber}}<br />
+                EventTime={{raceEvent.EventTime}}<br />
+                FinishTime={{raceEvent.FinishTime}}<br />
+                Distance={{raceEvent.Distance}}<br />
+                Name={{raceEvent.Name}}<br />
+            </td>
+            <td>
+                <table>
+                    <tr ng-repeat="entry in raceEvent.Entries | orderBy:predicate:reverse">
+                        <td>
+                            ID={{entry.ID}}
+                            Name={{entry.Name}}
+                            OddsDecimal={{entry.OddsDecimal}}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button ng-click="predicate = 'Name';reverse = !reverse">Order By Name</button>
+                            <button ng-click="predicate = 'OddsDecimal';reverse = !reverse">Order by Odds</button>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

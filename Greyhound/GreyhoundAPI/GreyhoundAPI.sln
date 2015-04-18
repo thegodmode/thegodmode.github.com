@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyhoundAPI", "GreyhoundAPI\GreyhoundAPI.csproj", "{72B415DF-99B4-4A79-ACC9-194384D7C883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greyhound.Data", "Greyhound.Data\Greyhound.Data.csproj", "{F954FDFC-6D3D-4212-B759-24E1E3E7EBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greyhound.Model", "Greyhound.Model\Greyhound.Model.csproj", "{892B606F-CF7B-4451-95DC-8016B900FB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greyhound.Common", "Greyhound.Common\Greyhound.Common.csproj", "{11E6475F-0B82-43B3-9F8E-4E5408F2EAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B415DF-99B4-4A79-ACC9-194384D7C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B415DF-99B4-4A79-ACC9-194384D7C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B415DF-99B4-4A79-ACC9-194384D7C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B415DF-99B4-4A79-ACC9-194384D7C883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F954FDFC-6D3D-4212-B759-24E1E3E7EBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F954FDFC-6D3D-4212-B759-24E1E3E7EBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F954FDFC-6D3D-4212-B759-24E1E3E7EBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F954FDFC-6D3D-4212-B759-24E1E3E7EBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892B606F-CF7B-4451-95DC-8016B900FB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892B606F-CF7B-4451-95DC-8016B900FB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892B606F-CF7B-4451-95DC-8016B900FB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892B606F-CF7B-4451-95DC-8016B900FB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E6475F-0B82-43B3-9F8E-4E5408F2EAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E6475F-0B82-43B3-9F8E-4E5408F2EAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E6475F-0B82-43B3-9F8E-4E5408F2EAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E6475F-0B82-43B3-9F8E-4E5408F2EAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

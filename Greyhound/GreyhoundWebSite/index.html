@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title>Greyhound</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.0.js"></script>
+    <script src="http://localhost:42300/signalr/hubs"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="app/app.js"></script>
+    <script src="app/service.js"></script>
+    <script src="app/controller.js"></script>
+    
+    <style>
+        .custom {
+            margin: 50px auto;
+            width: 600px;
+        }
+
+        table tr {
+            border-bottom: 2px solid #ddd;
+        }
+
+        table table tr {
+            border-bottom: 2px solid black;
+        }
+
+            table table tr td {
+                padding: 10px;
+            }
+
+        button {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div ng-view></div>
+
+</body>
+</html>
