@@ -4,6 +4,7 @@
     <title>Welcome to Ads! - Login</title>
     <link rel="stylesheet" type="text/css" href="css/custom.css">
     <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
   </head>
   <body>
     <div id="wrapper">
@@ -15,12 +16,12 @@
         <div class="tab-content">
           <div id="login">
             <h1>Welcome to Ads!</h1>
-            <form action="/" method="post">
+            <form action="/" method="post" id="login">
               <div class="field-wrap">
-                <label>
+                <label for="loginusername">
                   Username<span class="req">*</span>
                 </label>
-                <input type="text"required autocomplete="off"/>
+                <input type="text" id="loginusername" name="loginusername" autocomplete="off"/>
               </div>
               
               <div class="field-wrap">
@@ -34,7 +35,7 @@
           </div>
           <div id="signup">
             <h1>Sign Up for Free</h1>
-            <form action="/" method="post">
+            <form action="/" method="post" id="signup">
               <div class="top-row">
                 <div class="field-wrap">
                   <label>
@@ -92,6 +93,31 @@
         </div>
 
         <script type="text/javascript">
+           
+        $("#login").validate({
+
+           rules: {
+
+               loginusername:
+                   {
+                     required:true,
+                     minlength: 2
+                   }
+           },
+           messages: {
+
+                 loginusername: {
+
+                      required: "This field is required",
+                      minlength: "Your username must consist at least 2 characters"
+                 }
+           }
+
+        });
+
+
+
+
         $('.form').find('input, textarea').on('keyup blur focus', function (e) {
         
         var $this = $(this),
