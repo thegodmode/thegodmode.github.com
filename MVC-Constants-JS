@@ -1,0 +1,10 @@
+    public ActionResult Constants()
+        {
+            var constants = typeof(Constants)
+                .GetFields()
+                .ToDictionary(x => x.Name, x => x.GetValue(null));
+            var json = new JavaScriptSerializer().Serialize(constants);
+            return JavaScript("var constants = " + json + ";");
+        }
+        
+  MVC Convert constants to javascript file    
